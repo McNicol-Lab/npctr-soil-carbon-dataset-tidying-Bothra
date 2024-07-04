@@ -1,0 +1,778 @@
+﻿Row,SOURCE,ID,ORDER,LAT ,LON,LATLON_Q,Elevation,Slope,Aspect,HORIZON,DEPTH2,DEPTH1,DEPTH,MINERAL_D,FF_D,TOTAL_D,BULK DENSITY_MEAS,BULK DENSITY_SHAW,BULK DENSITY,CF,CCONC,CCONTENT,TOTAL_C,CCONTENT_1M,TOTAL_C_1M,,Canadian Order,HORIZON
+1,NRCS (Michaelson et al. 2013),95AK110001,"Loamy, dysic Terric Cryohemist",58.298,-134.547,HIGH,NA,NA,NA,Oe1,0,16,16,38,102,140,0.00,0.12,0.12,0,50.09,9617,65023,9617,597.0,155.97,Terric Mesisol,Om1
+2,NRCS (Michaelson et al. 2013),95AK110001,"Loamy, dysic Terric Cryohemist",58.298,-134.547,HIGH,NA,NA,NA,Oe2,16,33,17,,,,0.00,0.12,0.12,0,50.60,10322,,10322,,,Terric Mesisol,Om2
+3,NRCS (Michaelson et al. 2013),95AK110001,"Loamy, dysic Terric Cryohemist",58.298,-134.547,HIGH,NA,NA,NA,Oe3,33,60,27,,,,0.00,0.12,0.12,0,56.11,18180,,18180,,,Terric Mesisol,Om3
+4,NRCS (Michaelson et al. 2013),95AK110001,"Loamy, dysic Terric Cryohemist",58.298,-134.547,HIGH,NA,NA,NA,Oe4 / Oe5,60,84,24,,,,0.00,0.12,0.12,0,56.39,16240,,16240,,,Terric Mesisol,Om4 / Om5
+5,NRCS (Michaelson et al. 2013),95AK110001,"Loamy, dysic Terric Cryohemist",58.298,-134.547,HIGH,NA,NA,NA,Oe6,84,102,18,,,,0.00,0.12,0.12,0,27.82,6009,,5341,,,Terric Mesisol,Om6
+6,NRCS (Michaelson et al. 2013),95AK110001,"Loamy, dysic Terric Cryohemist",58.298,-134.547,HIGH,NA,NA,NA,2Bgb,102,115,13,,,,0.99,1.71,0.99,13,3.21,3594,,0,,,Terric Mesisol,2Bgb
+7,NRCS (Michaelson et al. 2013),95AK110001,"Loamy, dysic Terric Cryohemist",58.298,-134.547,HIGH,NA,NA,NA,2Cg,115,140,25,,,,0.00,1.74,1.74,54,0.53,1061,,0,,,Terric Mesisol,2Cg
+8,NRCS (Michaelson et al. 2013),95AK110002,"Loamy, dysic Terric Cryohemist",58.297,-134.548,HIGH,NA,NA,NA,Oe1,0,10,10,99,51,150,0.00,0.12,0.12,0,43.20,5184,23626,5184,223.0,66.90,Terric Mesisol,Om1
+9,NRCS (Michaelson et al. 2013),95AK110002,"Loamy, dysic Terric Cryohemist",58.297,-134.548,HIGH,NA,NA,NA,Oe2,10,23,13,,,,0.00,0.12,0.12,0,27.33,4263,,4263,,,Terric Mesisol,Om2
+10,NRCS (Michaelson et al. 2013),95AK110002,"Loamy, dysic Terric Cryohemist",58.297,-134.548,HIGH,NA,NA,NA,Oe3,23,31,8,,,,0.00,0.12,0.12,0,29.84,2865,,2865,,,Terric Mesisol,Om3
+11,NRCS (Michaelson et al. 2013),95AK110002,"Loamy, dysic Terric Cryohemist",58.297,-134.548,HIGH,NA,NA,NA,Oe4,31,51,20,,,,0.00,0.12,0.12,0,12.71,3050,,3050,,,Terric Mesisol,Om4
+12,NRCS (Michaelson et al. 2013),95AK110002,"Loamy, dysic Terric Cryohemist",58.297,-134.548,HIGH,NA,NA,NA,2C,51,75,24,,,,1.38,1.74,1.38,38,2.73,5606,,5606,,,Terric Mesisol,2C
+13,NRCS (Michaelson et al. 2013),95AK110002,"Loamy, dysic Terric Cryohemist",58.297,-134.548,HIGH,NA,NA,NA,2Cg,75,110,35,,,,1.75,1.74,1.75,72,1.09,1869,,1335,,,Terric Mesisol,2Cg
+14,NRCS (Michaelson et al. 2013),95AK110002,"Loamy, dysic Terric Cryohemist",58.297,-134.548,HIGH,NA,NA,NA,3C,120,150,30,,,,1.99,1.74,1.99,40,0.22,788,,0,,,Terric Mesisol,3C
+15,NRCS (Michaelson et al. 2013),95AK110003,"Loamy-skeletal, mixed, isofrigid Typic Cryaquod",58.297,-134.550,HIGH,NA,NA,NA,Oi,0,16,16,84,16,100,0.00,0.08,0.08,0,46.21,5915,13162,5915,131.6,51.43,Humic Podzol,Of
+16,NRCS (Michaelson et al. 2013),95AK110003,"Loamy-skeletal, mixed, isofrigid Typic Cryaquod",58.297,-134.550,HIGH,NA,NA,NA,Bs,16,27,11,,,,1.46,1.17,1.46,48,2.12,1770,,1770,,,Humic Podzol,bf
+17,NRCS (Michaelson et al. 2013),95AK110003,"Loamy-skeletal, mixed, isofrigid Typic Cryaquod",58.297,-134.550,HIGH,NA,NA,NA,Bm,27,42,15,,,,1.37,1.71,1.37,25,2.24,3452,,3452,,,Humic Podzol,Bm
+18,NRCS (Michaelson et al. 2013),95AK110003,"Loamy-skeletal, mixed, isofrigid Typic Cryaquod",58.297,-134.550,HIGH,NA,NA,NA,2C1,42,59,17,,,,1.67,1.74,1.67,47,0.76,1144,,1144,,,Humic Podzol,2C1
+19,NRCS (Michaelson et al. 2013),95AK110003,"Loamy-skeletal, mixed, isofrigid Typic Cryaquod",58.297,-134.550,HIGH,NA,NA,NA,2C2,59,71,12,,,,1.82,1.74,1.82,53,0.33,339,,339,,,Humic Podzol,2C2
+20,NRCS (Michaelson et al. 2013),95AK110003,"Loamy-skeletal, mixed, isofrigid Typic Cryaquod",58.297,-134.550,HIGH,NA,NA,NA,2Cg,71,100,29,,,,2.00,1.74,2,45,0.17,542,,542,,,Humic Podzol,2Cg
+21,NRCS (Michaelson et al. 2013),95AK110004,"Coarse-loamy, mixed, isofrigid Typic Haplocryod",58.297,-134.551,HIGH,NA,NA,NA,Oe,0,7,7,65,7,72,0.00,0.12,0.12,0,44.75,3759,22608,3759,226.1,36.72,Humic Podzol,Om
+22,NRCS (Michaelson et al. 2013),95AK110004,"Coarse-loamy, mixed, isofrigid Typic Haplocryod",58.297,-134.551,HIGH,NA,NA,NA,E,7,11,4,,,,0.00,0.93,0.93,12,11.05,3617,,3617,,,Humic Podzol,E
+23,NRCS (Michaelson et al. 2013),95AK110004,"Coarse-loamy, mixed, isofrigid Typic Haplocryod",58.297,-134.551,HIGH,NA,NA,NA,Bh,11,15,4,,,,0.00,0.86,0.86,4,12.02,3969,,3969,,,Humic Podzol,Bh
+24,NRCS (Michaelson et al. 2013),95AK110004,"Coarse-loamy, mixed, isofrigid Typic Haplocryod",58.297,-134.551,HIGH,NA,NA,NA,Bs1,15,20,5,,,,0.68,1.17,0.68,6,5.28,1687,,1687,,,Humic Podzol,bf1
+25,NRCS (Michaelson et al. 2013),95AK110004,"Coarse-loamy, mixed, isofrigid Typic Haplocryod",58.297,-134.551,HIGH,NA,NA,NA,Bs2,20,39,19,,,,1.54,1.17,1.54,23,3.62,8156,,8156,,,Humic Podzol,bf2
+26,NRCS (Michaelson et al. 2013),95AK110004,"Coarse-loamy, mixed, isofrigid Typic Haplocryod",58.297,-134.551,HIGH,NA,NA,NA,C,39,72,33,,,,1.92,1.74,1.92,44,0.40,1419,,1419,,,Humic Podzol,C
+27,NRCS (Michaelson et al. 2013),90AK110001,"Loamy-skeletal, mixed Typic Cryorthod",58.396,-134.562,HIGH,NA,NA,NA,Oi,7,4,3,93,7,100,0.00,0.08,0.08,0,51.71,1241,7827,1241,78.3,24.58,Humo-Ferric Podzol,Of
+28,NRCS (Michaelson et al. 2013),90AK110001,"Loamy-skeletal, mixed Typic Cryorthod",58.396,-134.562,HIGH,NA,NA,NA,Oe,4,2,2,,,,0.00,0.12,0.12,0,51.46,1235,,1235,,,Humo-Ferric Podzol,Om
+29,NRCS (Michaelson et al. 2013),90AK110001,"Loamy-skeletal, mixed Typic Cryorthod",58.396,-134.562,HIGH,NA,NA,NA,Oa,2,0,2,,,,0.00,0.15,0.15,0,51.44,1543,,1543,,,Humo-Ferric Podzol,Oh
+30,NRCS (Michaelson et al. 2013),90AK110001,"Loamy-skeletal, mixed Typic Cryorthod",58.396,-134.562,HIGH,NA,NA,NA,E,0,4,4,,,,0.00,1.31,1.31,23,5.76,2319,,2319,,,Humo-Ferric Podzol,E
+31,NRCS (Michaelson et al. 2013),90AK110001,"Loamy-skeletal, mixed Typic Cryorthod",58.396,-134.562,HIGH,NA,NA,NA,Bhs,4,14,10,,,,1.25,1.19,1.25,67,1.38,562,,562,,,Humo-Ferric Podzol,Bhf
+32,NRCS (Michaelson et al. 2013),90AK110001,"Loamy-skeletal, mixed Typic Cryorthod",58.396,-134.562,HIGH,NA,NA,NA,BC,14,21,7,,,,1.64,1.19,1.64,59,0.46,215,,215,,,Humo-Ferric Podzol,BC
+33,NRCS (Michaelson et al. 2013),90AK110001,"Loamy-skeletal, mixed Typic Cryorthod",58.396,-134.562,HIGH,NA,NA,NA,C1,21,33,12,,,,0.00,1.91,1.91,61,0.29,262,,262,,,Humo-Ferric Podzol,C1
+34,NRCS (Michaelson et al. 2013),90AK110001,"Loamy-skeletal, mixed Typic Cryorthod",58.396,-134.562,HIGH,NA,NA,NA,C2,33,93,60,,,,0.00,1.91,1.91,67,0.12,451,,451,,,Humo-Ferric Podzol,C2
+35,NRCS (Michaelson et al. 2013),90AK110006,"Sandy or sandy-skeletal, mixed Typic Cryorthent",58.411,-134.557,HIGH,NA,NA,NA,Oi,10,9,1,90,10,100,0.00,0.08,0.08,0,46.14,369,5408,369,54.1,16.19,Humic Regosol,Of
+36,NRCS (Michaelson et al. 2013),90AK110006,"Sandy or sandy-skeletal, mixed Typic Cryorthent",58.411,-134.557,HIGH,NA,NA,NA,Oe,9,5,4,,,,0.00,0.12,0.12,0,35.07,1684,,1684,,,Humic Regosol,Om
+37,NRCS (Michaelson et al. 2013),90AK110006,"Sandy or sandy-skeletal, mixed Typic Cryorthent",58.411,-134.557,HIGH,NA,NA,NA,Oa,5,0,5,,,,0.00,0.15,0.15,2,23.74,1748,,1748,,,Humic Regosol,Oh
+38,NRCS (Michaelson et al. 2013),90AK110006,"Sandy or sandy-skeletal, mixed Typic Cryorthent",58.411,-134.557,HIGH,NA,NA,NA,E,0,4,4,,,,0.00,0.11,0.11,25,1.68,56,,56,,,Humic Regosol,E
+39,NRCS (Michaelson et al. 2013),90AK110006,"Sandy or sandy-skeletal, mixed Typic Cryorthent",58.411,-134.557,HIGH,NA,NA,NA,Bs,4,18,14,,,,0.00,1.1,1.1,24,0.36,423,,423,,,Humic Regosol,bf
+40,NRCS (Michaelson et al. 2013),90AK110006,"Sandy or sandy-skeletal, mixed Typic Cryorthent",58.411,-134.557,HIGH,NA,NA,NA,C1,18,56,38,,,,0.00,1.1,1.1,24,0.20,631,,631,,,Humic Regosol,C1
+41,NRCS (Michaelson et al. 2013),90AK110006,"Sandy or sandy-skeletal, mixed Typic Cryorthent",58.411,-134.557,HIGH,NA,NA,NA,C2,56,90,34,,,,0.00,1.1,1.1,22,0.17,497,,497,,,Humic Regosol,C2
+42,NRCS (Michaelson et al. 2013),90AK110003,"Mixed, frigid Typic Udipsamment",58.422,-134.541,HIGH,NA,NA,NA,A,0,5,5,100,0,100,0.00,0.97,0.97,18,0.04,16,201,16,2.0,0.39,Humic Regosol,A
+43,NRCS (Michaelson et al. 2013),90AK110003,"Mixed, frigid Typic Udipsamment",58.422,-134.541,HIGH,NA,NA,NA,C1,5,22,17,,,,0.00,1.1,1.1,8,0.03,45,,45,,,Humic Regosol,C1
+44,NRCS (Michaelson et al. 2013),90AK110003,"Mixed, frigid Typic Udipsamment",58.422,-134.541,HIGH,NA,NA,NA,C2,22,100,78,,,,0.00,1.1,1.1,6,0.02,140,,140,,,Humic Regosol,C2
+45,NRCS (Michaelson et al. 2013),90AK110004,Mixed Typic Cryopsamment,58.418,-134.552,HIGH,NA,NA,NA,Oi,5,4,1,95,5,100,0.00,0.08,0.08,0,36.72,294,1641,294,16.4,6.34,Humic Regosol,Of
+46,NRCS (Michaelson et al. 2013),90AK110004,Mixed Typic Cryopsamment,58.418,-134.552,HIGH,NA,NA,NA,Oe,4,0,4,,,,0.00,0.12,0.12,0,17.01,816,,816,,,Humic Regosol,Om
+47,NRCS (Michaelson et al. 2013),90AK110004,Mixed Typic Cryopsamment,58.418,-134.552,HIGH,NA,NA,NA,A,0,12,12,,,,0.00,0.97,0.97,30,0.23,188,,188,,,Humic Regosol,A
+48,NRCS (Michaelson et al. 2013),90AK110004,Mixed Typic Cryopsamment,58.418,-134.552,HIGH,NA,NA,NA,C1,12,48,36,,,,0.00,1.1,1.1,35,0.07,179,,179,,,Humic Regosol,C1
+49,NRCS (Michaelson et al. 2013),90AK110004,Mixed Typic Cryopsamment,58.418,-134.552,HIGH,NA,NA,NA,C2,48,95,47,,,,0.00,1.1,1.1,37,0.05,164,,164,,,Humic Regosol,C2
+50,NRCS (Michaelson et al. 2013),90AK110009,"Loamy-skeletal, mixed Typic Cryorthod",58.419,-134.601,HIGH,NA,NA,NA,Oi,10,8,2,9,10,19,0.00,0.08,0.08,0,48.79,781,6607,781,66.1,19.14,Humo-Ferric Podzol,Of
+51,NRCS (Michaelson et al. 2013),90AK110009,"Loamy-skeletal, mixed Typic Cryorthod",58.419,-134.601,HIGH,NA,NA,NA,Oe,8,4,4,,,,0.00,0.12,0.12,0,48.23,2315,,2315,,,Humo-Ferric Podzol,Om
+52,NRCS (Michaelson et al. 2013),90AK110009,"Loamy-skeletal, mixed Typic Cryorthod",58.419,-134.601,HIGH,NA,NA,NA,Oa,4,0,4,,,,0.00,0.15,0.15,0,45.19,2711,,2711,,,Humo-Ferric Podzol,Oh
+53,NRCS (Michaelson et al. 2013),90AK110009,"Loamy-skeletal, mixed Typic Cryorthod",58.419,-134.601,HIGH,NA,NA,NA,Bs,3,9,6,,,,0.00,1.46,1.46,12,1.04,800,,800,,,Humo-Ferric Podzol,bf
+54,NRCS (Michaelson et al. 2013),90AK110010,Medial-skeletal Andic Cryorthod,58.419,-134.601,HIGH,NA,NA,NA,Oi,18,17,1,42,18,60,0.00,0.08,0.08,0,57.86,463,20007,463,200.1,59.03,Humo-Ferric Podzol,Of
+55,NRCS (Michaelson et al. 2013),90AK110010,Medial-skeletal Andic Cryorthod,58.419,-134.601,HIGH,NA,NA,NA,Oe,17,10,7,,,,0.00,0.12,0.12,0,55.19,4636,,4636,,,Humo-Ferric Podzol,Om
+56,NRCS (Michaelson et al. 2013),90AK110010,Medial-skeletal Andic Cryorthod,58.419,-134.601,HIGH,NA,NA,NA,Oa,10,0,10,,,,0.00,0.15,0.15,0,41.76,6264,,6264,,,Humo-Ferric Podzol,Oh
+57,NRCS (Michaelson et al. 2013),90AK110010,Medial-skeletal Andic Cryorthod,58.419,-134.601,HIGH,NA,NA,NA,E,0,2,2,,,,0.99,1.31,0.99,25,1.04,155,,155,,,Humo-Ferric Podzol,E
+58,NRCS (Michaelson et al. 2013),90AK110010,Medial-skeletal Andic Cryorthod,58.419,-134.601,HIGH,NA,NA,NA,Bh,2,9,7,,,,0.00,1.19,1.19,20,4.07,2727,,2727,,,Humo-Ferric Podzol,Bh
+59,NRCS (Michaelson et al. 2013),90AK110010,Medial-skeletal Andic Cryorthod,58.419,-134.601,HIGH,NA,NA,NA,2Bs,9,24,15,,,,0.00,1.19,1.19,21,2.30,3246,,3246,,,Humo-Ferric Podzol,2bf
+60,NRCS (Michaelson et al. 2013),90AK110010,Medial-skeletal Andic Cryorthod,58.419,-134.601,HIGH,NA,NA,NA,2C,24,42,18,,,,1.11,1.91,1.11,41,2.12,2516,,2516,,,Humo-Ferric Podzol,2C
+61,NRCS (Michaelson et al. 2013),90AK110008,"Loamy-skeletal, mixed Typic Cryorthod",58.489,-134.549,HIGH,NA,NA,NA,Oi,10,8,2,100,10,110,0.00,0.08,0.08,0,57.07,913,9418,913,94.2,33.02,Humo-Ferric Podzol,Of
+62,NRCS (Michaelson et al. 2013),90AK110008,"Loamy-skeletal, mixed Typic Cryorthod",58.489,-134.549,HIGH,NA,NA,NA,Oe,8,4,4,,,,0.00,0.12,0.12,0,57.49,2759,,2759,,,Humo-Ferric Podzol,Om
+63,NRCS (Michaelson et al. 2013),90AK110008,"Loamy-skeletal, mixed Typic Cryorthod",58.489,-134.549,HIGH,NA,NA,NA,Oa,4,0,4,,,,0.00,0.15,0.15,0,47.48,2849,,2849,,,Humo-Ferric Podzol,Oh
+64,NRCS (Michaelson et al. 2013),90AK110008,"Loamy-skeletal, mixed Typic Cryorthod",58.489,-134.549,HIGH,NA,NA,NA,E,0,3,3,,,,1.55,1.31,1.55,19,2.10,788,,788,,,Humo-Ferric Podzol,E
+65,NRCS (Michaelson et al. 2013),90AK110008,"Loamy-skeletal, mixed Typic Cryorthod",58.489,-134.549,HIGH,NA,NA,NA,Bs,3,9,6,,,,1.63,1.46,1.63,17,0.60,487,,487,,,Humo-Ferric Podzol,bf
+66,NRCS (Michaelson et al. 2013),90AK110008,"Loamy-skeletal, mixed Typic Cryorthod",58.489,-134.549,HIGH,NA,NA,NA,C1,9,42,33,,,,0.00,1.91,1.91,24,0.24,1150,,1150,,,Humo-Ferric Podzol,C1
+67,NRCS (Michaelson et al. 2013),90AK110008,"Loamy-skeletal, mixed Typic Cryorthod",58.489,-134.549,HIGH,NA,NA,NA,C2,42,100,58,,,,0.00,1.91,1.91,39,0.07,472,,472,,,Humo-Ferric Podzol,C2
+68,NRCS (Michaelson et al. 2013),"Forest Point, SMU8135d","Medial, amorphic, ortstein Duric Cryaquod",57.052,-135.731,HIGH,NA,NA,NA,O,0,20,20,33,20,53,0.00,0.11,0.11,,37.79,8314,33852,8314,338.5,85.31,Humic Podzol,O
+69,NRCS (Michaelson et al. 2013),"Forest Point, SMU8135d","Medial, amorphic, ortstein Duric Cryaquod",57.052,-135.731,HIGH,NA,NA,NA,Oe,20,28,8,,,,0.00,0.12,0.12,0,33.45,3211,,3211,,,Humic Podzol,A
+70,NRCS (Michaelson et al. 2013),"Forest Point, SMU8135d","Medial, amorphic, ortstein Duric Cryaquod",57.052,-135.731,HIGH,NA,NA,NA,E,28,33,5,,,,0.00,0.93,0.93,4,8.64,3866,,3866,,,Humic Podzol,E
+71,NRCS (Michaelson et al. 2013),"Forest Point, SMU8135d","Medial, amorphic, ortstein Duric Cryaquod",57.052,-135.731,HIGH,NA,NA,NA,Bhs,33,43,10,,,,0.00,0.86,0.86,4,10.58,8733,,8733,,,Humic Podzol,Bhf
+72,NRCS (Michaelson et al. 2013),"Forest Point, SMU8135d","Medial, amorphic, ortstein Duric Cryaquod",57.052,-135.731,HIGH,NA,NA,NA,C1,43,53,10,,,,0.00,1.74,1.74,22,7.20,9727,,9727,,,Humic Podzol,C1
+73,NRCS (Michaelson et al. 2013),"Forest Point, SMU8135d","Medial, amorphic, ortstein Duric Cryaquod",57.052,-135.731,HIGH,NA,NA,NA,Cd,53,53,0,,,,0.00,1.74,1.74,29,5.38,0,,0,,,Humic Podzol,Cd
+74,NRCS (Michaelson et al. 2013),Tundra Point 8103E,"Medial, amorphic Andic Humicryod",57.052,-135.734,HIGH,NA,NA,NA,O,0,6,6,52,6,58,0.00,0.11,0.11,,37.79,2494,39025,2494,390.2,59.40,Humic Podzol,O
+75,NRCS (Michaelson et al. 2013),Tundra Point 8103E,"Medial, amorphic Andic Humicryod",57.052,-135.734,HIGH,NA,NA,NA,Oe,6,11,5,,,,0.00,0.12,0.12,2,26.12,1531,,1531,,,Humic Podzol,A
+76,NRCS (Michaelson et al. 2013),Tundra Point 8103E,"Medial, amorphic Andic Humicryod",57.052,-135.734,HIGH,NA,NA,NA,E,11,16,5,,,,0.00,0.93,0.93,10,7.87,3304,,3304,,,Humic Podzol,E
+77,NRCS (Michaelson et al. 2013),Tundra Point 8103E,"Medial, amorphic Andic Humicryod",57.052,-135.734,HIGH,NA,NA,NA,Bhs1,16,38,22,,,,0.00,0.86,0.86,8,11.50,19991,,19991,,,Humic Podzol,Bhf1
+78,NRCS (Michaelson et al. 2013),Tundra Point 8103E,"Medial, amorphic Andic Humicryod",57.052,-135.734,HIGH,NA,NA,NA,Bhs2,38,58,20,,,,0.00,0.86,0.86,11,7.67,11704,,11704,,,Humic Podzol,Bhf2
+79,NRCS (Michaelson et al. 2013),Tundra Point 8103E,"Medial, amorphic Andic Humicryod",57.052,-135.734,HIGH,NA,NA,NA,C,58,58,0,,,,0.00,1.74,1.74,48,6.77,0,,0,,,Humic Podzol,C
+80,NRCS (Michaelson et al. 2013),87AK220010,Medial Humic Cryorthod,57.000,-135.000,HIGH,NA,NA,NA,Oi,0,3,3,113,7,120,0.00,0.08,0.08,0,30.96,743,43278,743,402.1,32.00,Ferro-Humic Podzol,Of
+81,NRCS (Michaelson et al. 2013),87AK220010,Medial Humic Cryorthod,57.000,-135.000,HIGH,NA,NA,NA,Oe,3,7,4,,,,0.00,0.12,0.12,0,23.74,1139,,1139,,,Ferro-Humic Podzol,Om
+82,NRCS (Michaelson et al. 2013),87AK220010,Medial Humic Cryorthod,57.000,-135.000,HIGH,NA,NA,NA,Bh,7,14,7,,,,0.00,0.86,0.86,0,18.47,11118,,11118,,,Ferro-Humic Podzol,Bh
+83,NRCS (Michaelson et al. 2013),87AK220010,Medial Humic Cryorthod,57.000,-135.000,HIGH,NA,NA,NA,Bhs,14,23,9,,,,0.00,0.86,0.86,1,10.02,7675,,7675,,,Ferro-Humic Podzol,Bhf
+84,NRCS (Michaelson et al. 2013),87AK220010,Medial Humic Cryorthod,57.000,-135.000,HIGH,NA,NA,NA,Bs1,23,36,13,,,,0.87,1.17,0.87,0,4.62,5220,,5220,,,Ferro-Humic Podzol,bf1
+85,NRCS (Michaelson et al. 2013),87AK220010,Medial Humic Cryorthod,57.000,-135.000,HIGH,NA,NA,NA,Bs2,36,60,24,,,,0.99,1.17,0.99,1,3.34,7853,,7853,,,Ferro-Humic Podzol,bf2
+86,NRCS (Michaelson et al. 2013),87AK220010,Medial Humic Cryorthod,57.000,-135.000,HIGH,NA,NA,NA,B1,60,80,20,,,,0.84,1.71,0.84,3,1.11,1814,,1814,,,Ferro-Humic Podzol,B1
+87,NRCS (Michaelson et al. 2013),87AK220010,Medial Humic Cryorthod,57.000,-135.000,HIGH,NA,NA,NA,B2,80,94,14,,,,0.00,1.71,1.71,30,1.92,3223,,3223,,,Ferro-Humic Podzol,B2
+88,NRCS (Michaelson et al. 2013),87AK220010,Medial Humic Cryorthod,57.000,-135.000,HIGH,NA,NA,NA,Bsm,94,97,3,,,,0.00,1.17,1.17,13,3.14,960,,960,,,Ferro-Humic Podzol,bfm
+89,NRCS (Michaelson et al. 2013),87AK220010,Medial Humic Cryorthod,57.000,-135.000,HIGH,NA,NA,NA,C,97,120,23,,,,0.00,1.74,1.74,1,0.89,3534,,461,,,Ferro-Humic Podzol,C
+90,NRCS (Michaelson et al. 2013),87AK220009,"Medial, frigid Placic Haplaquod",57.050,-135.300,HIGH,NA,NA,NA,Oi,0,14,14,119,26,145,0.00,0.08,0.08,0,52.24,5851,50480,5851,464.5,100.93,Humic Podzol,Of
+91,NRCS (Michaelson et al. 2013),87AK220009,"Medial, frigid Placic Haplaquod",57.050,-135.300,HIGH,NA,NA,NA,Oe,14,26,12,,,,0.00,0.12,0.12,0,37.10,5343,,5343,,,Humic Podzol,Om
+92,NRCS (Michaelson et al. 2013),87AK220009,"Medial, frigid Placic Haplaquod",57.050,-135.300,HIGH,NA,NA,NA,E,26,27,1,,,,0.00,0.93,0.93,1,16.06,1478,,1478,,,Humic Podzol,E
+93,NRCS (Michaelson et al. 2013),87AK220009,"Medial, frigid Placic Haplaquod",57.050,-135.300,HIGH,NA,NA,NA,Bh,27,34,7,,,,0.00,0.86,0.86,0,26.36,15868,,15868,,,Humic Podzol,Bh
+94,NRCS (Michaelson et al. 2013),87AK220009,"Medial, frigid Placic Haplaquod",57.050,-135.300,HIGH,NA,NA,NA,Bhs,34,42,8,,,,0.00,0.86,0.86,4,14.47,9559,,9559,,,Humic Podzol,Bhf
+95,NRCS (Michaelson et al. 2013),87AK220009,"Medial, frigid Placic Haplaquod",57.050,-135.300,HIGH,NA,NA,NA,Bs,42,52,10,,,,0.85,1.17,0.85,2,6.51,5421,,5421,,,Humic Podzol,bf
+96,NRCS (Michaelson et al. 2013),87AK220009,"Medial, frigid Placic Haplaquod",57.050,-135.300,HIGH,NA,NA,NA,Bsm,52,56,4,,,,0.00,1.17,1.17,6,2.15,947,,947,,,Humic Podzol,bfm
+97,NRCS (Michaelson et al. 2013),87AK220009,"Medial, frigid Placic Haplaquod",57.050,-135.300,HIGH,NA,NA,NA,2C1,56,78,22,,,,0.00,1.74,1.74,23,0.26,768,,768,,,Humic Podzol,2C1
+98,NRCS (Michaelson et al. 2013),87AK220009,"Medial, frigid Placic Haplaquod",57.050,-135.300,HIGH,NA,NA,NA,2C2,78,98,20,,,,0.00,1.74,1.74,6,0.26,853,,853,,,Humic Podzol,2C2
+99,NRCS (Michaelson et al. 2013),87AK220009,"Medial, frigid Placic Haplaquod",57.050,-135.300,HIGH,NA,NA,NA,2C3,98,115,17,,,,0.00,1.74,1.74,17,1.25,3058,,360,,,Humic Podzol,2C3
+100,NRCS (Michaelson et al. 2013),87AK220009,"Medial, frigid Placic Haplaquod",57.050,-135.300,HIGH,NA,NA,NA,2C4,115,145,30,,,,0.00,1.74,1.74,2,0.26,1334,,0,,,Humic Podzol,2C4
+101,NRCS (Michaelson et al. 2013),83AK220005,Loamy-skeletal Lithic Cryochrept,57.267,-134.617,HIGH,NA,NA,NA,Oe,16,0,16,22,16,38,0.00,0.13,0.13,0,36.24,7539,57806,7539,578.1,48.4860289,Dystric Brunisol,Om
+102,NRCS (Michaelson et al. 2013),83AK220005,Loamy-skeletal Lithic Cryochrept,57.267,-134.617,HIGH,NA,NA,NA,E,0,11,11,,,,0.00,1.24,1.24,3,35.96,47583,,47583,,,Dystric Brunisol,E
+103,NRCS (Michaelson et al. 2013),83AK220005,Loamy-skeletal Lithic Cryochrept,57.267,-134.617,HIGH,NA,NA,NA,Bm,11,22,11,,,,0.00,1.45,1.45,78,7.65,2684,,2684,,,Dystric Brunisol,Bm
+104,NRCS (Michaelson et al. 2013),83AK220004,Sandy Typic Cryohumod,57.333,-135.017,HIGH,NA,NA,NA,Oi,21,11,10,91,21,112,0.00,0.08,0.08,0,38.17,3053,27215,3053,272.2,64.16,Humic Podzol,Of
+105,NRCS (Michaelson et al. 2013),83AK220004,Sandy Typic Cryohumod,57.333,-135.017,HIGH,NA,NA,NA,Oa,11,0,11,,,,0.00,0.15,0.15,0,36.15,5964,,5964,,,Humic Podzol,Oh
+106,NRCS (Michaelson et al. 2013),83AK220004,Sandy Typic Cryohumod,57.333,-135.017,HIGH,NA,NA,NA,E,0,6,6,,,,0.00,0.93,0.93,9,1.86,946,,946,,,Humic Podzol,E
+107,NRCS (Michaelson et al. 2013),83AK220004,Sandy Typic Cryohumod,57.333,-135.017,HIGH,NA,NA,NA,Bhs,6,12,6,,,,0.00,0.86,0.86,13,5.55,2492,,2492,,,Humic Podzol,Bhf
+108,NRCS (Michaelson et al. 2013),83AK220004,Sandy Typic Cryohumod,57.333,-135.017,HIGH,NA,NA,NA,Bs,12,22,10,,,,0.00,1.17,1.17,8,2.67,2879,,2879,,,Humic Podzol,bf
+109,NRCS (Michaelson et al. 2013),83AK220004,Sandy Typic Cryohumod,57.333,-135.017,HIGH,NA,NA,NA,BC,22,42,20,,,,0.00,1.71,1.71,7,1.30,4146,,4146,,,Humic Podzol,BC
+110,NRCS (Michaelson et al. 2013),83AK220004,Sandy Typic Cryohumod,57.333,-135.017,HIGH,NA,NA,NA,C,42,91,49,,,,0.00,1.74,1.74,19,1.12,7735,,7735,,,Humic Podzol,C
+111,NRCS (Michaelson et al. 2013),83AK220007,Coarse-loamy Cryic Fragihumod,57.517,-134.433,HIGH,NA,NA,NA,Oi,13,10,3,91,13,104,0.00,0.08,0.08,0,38.35,920,34430,920,344.3,53.71,Humic Podzol,Of
+112,NRCS (Michaelson et al. 2013),83AK220007,Coarse-loamy Cryic Fragihumod,57.517,-134.433,HIGH,NA,NA,NA,Oe,10,0,10,,,,0.00,0.12,0.12,0,38.55,4626,,4626,,,Humic Podzol,Om
+113,NRCS (Michaelson et al. 2013),83AK220007,Coarse-loamy Cryic Fragihumod,57.517,-134.433,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,0,5.84,1629,,1629,,,Humic Podzol,E
+114,NRCS (Michaelson et al. 2013),83AK220007,Coarse-loamy Cryic Fragihumod,57.517,-134.433,HIGH,NA,NA,NA,Bh,3,9,6,,,,0.00,0.86,0.86,14,14.09,6251,,6251,,,Humic Podzol,Bh
+115,NRCS (Michaelson et al. 2013),83AK220007,Coarse-loamy Cryic Fragihumod,57.517,-134.433,HIGH,NA,NA,NA,Bs,9,27,18,,,,0.00,1.17,1.17,20,7.89,13290,,13290,,,Humic Podzol,bf
+116,NRCS (Michaelson et al. 2013),83AK220007,Coarse-loamy Cryic Fragihumod,57.517,-134.433,HIGH,NA,NA,NA,BCx,27,50,23,,,,0.00,1.71,1.71,39,1.44,3451,,3451,,,Humic Podzol,BCx
+117,NRCS (Michaelson et al. 2013),83AK220007,Coarse-loamy Cryic Fragihumod,57.517,-134.433,HIGH,NA,NA,NA,2Cx,50,91,41,,,,0.00,1.74,1.74,32,0.88,4262,,4262,,,Humic Podzol,2Cx
+118,NRCS (Michaelson et al. 2013),84AK220329,"Loamy-skeletal, mixed Cryic Fragiorthod",57.533,-135.167,HIGH,NA,NA,NA,Oi,12,7,5,100,12,112,0.00,0.08,0.08,0,36.67,1467,77465,1467,774.7,83.49,Humo-Ferric Podzol,Of
+119,NRCS (Michaelson et al. 2013),84AK220329,"Loamy-skeletal, mixed Cryic Fragiorthod",57.533,-135.167,HIGH,NA,NA,NA,Oa,7,0,7,,,,0.00,0.15,0.15,0,36.07,3787,,3787,,,Humo-Ferric Podzol,Oh
+120,NRCS (Michaelson et al. 2013),84AK220329,"Loamy-skeletal, mixed Cryic Fragiorthod",57.533,-135.167,HIGH,NA,NA,NA,E,0,1,1,,,,0.00,1.31,1.31,0,5.84,765,,765,,,Humo-Ferric Podzol,E
+121,NRCS (Michaelson et al. 2013),84AK220329,"Loamy-skeletal, mixed Cryic Fragiorthod",57.533,-135.167,HIGH,NA,NA,NA,Bh,1,6,5,,,,0.00,1.19,1.19,15,15.78,7979,,7979,,,Humo-Ferric Podzol,Bh
+122,NRCS (Michaelson et al. 2013),84AK220329,"Loamy-skeletal, mixed Cryic Fragiorthod",57.533,-135.167,HIGH,NA,NA,NA,Bs,6,16,10,,,,0.00,1.46,1.46,7,6.63,9006,,9006,,,Humo-Ferric Podzol,bf
+123,NRCS (Michaelson et al. 2013),84AK220329,"Loamy-skeletal, mixed Cryic Fragiorthod",57.533,-135.167,HIGH,NA,NA,NA,Eb,16,17,1,,,,0.00,1.31,1.31,0,5.84,765,,765,,,Humo-Ferric Podzol,Eb
+124,NRCS (Michaelson et al. 2013),84AK220329,"Loamy-skeletal, mixed Cryic Fragiorthod",57.533,-135.167,HIGH,NA,NA,NA,BC,17,66,49,,,,0.00,1.19,1.19,22,8.74,39741,,39741,,,Humo-Ferric Podzol,BC
+125,NRCS (Michaelson et al. 2013),84AK220329,"Loamy-skeletal, mixed Cryic Fragiorthod",57.533,-135.167,HIGH,NA,NA,NA,Oa,66,72,6,,,,0.00,0.15,0.15,10,17.32,1403,,1403,,,Humo-Ferric Podzol,Oh
+126,NRCS (Michaelson et al. 2013),84AK220329,"Loamy-skeletal, mixed Cryic Fragiorthod",57.533,-135.167,HIGH,NA,NA,NA,E1b,72,74,2,,,,0.00,1.31,1.31,0,5.84,1530,,1530,,,Humo-Ferric Podzol,E1b
+127,NRCS (Michaelson et al. 2013),84AK220329,"Loamy-skeletal, mixed Cryic Fragiorthod",57.533,-135.167,HIGH,NA,NA,NA,BC,74,79,5,,,,0.00,1.19,1.19,8,7.26,3974,,3974,,,Humo-Ferric Podzol,BC
+128,NRCS (Michaelson et al. 2013),84AK220329,"Loamy-skeletal, mixed Cryic Fragiorthod",57.533,-135.167,HIGH,NA,NA,NA,Cx,79,100,21,,,,0.00,1.91,1.91,48,3.38,7048,,7048,,,Humo-Ferric Podzol,Cx
+129,NRCS (Michaelson et al. 2013),89AK220002,"Loamy-skeletal, mixed Aeric Cryaquod",57.733,-135.433,HIGH,NA,NA,NA,Oe,13,10,3,76,13,89,0.00,0.12,0.12,0,51.85,1867,40236,1867,402.4,67.22934995,Humic Podzol,Om
+130,NRCS (Michaelson et al. 2013),89AK220002,"Loamy-skeletal, mixed Aeric Cryaquod",57.733,-135.433,HIGH,NA,NA,NA,Oa,10,5,5,,,,0.00,0.15,0.15,0,54.75,4107,,4107,,,Humic Podzol,Oh
+131,NRCS (Michaelson et al. 2013),89AK220002,"Loamy-skeletal, mixed Aeric Cryaquod",57.733,-135.433,HIGH,NA,NA,NA,Oa2,5,0,5,,,,0.00,0.15,0.15,0,46.93,3520,,3520,,,Humic Podzol,Oh2
+132,NRCS (Michaelson et al. 2013),89AK220002,"Loamy-skeletal, mixed Aeric Cryaquod",57.733,-135.433,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,1,6.54,1805,,1805,,,Humic Podzol,E
+133,NRCS (Michaelson et al. 2013),89AK220002,"Loamy-skeletal, mixed Aeric Cryaquod",57.733,-135.433,HIGH,NA,NA,NA,Bh,3,10,7,,,,0.00,0.86,0.86,5,18.75,10723,,10723,,,Humic Podzol,Bh
+134,NRCS (Michaelson et al. 2013),89AK220002,"Loamy-skeletal, mixed Aeric Cryaquod",57.733,-135.433,HIGH,NA,NA,NA,Bhs,10,28,18,,,,0.00,0.86,0.86,20,11.40,14121,,14121,,,Humic Podzol,Bhf
+135,NRCS (Michaelson et al. 2013),89AK220002,"Loamy-skeletal, mixed Aeric Cryaquod",57.733,-135.433,HIGH,NA,NA,NA,BC,28,36,8,,,,0.00,1.71,1.71,26,1.18,1192,,1192,,,Humic Podzol,BC
+136,NRCS (Michaelson et al. 2013),89AK220002,"Loamy-skeletal, mixed Aeric Cryaquod",57.733,-135.433,HIGH,NA,NA,NA,C,36,58,22,,,,0.00,1.74,1.74,34,0.85,2147,,2147,,,Humic Podzol,C
+137,NRCS (Michaelson et al. 2013),89AK220002,"Loamy-skeletal, mixed Aeric Cryaquod",57.733,-135.433,HIGH,NA,NA,NA,2Cm,58,76,18,,,,0.00,1.74,1.74,36,0.38,755,,755,,,Humic Podzol,2Cm
+138,NRCS (Michaelson et al. 2013),83AK220009,Loamy-skeletal Lithic Aquic Cryorthent,57.783,-134.033,HIGH,NA,NA,NA,Oi,19,8,11,26,19,45,0.00,0.08,0.08,0,38.11,3354,15804,3354,158.0,52.81866664,Humic Regosol,Of
+139,NRCS (Michaelson et al. 2013),83AK220009,Loamy-skeletal Lithic Aquic Cryorthent,57.783,-134.033,HIGH,NA,NA,NA,Oa,8,0,8,,,,0.00,0.15,0.15,0,35.91,4309,,4309,,,Humic Regosol,Oh
+140,NRCS (Michaelson et al. 2013),83AK220009,Loamy-skeletal Lithic Aquic Cryorthent,57.783,-134.033,HIGH,NA,NA,NA,C,0,6,6,,,,0.00,1.1,1.1,21,5.97,3111,,3111,,,Humic Regosol,C
+141,NRCS (Michaelson et al. 2013),83AK220009,Loamy-skeletal Lithic Aquic Cryorthent,57.783,-134.033,HIGH,NA,NA,NA,Cr,6,26,20,,,,0.00,1.1,1.1,38,3.69,5031,,5031,,,Humic Regosol,Cr
+142,NRCS (Michaelson et al. 2013),83AK220010,Loamy-skeletal Lithic Cryorthent,57.783,-134.033,HIGH,NA,NA,NA,Oi,18,4,14,18,18,36,0.00,0.08,0.08,0,33.12,3710,7314,3710,73.1,40.72593757,Humic Regosol,Of
+143,NRCS (Michaelson et al. 2013),83AK220010,Loamy-skeletal Lithic Cryorthent,57.783,-134.033,HIGH,NA,NA,NA,Oa,4,0,4,,,,0.00,0.15,0.15,0,28.99,1740,,1740,,,Humic Regosol,Oh
+144,NRCS (Michaelson et al. 2013),83AK220010,Loamy-skeletal Lithic Cryorthent,57.783,-134.033,HIGH,NA,NA,NA,C,0,11,11,,,,0.00,1.1,1.1,20,1.30,1254,,1254,,,Humic Regosol,C
+145,NRCS (Michaelson et al. 2013),83AK220010,Loamy-skeletal Lithic Cryorthent,57.783,-134.033,HIGH,NA,NA,NA,Cr,11,18,7,,,,0.00,1.1,1.1,47,1.49,610,,610,,,Humic Regosol,Cr
+146,NRCS (Michaelson et al. 2013),83AK220027,Coarse-loamy Aquic Fragiorthod,57.867,-134.100,HIGH,NA,NA,NA,Oi,26,18,8,91,26,117,0.00,0.08,0.08,0,41.35,2647,26266,2647,262.7,41.53,Humo-Ferric Podzol,Of
+147,NRCS (Michaelson et al. 2013),83AK220027,Coarse-loamy Aquic Fragiorthod,57.867,-134.100,HIGH,NA,NA,NA,Oi2,18,4,14,,,,0.00,0.08,0.08,0,36.67,4107,,4107,,,Humo-Ferric Podzol,Of2
+148,NRCS (Michaelson et al. 2013),83AK220027,Coarse-loamy Aquic Fragiorthod,57.867,-134.100,HIGH,NA,NA,NA,Oe,4,0,4,,,,0.00,0.12,0.12,0,39.22,1882,,1882,,,Humo-Ferric Podzol,Om
+149,NRCS (Michaelson et al. 2013),83AK220027,Coarse-loamy Aquic Fragiorthod,57.867,-134.100,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,1.31,1.31,13,4.22,1443,,1443,,,Humo-Ferric Podzol,E
+150,NRCS (Michaelson et al. 2013),83AK220027,Coarse-loamy Aquic Fragiorthod,57.867,-134.100,HIGH,NA,NA,NA,Bhs,3,5,2,,,,0.00,1.19,1.19,0,4.83,1149,,1149,,,Humo-Ferric Podzol,Bhf
+151,NRCS (Michaelson et al. 2013),83AK220027,Coarse-loamy Aquic Fragiorthod,57.867,-134.100,HIGH,NA,NA,NA,Bs,5,23,18,,,,0.00,1.46,1.46,33,5.22,9197,,9197,,,Humo-Ferric Podzol,bf
+152,NRCS (Michaelson et al. 2013),83AK220027,Coarse-loamy Aquic Fragiorthod,57.867,-134.100,HIGH,NA,NA,NA,BC,23,31,8,,,,0.00,1.19,1.19,31,1.54,1008,,1008,,,Humo-Ferric Podzol,BC
+153,NRCS (Michaelson et al. 2013),83AK220027,Coarse-loamy Aquic Fragiorthod,57.867,-134.100,HIGH,NA,NA,NA,2Cx,31,91,60,,,,0.00,1.91,1.91,16,0.50,4833,,4833,,,Humo-Ferric Podzol,2Cx
+154,NRCS (Michaelson et al. 2013),83AK130027,Dysic Lithic Cryofolist,56.008,-133.583,HIGH,NA,NA,NA,Oe,0,9,9,0,21,21,0.00,0.12,0.12,0,46.28,4998,11413,4998,114.1,37.71299924,Folisol,Om
+155,NRCS (Michaelson et al. 2013),83AK130027,Dysic Lithic Cryofolist,56.008,-133.583,HIGH,NA,NA,NA,Oa,9,21,12,,,,0.00,0.15,0.15,0,35.64,6415,,6415,,,Folisol,Oh
+156,NRCS (Michaelson et al. 2013),83AK130028,Thixotropic Lithic Cryorthod,56.008,-133.583,HIGH,NA,NA,NA,Oe,13,9,4,31,13,44,0.00,0.12,0.12,0,50.22,2410,32987,2410,329.9,53.39183844,Humo-Ferric Podzol,Om
+157,NRCS (Michaelson et al. 2013),83AK130028,Thixotropic Lithic Cryorthod,56.008,-133.583,HIGH,NA,NA,NA,Oe,9,0.00,9,,,,0.00,0.12,0.12,0,41.04,4433,,4433,,,Humo-Ferric Podzol,A
+158,NRCS (Michaelson et al. 2013),83AK130028,Thixotropic Lithic Cryorthod,56.008,-133.583,HIGH,NA,NA,NA,E / Bhs,0,21,21,,,,0.00,1.31,1.31,15,9.13,21358,,21358,,,Humo-Ferric Podzol,E / Bhf
+159,NRCS (Michaelson et al. 2013),83AK130028,Thixotropic Lithic Cryorthod,56.008,-133.583,HIGH,NA,NA,NA,BC,21,31,10,,,,0.00,1.19,1.19,23,5.22,4786,,4786,,,Humo-Ferric Podzol,BC
+160,NRCS (Michaelson et al. 2013),83AK130029,"Coarse-loamy, mixed Lithic Cryochrept",56.008,-133.583,HIGH,NA,NA,NA,Oe,9,6,3,11,9,20,0.00,0.13,0.13,0,51.21,1997,32144,1997,321.4,39.71670269,Dystric Brunisol,Om
+161,NRCS (Michaelson et al. 2013),83AK130029,"Coarse-loamy, mixed Lithic Cryochrept",56.008,-133.583,HIGH,NA,NA,NA,Oa,6,0,6,,,,0.00,0.15,0.15,0,46.48,4183,,4183,,,Dystric Brunisol,Oh
+162,NRCS (Michaelson et al. 2013),83AK130029,"Coarse-loamy, mixed Lithic Cryochrept",56.008,-133.583,HIGH,NA,NA,NA,BC,0,11,11,,,,0.00,1.45,1.45,1,16.44,25963,,25963,,,Dystric Brunisol,BC
+163,NRCS (Michaelson et al. 2013),83AK130030,Thixotropic Lithic Cryorthod,56.008,-133.583,HIGH,NA,NA,NA,Oe,4,0,4,15,4,19,0.00,0.12,0.12,0,46.20,2218,13977,2218,139.8,19.02433501,Humo-Ferric Podzol,Om
+164,NRCS (Michaelson et al. 2013),83AK130030,Thixotropic Lithic Cryorthod,56.008,-133.583,HIGH,NA,NA,NA,Bs,0,15,15,,,,0.00,1.46,1.46,7,5.77,11759,,11759,,,Humo-Ferric Podzol,bf
+165,NRCS (Michaelson et al. 2013),83AK130126,"Loamy-skeletal, mixed Typic Cryorthod",56.008,-133.583,HIGH,NA,NA,NA,Oe,14,8,6,51,14,65,0.00,0.12,0.12,0,52.00,3744,44446,3744,444.5,68.94128294,Humo-Ferric Podzol,Om
+166,NRCS (Michaelson et al. 2013),83AK130126,"Loamy-skeletal, mixed Typic Cryorthod",56.008,-133.583,HIGH,NA,NA,NA,Oa,8,0,8,,,,0.00,0.15,0.15,0,49.29,5915,,5915,,,Humo-Ferric Podzol,Oh
+167,NRCS (Michaelson et al. 2013),83AK130126,"Loamy-skeletal, mixed Typic Cryorthod",56.008,-133.583,HIGH,NA,NA,NA,Bhs,0,18,18,,,,0.00,1.19,1.19,19,10.56,18326,,18326,,,Humo-Ferric Podzol,Bhf
+168,NRCS (Michaelson et al. 2013),83AK130126,"Loamy-skeletal, mixed Typic Cryorthod",56.008,-133.583,HIGH,NA,NA,NA,BC,18,51,33,,,,0.00,1.19,1.19,5,4.41,16461,,16461,,,Humo-Ferric Podzol,BC
+169,NRCS (Michaelson et al. 2013),81AK280008,Thixotropic-skeletal Humic Cryorthod,56.072,-131.976,HIGH,NA,NA,NA,O,3,0,3,152,3,155,0.00,0.11,0.11,0,37.79,1247,105109,1247,747.6,48.45,Ferro-Humic Podzol,O
+170,NRCS (Michaelson et al. 2013),81AK280008,Thixotropic-skeletal Humic Cryorthod,56.072,-131.976,HIGH,NA,NA,NA,E,0,2,2,,,,0.00,0.93,0.93,0,4.87,905,,905,,,Ferro-Humic Podzol,E
+171,NRCS (Michaelson et al. 2013),81AK280008,Thixotropic-skeletal Humic Cryorthod,56.072,-131.976,HIGH,NA,NA,NA,B1,2,15,13,,,,0.00,1.71,1.71,0,6.78,15067,,15067,,,Ferro-Humic Podzol,B1
+172,NRCS (Michaelson et al. 2013),81AK280008,Thixotropic-skeletal Humic Cryorthod,56.072,-131.976,HIGH,NA,NA,NA,B1,15,33,18,,,,0.00,1.71,1.71,15,6.14,16066,,16066,,,Ferro-Humic Podzol,B1
+173,NRCS (Michaelson et al. 2013),81AK280008,Thixotropic-skeletal Humic Cryorthod,56.072,-131.976,HIGH,NA,NA,NA,B2,33,58,25,,,,0.00,1.71,1.71,25,5.29,16964,,16964,,,Ferro-Humic Podzol,B2
+174,NRCS (Michaelson et al. 2013),81AK280008,Thixotropic-skeletal Humic Cryorthod,56.072,-131.976,HIGH,NA,NA,NA,C,58,152,94,,,,0.00,1.74,1.74,40,5.59,54860,,24512,,,Ferro-Humic Podzol,C
+175,NRCS (Michaelson et al. 2013),83AK280010,Medial-skeletal Typic Cryaquod,56.072,-131.975,HIGH,NA,NA,NA,O,23,0,23,152,23,175,0.00,0.11,0.11,0,28.89,7309,30801,7309,273.8,65.77,Humic Podzol,O
+176,NRCS (Michaelson et al. 2013),83AK280010,Medial-skeletal Typic Cryaquod,56.072,-131.975,HIGH,NA,NA,NA,A,0,5,5,,,,0.00,0.93,0.93,5,3.01,1331,,1331,,,Humic Podzol,A
+177,NRCS (Michaelson et al. 2013),83AK280010,Medial-skeletal Typic Cryaquod,56.072,-131.975,HIGH,NA,NA,NA,Bh1,5,15,10,,,,0.00,0.86,0.86,3,6.93,5783,,5783,,,Humic Podzol,Bh1
+178,NRCS (Michaelson et al. 2013),83AK280010,Medial-skeletal Typic Cryaquod,56.072,-131.975,HIGH,NA,NA,NA,Bh2,15,30,15,,,,0.00,0.86,0.86,5,4.60,5632,,5632,,,Humic Podzol,Bh2
+179,NRCS (Michaelson et al. 2013),83AK280010,Medial-skeletal Typic Cryaquod,56.072,-131.975,HIGH,NA,NA,NA,Bs,30,43,13,,,,0.00,1.17,1.17,13,2.70,3577,,3577,,,Humic Podzol,bf
+180,NRCS (Michaelson et al. 2013),83AK280010,Medial-skeletal Typic Cryaquod,56.072,-131.975,HIGH,NA,NA,NA,C,43,152,109,,,,0.00,1.74,1.74,13,0.43,7169,,3749,,,Humic Podzol,C
+181,NRCS (Michaelson et al. 2013),84AK201003,"Coarse-loamy, mixed Typic Cryorthod",56.192,-133.529,HIGH,NA,NA,NA,Oi,17,11,6,107,17,124,0.00,0.08,0.08,0,36.67,1760,71869,1760,711.4,94.89,Humo-Ferric Podzol,Of
+182,NRCS (Michaelson et al. 2013),84AK201003,"Coarse-loamy, mixed Typic Cryorthod",56.192,-133.529,HIGH,NA,NA,NA,Oe,11,1,10,,,,0.00,0.12,0.12,4,46.50,5357,,5357,,,Humo-Ferric Podzol,Om
+183,NRCS (Michaelson et al. 2013),84AK201003,"Coarse-loamy, mixed Typic Cryorthod",56.192,-133.529,HIGH,NA,NA,NA,Oa,1,0,1,,,,0.00,0.15,0.15,0,36.07,541,,541,,,Humo-Ferric Podzol,Oh
+184,NRCS (Michaelson et al. 2013),84AK201003,"Coarse-loamy, mixed Typic Cryorthod",56.192,-133.529,HIGH,NA,NA,NA,E / Bhs,0,5,5,,,,0.00,1.31,0.87,1,7.87,3389,,3389,,,Humo-Ferric Podzol,E / Bhf
+185,NRCS (Michaelson et al. 2013),84AK201003,"Coarse-loamy, mixed Typic Cryorthod",56.192,-133.529,HIGH,NA,NA,NA,Bhs1,5,18,13,,,,0.00,1.19,0.87,1,6.89,7715,,7715,,,Humo-Ferric Podzol,Bhf1
+186,NRCS (Michaelson et al. 2013),84AK201003,"Coarse-loamy, mixed Typic Cryorthod",56.192,-133.529,HIGH,NA,NA,NA,Bhs2,18,33,15,,,,0.00,1.19,0.87,17,16.88,18284,,18284,,,Humo-Ferric Podzol,Bhf2
+187,NRCS (Michaelson et al. 2013),84AK201003,"Coarse-loamy, mixed Typic Cryorthod",56.192,-133.529,HIGH,NA,NA,NA,Bs,33,79,46,,,,0.00,1.46,1.46,1,4.80,31914,,31914,,,Humo-Ferric Podzol,bf
+188,NRCS (Michaelson et al. 2013),84AK201003,"Coarse-loamy, mixed Typic Cryorthod",56.192,-133.529,HIGH,NA,NA,NA,C,79,107,28,,,,0.00,1.91,1.91,20,0.68,2909,,2182,,,Humo-Ferric Podzol,C
+189,NRCS (Michaelson et al. 2013),81AK280002,Thixotropic-skeletal Humic Lithic Cryorthod,56.211,-132.698,HIGH,NA,NA,NA,Oa,8,0,8,5,8,13,0.00,0.15,0.15,0,36.07,4328,5770,NA,14.4,21.02,Ferro-Humic Podzol,Oh
+190,NRCS (Michaelson et al. 2013),81AK280002,Thixotropic-skeletal Humic Lithic Cryorthod,56.211,-132.698,HIGH,NA,NA,NA,E,0,5,5,,,,0.00,0.93,0.93,23,4.03,1442,,1442,,,Ferro-Humic Podzol,E
+191,NRCS (Michaelson et al. 2013),81AK280003,Thixotropic Humic Lithic Cryorthod,56.210,-132.697,HIGH,NA,NA,NA,Oa,10,0,10,13,10,23,0.00,0.15,0.15,0,36.07,5410,12198,NA,67.9,30.74,Ferro-Humic Podzol,Oh
+192,NRCS (Michaelson et al. 2013),81AK280003,Thixotropic Humic Lithic Cryorthod,56.210,-132.697,HIGH,NA,NA,NA,E,0,10,10,,,,0.00,0.93,0.93,25,5.36,3738,,3738,,,Ferro-Humic Podzol,E
+193,NRCS (Michaelson et al. 2013),81AK280003,Thixotropic Humic Lithic Cryorthod,56.210,-132.697,HIGH,NA,NA,NA,Bs,10,13,3,,,,0.00,1.17,1.17,20,10.86,3050,,3050,,,Ferro-Humic Podzol,bf
+194,NRCS (Michaelson et al. 2013),83AK130122,Thixotropic-skeletal Typic Cryorthod,56.275,-133.304,HIGH,NA,NA,NA,Oe1,23,19,4,77,23,100,0.00,0.12,0.12,0,51.76,2485,37964,2485,379.6,83.92,Humo-Ferric Podzol,Om1
+195,NRCS (Michaelson et al. 2013),83AK130122,Thixotropic-skeletal Typic Cryorthod,56.275,-133.304,HIGH,NA,NA,NA,Oe2,19,10,9,,,,0.00,0.12,0.12,0,62.02,6699,,6699,,,Humo-Ferric Podzol,Om2
+196,NRCS (Michaelson et al. 2013),83AK130122,Thixotropic-skeletal Typic Cryorthod,56.275,-133.304,HIGH,NA,NA,NA,Oa,10,0,10,,,,0.00,0.15,0.15,0,34.84,5225,,5225,,,Humo-Ferric Podzol,Oh
+197,NRCS (Michaelson et al. 2013),83AK130122,Thixotropic-skeletal Typic Cryorthod,56.275,-133.304,HIGH,NA,NA,NA,E,0,2,2,,,,0.00,1.31,1.31,7,7.36,1793,,1793,,,Humo-Ferric Podzol,E
+198,NRCS (Michaelson et al. 2013),83AK130122,Thixotropic-skeletal Typic Cryorthod,56.275,-133.304,HIGH,NA,NA,NA,Bhs,2,7,5,,,,0.00,1.19,1.19,15,11.02,5572,,5572,,,Humo-Ferric Podzol,Bhf
+199,NRCS (Michaelson et al. 2013),83AK130122,Thixotropic-skeletal Typic Cryorthod,56.275,-133.304,HIGH,NA,NA,NA,Bs,7,32,25,,,,0.00,1.46,1.46,17,3.41,10325,,10325,,,Humo-Ferric Podzol,bf
+200,NRCS (Michaelson et al. 2013),83AK130122,Thixotropic-skeletal Typic Cryorthod,56.275,-133.304,HIGH,NA,NA,NA,2BC,32,77,45,,,,0.00,1.19,1.19,38,1.77,5866,,5866,,,Humo-Ferric Podzol,2BC
+201,NRCS (Michaelson et al. 2013),81AK280009,Thixotrophic Skeletal Humic Cryorthod,56.296,-134.150,HIGH,NA,NA,NA,O1,8,5,3,127,8,135,0.00,0.11,0.11,0,37.79,1247,85960,1247,634.6,51.39,Ferro-Humic Podzol,O1
+202,NRCS (Michaelson et al. 2013),81AK280009,Thixotrophic Skeletal Humic Cryorthod,56.296,-134.150,HIGH,NA,NA,NA,O2,5,0,5,,,,0.00,0.11,0.11,0,37.79,2079,,2079,,,Ferro-Humic Podzol,O2
+203,NRCS (Michaelson et al. 2013),81AK280009,Thixotrophic Skeletal Humic Cryorthod,56.296,-134.150,HIGH,NA,NA,NA,E/A,0,3,3,,,,0.00,0.93,0.93,0,5.84,1629,,1629,,,Ferro-Humic Podzol,E/A
+204,NRCS (Michaelson et al. 2013),81AK280009,Thixotrophic Skeletal Humic Cryorthod,56.296,-134.150,HIGH,NA,NA,NA,Bs,3,10,7,,,,0.00,1.17,1.17,19,6.64,4407,,4407,,,Ferro-Humic Podzol,bf
+205,NRCS (Michaelson et al. 2013),81AK280009,Thixotrophic Skeletal Humic Cryorthod,56.296,-134.150,HIGH,NA,NA,NA,B,10,76,66,,,,0.00,1.71,1.71,36,4.72,34102,,34102,,,Ferro-Humic Podzol,B
+206,NRCS (Michaelson et al. 2013),81AK280009,Thixotrophic Skeletal Humic Cryorthod,56.296,-134.150,HIGH,NA,NA,NA,C,76,127,51,,,,0.00,1.74,1.74,0,4.79,42497,,19998,,,Ferro-Humic Podzol,C
+207,NRCS (Michaelson et al. 2013),98AK280001,"Loamy, mixed, dysic Terric Cryosaprist",56.301,-132.209,HIGH,NA,NA,NA,Oi,0,11,11,60,70,130,0.00,0.08,0.08,0,47.50,4180,71873,4180,582.1,191.01,Humisol,Of
+208,NRCS (Michaelson et al. 2013),98AK280001,"Loamy, mixed, dysic Terric Cryosaprist",56.301,-132.209,HIGH,NA,NA,NA,Oa1,11,26,15,,,,0.00,0.15,0.15,0,46.02,10355,,10355,,,Humisol,Oh1
+209,NRCS (Michaelson et al. 2013),98AK280001,"Loamy, mixed, dysic Terric Cryosaprist",56.301,-132.209,HIGH,NA,NA,NA,Oa2,26,53,27,,,,0.00,0.15,0.15,0,55.71,22563,,22563,,,Humisol,Oh2
+210,NRCS (Michaelson et al. 2013),98AK280001,"Loamy, mixed, dysic Terric Cryosaprist",56.301,-132.209,HIGH,NA,NA,NA,Oa3,53,70,17,,,,0.00,0.15,0.15,0,35.56,9068,,9068,,,Humisol,Oh3
+211,NRCS (Michaelson et al. 2013),98AK280001,"Loamy, mixed, dysic Terric Cryosaprist",56.301,-132.209,HIGH,NA,NA,NA,Ab,70,78,8,,,,1.12,0.93,1.12,1,5.18,4595,,4595,,,Humisol,Ab
+212,NRCS (Michaelson et al. 2013),98AK280001,"Loamy, mixed, dysic Terric Cryosaprist",56.301,-132.209,HIGH,NA,NA,NA,Bg,78,103,25,,,,1.23,1.71,1.23,3,2.16,6443,,5670,,,Humisol,Bg
+213,NRCS (Michaelson et al. 2013),98AK280001,"Loamy, mixed, dysic Terric Cryosaprist",56.301,-132.209,HIGH,NA,NA,NA,Cg1,103,118,15,,,,1.93,1.74,1.93,3,0.41,1151,,1151,,,Humisol,Cg1
+214,NRCS (Michaelson et al. 2013),98AK280001,"Loamy, mixed, dysic Terric Cryosaprist",56.301,-132.209,HIGH,NA,NA,NA,Cg2,118,130,12,,,,2.08,1.74,2.08,10,0.28,629,,629,,,Humisol,Cg2
+215,NRCS (Michaelson et al. 2013),98AK280001,"Loamy, mixed, dysic Terric Cryosaprist",56.301,-132.209,HIGH,NA,NA,NA,C1 / C2,103,130,27,,,,0.00,1.74,1.74,0,2.74,12891,,0,,,Humisol,C1 / C2
+216,NRCS (Michaelson et al. 2013),98AK280002,Dysic Hemic Cryosaprist,56.301,-132.209,HIGH,NA,NA,NA,Oi,0,7,7,0,130,130,0.00,0.08,0.08,0,48.69,2727,82720,2727,629.5,122.24,Humisol,Of
+217,NRCS (Michaelson et al. 2013),98AK280002,Dysic Hemic Cryosaprist,56.301,-132.209,HIGH,NA,NA,NA,Oa,7,15,8,,,,0.00,0.15,0.15,0,50.15,6018,,6018,,,Humisol,Oh
+218,NRCS (Michaelson et al. 2013),98AK280002,Dysic Hemic Cryosaprist,56.301,-132.209,HIGH,NA,NA,NA,Oe1,15,22,7,,,,0.00,0.12,0.12,0,52.19,4384,,4384,,,Humisol,Om1
+219,NRCS (Michaelson et al. 2013),98AK280002,Dysic Hemic Cryosaprist,56.301,-132.209,HIGH,NA,NA,NA,Oe2,22,45,23,,,,0.00,0.12,0.12,0,53.60,14794,,14794,,,Humisol,Om2
+220,NRCS (Michaelson et al. 2013),98AK280002,Dysic Hemic Cryosaprist,56.301,-132.209,HIGH,NA,NA,NA,Oe3,45,90,45,,,,0.00,0.12,0.12,0,52.66,28436,,28436,,,Humisol,Om3
+221,NRCS (Michaelson et al. 2013),98AK280002,Dysic Hemic Cryosaprist,56.301,-132.209,HIGH,NA,NA,NA,Oe4,90,130,40,,,,0.00,0.12,0.12,0,54.92,26362,,6590,,,Humisol,Om4
+222,NRCS (Michaelson et al. 2013),98AK280003,"Coarse-loamy, mixed, active Typic Cryaquod",56.302,-132.206,HIGH,NA,NA,NA,Oi,0,7,7,75,25,100,0.00,0.08,0.08,0,49.72,2784,29233,2784,292.3,91.52,Humic Podzol,Of
+223,NRCS (Michaelson et al. 2013),98AK280003,"Coarse-loamy, mixed, active Typic Cryaquod",56.302,-132.206,HIGH,NA,NA,NA,Oa,7,25,18,,,,0.00,0.15,0.15,0,33.31,8994,,8994,,,Humic Podzol,Oh
+224,NRCS (Michaelson et al. 2013),98AK280003,"Coarse-loamy, mixed, active Typic Cryaquod",56.302,-132.206,HIGH,NA,NA,NA,Bhs1,25,33,8,,,,1.10,0.86,1.1,1,7.25,6316,,6316,,,Humic Podzol,Bhf1
+225,NRCS (Michaelson et al. 2013),98AK280003,"Coarse-loamy, mixed, active Typic Cryaquod",56.302,-132.206,HIGH,NA,NA,NA,Bhs2,33,40,7,,,,1.80,0.86,1.8,3,3.35,4094,,4094,,,Humic Podzol,Bhf2
+226,NRCS (Michaelson et al. 2013),98AK280003,"Coarse-loamy, mixed, active Typic Cryaquod",56.302,-132.206,HIGH,NA,NA,NA,Bs,40,53,13,,,,1.33,1.17,1.33,2,2.45,4151,,4151,,,Humic Podzol,bf
+227,NRCS (Michaelson et al. 2013),98AK280003,"Coarse-loamy, mixed, active Typic Cryaquod",56.302,-132.206,HIGH,NA,NA,NA,C1,53,80,27,,,,1.93,1.74,1.93,21,0.37,1523,,1523,,,Humic Podzol,C1
+228,NRCS (Michaelson et al. 2013),98AK280003,"Coarse-loamy, mixed, active Typic Cryaquod",56.302,-132.206,HIGH,NA,NA,NA,C2,80,100,20,,,,0.00,1.74,1.74,18,0.48,1370,,1370,,,Humic Podzol,C2
+229,NRCS (Michaelson et al. 2013),98AK280004,Spodosol,56.302,-132.206,HIGH,NA,NA,NA,Oi,0,7,7,86,14,100,0.00,0.08,0.08,0,50.37,2821,37983,2821,379.8,50.71,Humic Podzol,Of
+230,NRCS (Michaelson et al. 2013),98AK280004,Spodosol,56.302,-132.206,HIGH,NA,NA,NA,Oa,7,14,7,,,,0.00,0.15,0.15,0,40.41,4243,,4243,,,Humic Podzol,Oh
+231,NRCS (Michaelson et al. 2013),98AK280004,Spodosol,56.302,-132.206,HIGH,NA,NA,NA,Eh,14,19,5,,,,0.00,0.93,0.93,1,12.64,5819,,5819,,,Humic Podzol,Eh
+232,NRCS (Michaelson et al. 2013),98AK280004,Spodosol,56.302,-132.206,HIGH,NA,NA,NA,Bh,19,26,7,,,,1.07,0.86,1.07,0,4.16,3116,,3116,,,Humic Podzol,Bh
+233,NRCS (Michaelson et al. 2013),98AK280004,Spodosol,56.302,-132.206,HIGH,NA,NA,NA,Bs1,26,43,17,,,,1.68,1.17,1.68,2,2.93,8201,,8201,,,Humic Podzol,bf1
+234,NRCS (Michaelson et al. 2013),98AK280004,Spodosol,56.302,-132.206,HIGH,NA,NA,NA,Bs2,43,66,23,,,,1.52,1.17,1.52,2,2.74,9387,,9387,,,Humic Podzol,bf2
+235,NRCS (Michaelson et al. 2013),98AK280004,Spodosol,56.302,-132.206,HIGH,NA,NA,NA,C,66,100,34,,,,1.79,1.74,1.79,14,0.84,4397,,4397,,,Humic Podzol,C
+236,NRCS (Michaelson et al. 2013),98AK280004,Spodosol,56.302,-132.206,HIGH,NA,NA,NA,,42,48,6,,,,0.00,0,0,1,1.76,0,,0,,,Humic Podzol,
+237,NRCS (Michaelson et al. 2013),98AK280004,Spodosol,56.302,-132.206,HIGH,NA,NA,NA,,44,46,2,,,,0.00,0,0,0,15.75,0,,0,,,Humic Podzol,
+238,NRCS (Michaelson et al. 2013),84AK201001,"Coarse-loamy, mixed Humic Cryorthod",56.344,-132.519,HIGH,NA,NA,NA,Oi1,15,8,7,106,15,121,0.00,0.08,0.08,,36.67,2053,71279,2053,666.9,78.20,Ferro-Humic Podzol,Of1
+239,NRCS (Michaelson et al. 2013),84AK201001,"Coarse-loamy, mixed Humic Cryorthod",56.344,-132.519,HIGH,NA,NA,NA,Oi2,8,0,8,,,,0.00,0.08,0.08,,36.67,2347,,2347,,,Ferro-Humic Podzol,Of2
+240,NRCS (Michaelson et al. 2013),84AK201001,"Coarse-loamy, mixed Humic Cryorthod",56.344,-132.519,HIGH,NA,NA,NA,E / Bhs,0,12,12,,,,0.00,0.86,0.86,5,11.41,11186,,11186,,,Ferro-Humic Podzol,E / Bhf
+241,NRCS (Michaelson et al. 2013),84AK201001,"Coarse-loamy, mixed Humic Cryorthod",56.344,-132.519,HIGH,NA,NA,NA,Bs1,12,32,20,,,,0.00,1.17,1.17,9,4.47,9518,,9518,,,Ferro-Humic Podzol,bf1
+242,NRCS (Michaelson et al. 2013),84AK201001,"Coarse-loamy, mixed Humic Cryorthod",56.344,-132.519,HIGH,NA,NA,NA,Bs2,32,60,28,,,,0.00,1.17,1.17,6,3.56,10963,,10963,,,Ferro-Humic Podzol,bf2
+243,NRCS (Michaelson et al. 2013),84AK201001,"Coarse-loamy, mixed Humic Cryorthod",56.344,-132.519,HIGH,NA,NA,NA,C,60,106,46,,,,0.00,1.74,1.74,6,4.68,35211,,30618,,,Ferro-Humic Podzol,C
+244,NRCS (Michaelson et al. 2013),84AK201005,"Coarse-loamy, mixed Humic Lithic Cryorthod",56.333,-133.350,HIGH,NA,NA,NA,Oa,5,0,5,48,5,53,0.00,0.15,0.15,0,36.88,2766,27232,2766,272.3,29.85,Ferro-Humic Podzol,Oh
+245,NRCS (Michaelson et al. 2013),84AK201005,"Coarse-loamy, mixed Humic Lithic Cryorthod",56.333,-133.350,HIGH,NA,NA,NA,Bhs,0,5,5,,,,0.00,0.86,0.86,2,6.87,2895,,2895,,,Ferro-Humic Podzol,Bhf
+246,NRCS (Michaelson et al. 2013),84AK201005,"Coarse-loamy, mixed Humic Lithic Cryorthod",56.333,-133.350,HIGH,NA,NA,NA,Bs,5,19,14,,,,0.00,1.17,1.17,8,2.26,3406,,3406,,,Ferro-Humic Podzol,bf
+247,NRCS (Michaelson et al. 2013),84AK201005,"Coarse-loamy, mixed Humic Lithic Cryorthod",56.333,-133.350,HIGH,NA,NA,NA,BC,19,48,29,,,,0.00,1.71,1.71,1,3.70,18165,,18165,,,Ferro-Humic Podzol,BC
+248,NRCS (Michaelson et al. 2013),83AK280004,Medial-skeletal Humic Cryorthod,56.426,-132.933,HIGH,NA,NA,NA,O,10,0,10,152,10,162,0.00,0.11,0.11,0,28.19,3101,40132,3101,362.4,49.10,Ferro-Humic Podzol,O
+249,NRCS (Michaelson et al. 2013),83AK280004,Medial-skeletal Humic Cryorthod,56.426,-132.933,HIGH,NA,NA,NA,A,0,3,3,,,,0.00,0.93,0.93,0,6.60,1843,,1843,,,Ferro-Humic Podzol,A
+250,NRCS (Michaelson et al. 2013),83AK280004,Medial-skeletal Humic Cryorthod,56.426,-132.933,HIGH,NA,NA,NA,Bhs1,3,10,7,,,,0.00,0.86,0.86,1,13.73,8182,,8182,,,Ferro-Humic Podzol,Bhf1
+251,NRCS (Michaelson et al. 2013),83AK280004,Medial-skeletal Humic Cryorthod,56.426,-132.933,HIGH,NA,NA,NA,Bhs2,10,25,15,,,,0.00,0.86,0.86,1,9.21,11763,,11763,,,Ferro-Humic Podzol,Bhf2
+252,NRCS (Michaelson et al. 2013),83AK280004,Medial-skeletal Humic Cryorthod,56.426,-132.933,HIGH,NA,NA,NA,B,25,48,23,,,,0.00,1.71,1.71,32,2.79,7462,,7462,,,Ferro-Humic Podzol,B
+253,NRCS (Michaelson et al. 2013),83AK280004,Medial-skeletal Humic Cryorthod,56.426,-132.933,HIGH,NA,NA,NA,C,48,152,104,,,,0.00,1.74,1.74,27,0.59,7780,,3890,,,Ferro-Humic Podzol,C
+254,NRCS (Michaelson et al. 2013),82AK280231,Medial-skeletal Humic Cryorthod,56.439,-133.621,HIGH,NA,NA,NA,Oa,3,0,3,107,3,110,0.00,0.15,0.15,,36.07,1623,62061,1623,583.3,61.51,Ferro-Humic Podzol,Oh
+255,NRCS (Michaelson et al. 2013),82AK280231,Medial-skeletal Humic Cryorthod,56.439,-133.621,HIGH,NA,NA,NA,Oe,0,8,8,,,,0.00,0.12,0.12,1,47.34,4499,,4499,,,Ferro-Humic Podzol,A
+256,NRCS (Michaelson et al. 2013),82AK280231,Medial-skeletal Humic Cryorthod,56.439,-133.621,HIGH,NA,NA,NA,Bhs,8,18,10,,,,0.00,0.86,0.86,23,23.46,15536,,15536,,,Ferro-Humic Podzol,Bhf
+257,NRCS (Michaelson et al. 2013),82AK280231,Medial-skeletal Humic Cryorthod,56.439,-133.621,HIGH,NA,NA,NA,Bs,18,30,12,,,,0.00,1.17,1.17,69,12.67,5513,,5513,,,Ferro-Humic Podzol,bf
+258,NRCS (Michaelson et al. 2013),82AK280231,Medial-skeletal Humic Cryorthod,56.439,-133.621,HIGH,NA,NA,NA,B,30,61,31,,,,0.00,1.71,1.71,77,8.52,10383,,10383,,,Ferro-Humic Podzol,B
+259,NRCS (Michaelson et al. 2013),82AK280231,Medial-skeletal Humic Cryorthod,56.439,-133.621,HIGH,NA,NA,NA,C,61,107,46,,,,0.00,1.74,1.74,68,9.57,24507,,20777,,,Ferro-Humic Podzol,C
+260,NRCS (Michaelson et al. 2013),81AK280007,Thixotropic Humic Cryorthod,56.461,-132.617,HIGH,NA,NA,NA,O,5,0,5,152,5,157,0.00,0.11,0.11,0,37.79,2079,38977,2079,313.4,37.76,Ferro-Humic Podzol,O
+261,NRCS (Michaelson et al. 2013),81AK280007,Thixotropic Humic Cryorthod,56.461,-132.617,HIGH,NA,NA,NA,E1,0,8,8,,,,0.00,0.93,0.93,0,17.07,12700,,12700,,,Ferro-Humic Podzol,E1
+262,NRCS (Michaelson et al. 2013),81AK280007,Thixotropic Humic Cryorthod,56.461,-132.617,HIGH,NA,NA,NA,E2,8,15,7,,,,0.00,0.93,0.93,0,5.17,3363,,3363,,,Ferro-Humic Podzol,E2
+263,NRCS (Michaelson et al. 2013),81AK280007,Thixotropic Humic Cryorthod,56.461,-132.617,HIGH,NA,NA,NA,Bs1,15,38,23,,,,0.00,1.17,1.17,0,1.66,4469,,4469,,,Ferro-Humic Podzol,bf1
+264,NRCS (Michaelson et al. 2013),81AK280007,Thixotropic Humic Cryorthod,56.461,-132.617,HIGH,NA,NA,NA,Bs2,38,56,18,,,,0.00,1.17,1.17,5,1.01,2028,,2028,,,Ferro-Humic Podzol,bf2
+265,NRCS (Michaelson et al. 2013),81AK280007,Thixotropic Humic Cryorthod,56.461,-132.617,HIGH,NA,NA,NA,C1,56,94,38,,,,0.00,1.74,1.74,5,0.93,5822,,5822,,,Ferro-Humic Podzol,C1
+266,NRCS (Michaelson et al. 2013),81AK280007,Thixotropic Humic Cryorthod,56.461,-132.617,HIGH,NA,NA,NA,C2,94,152,58,,,,0.00,1.74,1.74,5,0.89,8516,,881,,,Ferro-Humic Podzol,C2
+267,NRCS (Michaelson et al. 2013),81AK280014,"Sandy-skeletal, mixed Entic Cryumbrept",56.496,-133.372,HIGH,NA,NA,NA,O1,20,15,5,91,20,111,0.00,0.16,0.16,0,37.79,3023,27453,3023,274.5,36.17,Dystric Brunisol,O1
+268,NRCS (Michaelson et al. 2013),81AK280014,"Sandy-skeletal, mixed Entic Cryumbrept",56.496,-133.372,HIGH,NA,NA,NA,O2,15,0,15,,,,0.00,0.16,0.16,0,37.79,9070,,9070,,,Dystric Brunisol,O2
+269,NRCS (Michaelson et al. 2013),81AK280014,"Sandy-skeletal, mixed Entic Cryumbrept",56.496,-133.372,HIGH,NA,NA,NA,E,0,23,23,,,,0.00,1.24,1.24,0,2.07,5914,,5914,,,Dystric Brunisol,E
+270,NRCS (Michaelson et al. 2013),81AK280014,"Sandy-skeletal, mixed Entic Cryumbrept",56.496,-133.372,HIGH,NA,NA,NA,C,23,91,68,,,,0.00,1.38,1.38,65,2.88,9447,,9447,,,Dystric Brunisol,C
+271,NRCS (Michaelson et al. 2013),81AK280006,Thixotropic Humic Cryorthod,56.583,-133.783,HIGH,NA,NA,NA,O,13,0,13,152,13,165,0.00,0.11,0.11,0,37.79,5404,154334,5404,1050.4,89.59,Ferro-Humic Podzol,O
+272,NRCS (Michaelson et al. 2013),81AK280006,Thixotropic Humic Cryorthod,56.583,-133.783,HIGH,NA,NA,NA,Bhs,0,10,10,,,,0.00,0.86,0.86,10,18.01,13937,,13937,,,Ferro-Humic Podzol,Bhf
+273,NRCS (Michaelson et al. 2013),81AK280006,Thixotropic Humic Cryorthod,56.583,-133.783,HIGH,NA,NA,NA,Bs,10,28,18,,,,0.00,1.17,1.17,10,9.20,17440,,17440,,,Ferro-Humic Podzol,bf
+274,NRCS (Michaelson et al. 2013),81AK280006,Thixotropic Humic Cryorthod,56.583,-133.783,HIGH,NA,NA,NA,C,28,152,124,,,,0.00,1.74,1.74,10,6.05,117553,,68257,,,Ferro-Humic Podzol,C
+275,NRCS (Michaelson et al. 2013),82AK280002,Medial-skeletal Sideric Cryaquod,56.597,-133.700,HIGH,NA,NA,NA,O1,20,5,15,102,20,122,0.00,0.11,0.11,0,37.79,6236,35813,6236,354.7,71.49,Humic Podzol,O1
+276,NRCS (Michaelson et al. 2013),82AK280002,Medial-skeletal Sideric Cryaquod,56.597,-133.700,HIGH,NA,NA,NA,O2,5,0,5,,,,0.00,0.11,0.11,0,37.79,2079,,2079,,,Humic Podzol,O2
+277,NRCS (Michaelson et al. 2013),82AK280002,Medial-skeletal Sideric Cryaquod,56.597,-133.700,HIGH,NA,NA,NA,A,0,5,5,,,,0.00,0.93,0.93,0,8.63,4014,,4014,,,Humic Podzol,A
+278,NRCS (Michaelson et al. 2013),82AK280002,Medial-skeletal Sideric Cryaquod,56.597,-133.700,HIGH,NA,NA,NA,Bhs,5,23,18,,,,0.00,0.86,0.86,30,7.16,7763,,7763,,,Humic Podzol,Bhf
+279,NRCS (Michaelson et al. 2013),82AK280002,Medial-skeletal Sideric Cryaquod,56.597,-133.700,HIGH,NA,NA,NA,Bs,23,28,5,,,,0.00,1.17,1.17,20,6.85,3204,,3204,,,Humic Podzol,bf
+280,NRCS (Michaelson et al. 2013),82AK280002,Medial-skeletal Sideric Cryaquod,56.597,-133.700,HIGH,NA,NA,NA,C,28,102,74,,,,0.00,1.74,1.74,5,1.02,12519,,12180,,,Humic Podzol,C
+281,NRCS (Michaelson et al. 2013),81AK280010,"Medial over sandy or sandy-skeletal, mixed Typic Cryorthod",56.700,-134.244,HIGH,NA,NA,NA,O1,10,8,2,142,10,152,0.00,0.14,0.14,0,37.79,1058,47132,1058,395.4,48.46,Humo-Ferric Podzol,O1
+282,NRCS (Michaelson et al. 2013),81AK280010,"Medial over sandy or sandy-skeletal, mixed Typic Cryorthod",56.700,-134.244,HIGH,NA,NA,NA,O2,8,0,8,,,,0.00,0.14,0.14,0,37.79,4233,,4233,,,Humo-Ferric Podzol,O2
+283,NRCS (Michaelson et al. 2013),81AK280010,"Medial over sandy or sandy-skeletal, mixed Typic Cryorthod",56.700,-134.244,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,1.31,1.31,0,5.67,2227,,2227,,,Humo-Ferric Podzol,E
+284,NRCS (Michaelson et al. 2013),81AK280010,"Medial over sandy or sandy-skeletal, mixed Typic Cryorthod",56.700,-134.244,HIGH,NA,NA,NA,Bh,3,8,5,,,,0.00,1.19,1.19,0,9.38,5578,,5578,,,Humo-Ferric Podzol,Bh
+285,NRCS (Michaelson et al. 2013),81AK280010,"Medial over sandy or sandy-skeletal, mixed Typic Cryorthod",56.700,-134.244,HIGH,NA,NA,NA,B,8,23,15,,,,0.00,1.19,1.19,5,6.06,10282,,10282,,,Humo-Ferric Podzol,B
+286,NRCS (Michaelson et al. 2013),81AK280010,"Medial over sandy or sandy-skeletal, mixed Typic Cryorthod",56.700,-134.244,HIGH,NA,NA,NA,2C1,23,36,13,,,,0.00,1.91,1.91,0,1.26,3141,,3141,,,Humo-Ferric Podzol,2C1
+287,NRCS (Michaelson et al. 2013),81AK280010,"Medial over sandy or sandy-skeletal, mixed Typic Cryorthod",56.700,-134.244,HIGH,NA,NA,NA,2C2,36,46,10,,,,0.00,1.91,1.91,25,2.28,3264,,3264,,,Humo-Ferric Podzol,2C2
+288,NRCS (Michaelson et al. 2013),81AK280010,"Medial over sandy or sandy-skeletal, mixed Typic Cryorthod",56.700,-134.244,HIGH,NA,NA,NA,2C3,46,142,96,,,,0.00,1.91,1.91,0,0.95,17349,,9759,,,Humo-Ferric Podzol,2C3
+289,NRCS (Michaelson et al. 2013),81AK280011,Thixotropic-skeletal Typic Cryaquod,56.757,-133.917,HIGH,NA,NA,NA,O,8,0,8,71,8,79,0.00,0.11,0.11,0,37.79,3326,29630,3326,296.3,45.55,Humic Podzol,O
+290,NRCS (Michaelson et al. 2013),81AK280011,Thixotropic-skeletal Typic Cryaquod,56.757,-133.917,HIGH,NA,NA,NA,E1,0,18,18,,,,0.00,0.93,0.93,19,8.38,11364,,11364,,,Humic Podzol,E1
+291,NRCS (Michaelson et al. 2013),81AK280011,Thixotropic-skeletal Typic Cryaquod,56.757,-133.917,HIGH,NA,NA,NA,E2,18,36,18,,,,0.00,0.93,0.93,40,6.84,6866,,6866,,,Humic Podzol,E2
+292,NRCS (Michaelson et al. 2013),81AK280011,Thixotropic-skeletal Typic Cryaquod,56.757,-133.917,HIGH,NA,NA,NA,Bhs,36,58,22,,,,0.00,0.86,0.86,65,7.22,4782,,4782,,,Humic Podzol,Bhf
+293,NRCS (Michaelson et al. 2013),81AK280011,Thixotropic-skeletal Typic Cryaquod,56.757,-133.917,HIGH,NA,NA,NA,Bs,58,71,13,,,,0.00,1.17,1.17,75,8.66,3293,,3293,,,Humic Podzol,bf
+294,NRCS (Michaelson et al. 2013),81AK280001,Dysic Lithic Cryofolist,56.849,-133.861,HIGH,NA,NA,NA,Oi,23,18,5,5,23,28,0.00,0.08,0.08,0,36.67,1467,60843,1467,172.2,44.53,Folisol,Of
+295,NRCS (Michaelson et al. 2013),81AK280001,Dysic Lithic Cryofolist,56.849,-133.861,HIGH,NA,NA,NA,Oe,18,8,10,,,,0.00,0.12,0.12,0,40.64,4877,,4877,,,Folisol,Om
+296,NRCS (Michaelson et al. 2013),81AK280001,Dysic Lithic Cryofolist,56.849,-133.861,HIGH,NA,NA,NA,Oa,8,0,8,,,,0.00,0.15,0.15,0,36.07,4328,,4328,,,Folisol,Oh
+297,NRCS (Michaelson et al. 2013),81AK280001,Dysic Lithic Cryofolist,56.849,-133.861,HIGH,NA,NA,NA,C,0,5,5,,,,0.00,1.74,1.74,0,7.52,6545,,6545,,,Folisol,C
+298,NRCS (Michaelson et al. 2013),85AK280003,"Loamy, mixed Humic Cryorthod",56.904,-133.764,HIGH,NA,NA,NA,Oe,13,0,13,152,13,165,0.00,0.12,0.12,0,55.18,8608,42747,8608,332.3,62.17,Ferro-Humic Podzol,Om
+299,NRCS (Michaelson et al. 2013),85AK280003,"Loamy, mixed Humic Cryorthod",56.904,-133.764,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,3,5.07,1372,,1372,,,Ferro-Humic Podzol,E
+300,NRCS (Michaelson et al. 2013),85AK280003,"Loamy, mixed Humic Cryorthod",56.904,-133.764,HIGH,NA,NA,NA,Bh,3,8,5,,,,0.00,0.86,0.86,7,12.23,4892,,4892,,,Ferro-Humic Podzol,Bh
+301,NRCS (Michaelson et al. 2013),85AK280003,"Loamy, mixed Humic Cryorthod",56.904,-133.764,HIGH,NA,NA,NA,Bs,8,64,56,,,,0.00,1.17,1.17,12,2.23,12859,,12859,,,Ferro-Humic Podzol,bf
+302,NRCS (Michaelson et al. 2013),85AK280003,"Loamy, mixed Humic Cryorthod",56.904,-133.764,HIGH,NA,NA,NA,BC,64,89,25,,,,0.00,1.71,1.71,11,0.92,3490,,3490,,,Ferro-Humic Podzol,BC
+303,NRCS (Michaelson et al. 2013),85AK280003,"Loamy, mixed Humic Cryorthod",56.904,-133.764,HIGH,NA,NA,NA,C,89,152,63,,,,0.00,1.74,1.74,10,1.17,11526,,2012,,,Ferro-Humic Podzol,C
+304,NRCS (Michaelson et al. 2013),85AK280004,"Loamy-skeletal, mixed, euic Terric Cryosaprist",56.901,-133.761,HIGH,NA,NA,NA,Oi,0,3,3,94,58,152,0.00,0.08,0.08,,36.67,880,37670,880,376.7,96.25,Humisol,Of
+305,NRCS (Michaelson et al. 2013),85AK280004,"Loamy-skeletal, mixed, euic Terric Cryosaprist",56.901,-133.761,HIGH,NA,NA,NA,Oe,3,10,7,,,,0.00,0.12,0.12,,40.64,3414,,3414,,,Humisol,Om
+306,NRCS (Michaelson et al. 2013),85AK280004,"Loamy-skeletal, mixed, euic Terric Cryosaprist",56.901,-133.761,HIGH,NA,NA,NA,Oa,10,58,48,,,,0.00,0.15,0.15,0,23.81,17144,,17144,,,Humisol,Oh
+307,NRCS (Michaelson et al. 2013),85AK280004,"Loamy-skeletal, mixed, euic Terric Cryosaprist",56.901,-133.761,HIGH,NA,NA,NA,2C,58,152,94,,,,0.00,1.74,1.74,19,1.23,16232,,16232,,,Humisol,2C
+308,NRCS (Michaelson et al. 2013),81AK280004,Thixotropic-skeletal Humic Cryorthod,56.922,-134.250,HIGH,NA,NA,NA,O1,10,8,2,71,10,81,0.00,0.11,0.11,0,37.79,831,35799,831,358.0,50.40,Ferro-Humic Podzol,O1
+309,NRCS (Michaelson et al. 2013),81AK280004,Thixotropic-skeletal Humic Cryorthod,56.922,-134.250,HIGH,NA,NA,NA,O2,8,0,8,,,,0.00,0.11,0.11,0,37.79,3326,,3326,,,Ferro-Humic Podzol,O2
+310,NRCS (Michaelson et al. 2013),81AK280004,Thixotropic-skeletal Humic Cryorthod,56.922,-134.250,HIGH,NA,NA,NA,Bhs,0,13,13,,,,0.00,0.86,0.86,20,10.49,9378,,9378,,,Ferro-Humic Podzol,Bhf
+311,NRCS (Michaelson et al. 2013),81AK280004,Thixotropic-skeletal Humic Cryorthod,56.922,-134.250,HIGH,NA,NA,NA,Bs1,13,25,12,,,,0.00,1.17,1.17,20,5.83,6550,,6550,,,Ferro-Humic Podzol,bf1
+312,NRCS (Michaelson et al. 2013),81AK280004,Thixotropic-skeletal Humic Cryorthod,56.922,-134.250,HIGH,NA,NA,NA,Bs2,25,46,21,,,,0.00,1.17,1.17,31,2.31,3912,,3912,,,Ferro-Humic Podzol,bf2
+313,NRCS (Michaelson et al. 2013),81AK280004,Thixotropic-skeletal Humic Cryorthod,56.922,-134.250,HIGH,NA,NA,NA,C,46,71,25,,,,0.00,1.74,1.74,43,4.76,11802,,11802,,,Ferro-Humic Podzol,C
+314,NRCS (Michaelson et al. 2013),81AK280005,"Loamy, mixed Lithic Cryorthod",56.917,-134.200,HIGH,NA,NA,NA,Oa,13,0,13,38,13,51,0.00,0.15,0.15,0,36.07,7033,31469,7033,314.7,47.94,Humo-Ferric Podzol,Oh
+315,NRCS (Michaelson et al. 2013),81AK280005,"Loamy, mixed Lithic Cryorthod",56.917,-134.200,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,1.31,1.31,5,5.60,2091,,2091,,,Humo-Ferric Podzol,E
+316,NRCS (Michaelson et al. 2013),81AK280005,"Loamy, mixed Lithic Cryorthod",56.917,-134.200,HIGH,NA,NA,NA,Bs,3,5,2,,,,0.00,1.46,1.46,5,10.70,2968,,2968,,,Humo-Ferric Podzol,bf
+317,NRCS (Michaelson et al. 2013),81AK280005,"Loamy, mixed Lithic Cryorthod",56.917,-134.200,HIGH,NA,NA,NA,B,5,13,8,,,,0.00,1.19,1.19,5,6.29,5685,,5685,,,Humo-Ferric Podzol,B
+318,NRCS (Michaelson et al. 2013),81AK280005,"Loamy, mixed Lithic Cryorthod",56.917,-134.200,HIGH,NA,NA,NA,C,13,38,25,,,,0.00,1.91,1.91,10,3.19,13692,,13692,,,Humo-Ferric Podzol,C
+319,NRCS (Michaelson et al. 2013),81AK280012,Thixotropic Humic Cryorthod,56.921,-134.244,HIGH,NA,NA,NA,O1,23,18,5,89,23,112,0.00,0.11,0.11,0,37.79,2079,55091,2079,550.9,90.46,Ferro-Humic Podzol,O1
+320,NRCS (Michaelson et al. 2013),81AK280012,Thixotropic Humic Cryorthod,56.921,-134.244,HIGH,NA,NA,NA,O2,18,0,18,,,,0.00,0.11,0.11,0,37.79,7483,,7483,,,Ferro-Humic Podzol,O2
+321,NRCS (Michaelson et al. 2013),81AK280012,Thixotropic Humic Cryorthod,56.921,-134.244,HIGH,NA,NA,NA,E,0,2,2,,,,0.00,0.93,0.93,0,5.84,1086,,1086,,,Ferro-Humic Podzol,E
+322,NRCS (Michaelson et al. 2013),81AK280012,Thixotropic Humic Cryorthod,56.921,-134.244,HIGH,NA,NA,NA,Bhs,2,20,18,,,,0.00,0.86,0.86,15,16.74,22029,,22029,,,Ferro-Humic Podzol,Bhf
+323,NRCS (Michaelson et al. 2013),81AK280012,Thixotropic Humic Cryorthod,56.921,-134.244,HIGH,NA,NA,NA,B,20,33,13,,,,0.00,1.71,1.71,15,4.70,8885,,8885,,,Ferro-Humic Podzol,B
+324,NRCS (Michaelson et al. 2013),81AK280012,Thixotropic Humic Cryorthod,56.921,-134.244,HIGH,NA,NA,NA,C,33,89,56,,,,0.00,1.74,1.74,6,1.48,13530,,13530,,,Ferro-Humic Podzol,C
+325,NRCS (Michaelson et al. 2013),81AK280013,"Loamy, mixed Typic Cryorthod",56.917,-134.204,HIGH,NA,NA,NA,Oa,8,0,8,130,8,138,0.00,0.15,0.15,0,36.07,4328,27759,4328,234.8,32.72,Humo-Ferric Podzol,Oh
+326,NRCS (Michaelson et al. 2013),81AK280013,"Loamy, mixed Typic Cryorthod",56.917,-134.204,HIGH,NA,NA,NA,E,0,1,1,,,,0.00,1.31,1.31,0,5.84,765,,765,,,Humo-Ferric Podzol,E
+327,NRCS (Michaelson et al. 2013),81AK280013,"Loamy, mixed Typic Cryorthod",56.917,-134.204,HIGH,NA,NA,NA,Bhs,1,5,4,,,,0.00,1.19,1.19,10,11.89,5092,,5092,,,Humo-Ferric Podzol,Bhf
+328,NRCS (Michaelson et al. 2013),81AK280013,"Loamy, mixed Typic Cryorthod",56.917,-134.204,HIGH,NA,NA,NA,A,5,33,28,,,,0.00,1.31,1.31,10,1.13,3729,,3729,,,Humo-Ferric Podzol,A
+329,NRCS (Michaelson et al. 2013),81AK280013,"Loamy, mixed Typic Cryorthod",56.917,-134.204,HIGH,NA,NA,NA,C,33,130,97,,,,0.00,1.91,1.91,10,0.83,13845,,9563,,,Humo-Ferric Podzol,C
+330,NRCS (Michaelson et al. 2013),83AK280005,"Sandy-skeletal, mixed Humic Cryorthod",56.917,-132.829,HIGH,NA,NA,NA,O1,15,10,5,152,15,167,0.00,0.11,0.11,0,37.79,2079,16919,2079,154.0,59.62,Ferro-Humic Podzol,O1
+331,NRCS (Michaelson et al. 2013),83AK280005,"Sandy-skeletal, mixed Humic Cryorthod",56.917,-132.829,HIGH,NA,NA,NA,O,10,0,10,,,,0.00,0.11,0.11,0,20.32,2236,,2236,,,Ferro-Humic Podzol,O
+332,NRCS (Michaelson et al. 2013),83AK280005,"Sandy-skeletal, mixed Humic Cryorthod",56.917,-132.829,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,0,5.84,1629,,1629,,,Ferro-Humic Podzol,E
+333,NRCS (Michaelson et al. 2013),83AK280005,"Sandy-skeletal, mixed Humic Cryorthod",56.917,-132.829,HIGH,NA,NA,NA,Bs1,3,5,2,,,,0.00,1.17,1.17,12,7.92,1630,,1630,,,Ferro-Humic Podzol,bf1
+334,NRCS (Michaelson et al. 2013),83AK280005,"Sandy-skeletal, mixed Humic Cryorthod",56.917,-132.829,HIGH,NA,NA,NA,Bs2,5,10,5,,,,0.00,1.17,1.17,17,4.67,2269,,2269,,,Ferro-Humic Podzol,bf2
+335,NRCS (Michaelson et al. 2013),83AK280005,"Sandy-skeletal, mixed Humic Cryorthod",56.917,-132.829,HIGH,NA,NA,NA,B,10,23,13,,,,0.00,1.71,1.71,27,2.04,3306,,3306,,,Ferro-Humic Podzol,B
+336,NRCS (Michaelson et al. 2013),83AK280005,"Sandy-skeletal, mixed Humic Cryorthod",56.917,-132.829,HIGH,NA,NA,NA,2C,23,152,129,,,,0.00,1.74,1.74,42,0.29,3771,,2251,,,Ferro-Humic Podzol,2C
+337,NRCS (Michaelson et al. 2013),83AK280007,"Sandy, mixed Humic Cryorthod",56.917,-132.832,HIGH,NA,NA,NA,O,15,0,15,152,15,167,0.00,0.11,0.11,0,45.60,7524,17156,7524,156.6,49.74,Ferro-Humic Podzol,O
+338,NRCS (Michaelson et al. 2013),83AK280007,"Sandy, mixed Humic Cryorthod",56.917,-132.832,HIGH,NA,NA,NA,A,0,5,5,,,,0.00,0.93,0.93,3,0.42,192,,192,,,Ferro-Humic Podzol,A
+339,NRCS (Michaelson et al. 2013),83AK280007,"Sandy, mixed Humic Cryorthod",56.917,-132.832,HIGH,NA,NA,NA,Bhs,5,23,18,,,,0.00,0.86,0.86,9,2.03,2856,,2856,,,Ferro-Humic Podzol,Bhf
+340,NRCS (Michaelson et al. 2013),83AK280007,"Sandy, mixed Humic Cryorthod",56.917,-132.832,HIGH,NA,NA,NA,Bs,23,38,15,,,,0.00,1.17,1.17,0,0.92,1610,,1610,,,Ferro-Humic Podzol,bf
+341,NRCS (Michaelson et al. 2013),83AK280007,"Sandy, mixed Humic Cryorthod",56.917,-132.832,HIGH,NA,NA,NA,C,38,64,26,,,,0.00,1.74,1.74,0,0.54,2446,,2446,,,Ferro-Humic Podzol,C
+342,NRCS (Michaelson et al. 2013),83AK280007,"Sandy, mixed Humic Cryorthod",56.917,-132.832,HIGH,NA,NA,NA,2C,64,152,88,,,,0.00,1.74,1.74,5,0.17,2528,,1034,,,Ferro-Humic Podzol,2C
+343,NRCS (Michaelson et al. 2013),85AK280001,"Fine-silty, mixed Typic Cryaquod",56.924,-133.811,HIGH,NA,NA,NA,Oi,25,18,7,152,25,177,0.00,0.08,0.08,0,51.87,2905,52508,2905,502.4,107.13,Humic Podzol,Of
+344,NRCS (Michaelson et al. 2013),85AK280001,"Fine-silty, mixed Typic Cryaquod",56.924,-133.811,HIGH,NA,NA,NA,Oa,18,0,18,,,,0.00,0.15,0.15,0,54.26,14650,,14650,,,Humic Podzol,Oh
+345,NRCS (Michaelson et al. 2013),85AK280001,"Fine-silty, mixed Typic Cryaquod",56.924,-133.811,HIGH,NA,NA,NA,E,0,8,8,,,,0.00,0.93,0.93,9,14.39,9740,,9740,,,Humic Podzol,E
+346,NRCS (Michaelson et al. 2013),85AK280001,"Fine-silty, mixed Typic Cryaquod",56.924,-133.811,HIGH,NA,NA,NA,Bh,8,15,7,,,,0.00,0.86,0.86,0,11.56,6957,,6957,,,Humic Podzol,Bh
+347,NRCS (Michaelson et al. 2013),85AK280001,"Fine-silty, mixed Typic Cryaquod",56.924,-133.811,HIGH,NA,NA,NA,Bhs,15,28,13,,,,0.00,0.86,0.86,0,8.00,8948,,8948,,,Humic Podzol,Bhf
+348,NRCS (Michaelson et al. 2013),85AK280001,"Fine-silty, mixed Typic Cryaquod",56.924,-133.811,HIGH,NA,NA,NA,Bs,28,41,13,,,,0.00,1.17,1.17,0,2.73,4156,,4156,,,Humic Podzol,bf
+349,NRCS (Michaelson et al. 2013),85AK280001,"Fine-silty, mixed Typic Cryaquod",56.924,-133.811,HIGH,NA,NA,NA,BC,41,69,28,,,,0.00,1.71,1.71,0,0.32,1526,,1526,,,Humic Podzol,BC
+350,NRCS (Michaelson et al. 2013),85AK280001,"Fine-silty, mixed Typic Cryaquod",56.924,-133.811,HIGH,NA,NA,NA,C,69,152,83,,,,0.00,1.74,1.74,0,0.25,3625,,1354,,,Humic Podzol,C
+351,NRCS (Michaelson et al. 2013),85AK280002,"Fine-silty, mixed Humic Cryorthod",56.919,-133.810,HIGH,NA,NA,NA,Oa,15,0,15,152,15,167,0.00,0.15,0.15,0,51.49,11585,39601,11585,368.1,67.93,Ferro-Humic Podzol,Oh
+352,NRCS (Michaelson et al. 2013),85AK280002,"Fine-silty, mixed Humic Cryorthod",56.919,-133.810,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,0,8.01,2236,,2236,,,Ferro-Humic Podzol,E
+353,NRCS (Michaelson et al. 2013),85AK280002,"Fine-silty, mixed Humic Cryorthod",56.919,-133.810,HIGH,NA,NA,NA,Bh,3,8,5,,,,0.00,0.86,0.86,0,13.08,5625,,5625,,,Ferro-Humic Podzol,Bh
+354,NRCS (Michaelson et al. 2013),85AK280002,"Fine-silty, mixed Humic Cryorthod",56.919,-133.810,HIGH,NA,NA,NA,Bhs,8,13,5,,,,0.00,0.86,0.86,1,8.77,3732,,3732,,,Ferro-Humic Podzol,Bhf
+355,NRCS (Michaelson et al. 2013),85AK280002,"Fine-silty, mixed Humic Cryorthod",56.919,-133.810,HIGH,NA,NA,NA,Bs,13,23,10,,,,0.00,1.17,1.17,0,6.70,7840,,7840,,,Ferro-Humic Podzol,bf
+356,NRCS (Michaelson et al. 2013),85AK280002,"Fine-silty, mixed Humic Cryorthod",56.919,-133.810,HIGH,NA,NA,NA,Bm,23,43,20,,,,0.00,0.86,0.86,1,0.83,1414,,1414,,,Ferro-Humic Podzol,Bm
+357,NRCS (Michaelson et al. 2013),85AK280002,"Fine-silty, mixed Humic Cryorthod",56.919,-133.810,HIGH,NA,NA,NA,BC,43,86,43,,,,0.00,1.71,1.71,0,0.49,3621,,3621,,,Ferro-Humic Podzol,BC
+358,NRCS (Michaelson et al. 2013),85AK280002,"Fine-silty, mixed Humic Cryorthod",56.919,-133.810,HIGH,NA,NA,NA,C,86,152,66,,,,0.00,1.74,1.74,0,0.31,3548,,753,,,Ferro-Humic Podzol,C
+359,NRCS (Michaelson et al. 2013),83AK130004,Thixotropic Humic Lithic Cryorthod,55.003,-133.160,HIGH,NA,NA,NA,O,20,10,10,42,20,62,0.00,0.14,0.14,0,42.78,5990,21695,5990,216.9,42.43,Humo-Ferric Podzol,O
+360,NRCS (Michaelson et al. 2013),83AK130004,Thixotropic Humic Lithic Cryorthod,55.003,-133.160,HIGH,NA,NA,NA,Oa,10,0,10,,,,0.00,0.15,0.15,0,38.71,5807,,5807,,,Humo-Ferric Podzol,Oh
+361,NRCS (Michaelson et al. 2013),83AK130004,Thixotropic Humic Lithic Cryorthod,55.003,-133.160,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,1.31,1.31,13,1.87,640,,640,,,Humo-Ferric Podzol,E
+362,NRCS (Michaelson et al. 2013),83AK130004,Thixotropic Humic Lithic Cryorthod,55.003,-133.160,HIGH,NA,NA,NA,Bs1,3,19,16,,,,0.00,1.46,1.46,8,1.58,3396,,3396,,,Humo-Ferric Podzol,bf1
+363,NRCS (Michaelson et al. 2013),83AK130004,Thixotropic Humic Lithic Cryorthod,55.003,-133.160,HIGH,NA,NA,NA,Bs2,19,36,17,,,,0.00,1.46,1.46,11,1.76,3879,,3879,,,Humo-Ferric Podzol,bf2
+364,NRCS (Michaelson et al. 2013),83AK130004,Thixotropic Humic Lithic Cryorthod,55.003,-133.160,HIGH,NA,NA,NA,BC,36,42,6,,,,0.00,1.19,1.19,2,2.83,1983,,1983,,,Humo-Ferric Podzol,BC
+365,NRCS (Michaelson et al. 2013),83AK130157,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,O,15,0,15,109,15,124,0.00,0.11,0.11,0,25.79,4255,42753,4255,392.1,55.11,Ferro-Humic Podzol,O
+366,NRCS (Michaelson et al. 2013),83AK130157,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,E,0,1,1,,,,0.00,0.93,0.93,6,4.34,379,,379,,,Ferro-Humic Podzol,E
+367,NRCS (Michaelson et al. 2013),83AK130157,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,Bh,1,5,4,,,,0.00,0.86,0.86,2,4.30,1448,,1448,,,Ferro-Humic Podzol,Bh
+368,NRCS (Michaelson et al. 2013),83AK130157,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,Bs1,5,33,28,,,,0.00,1.17,1.17,12,2.34,6736,,6736,,,Ferro-Humic Podzol,bf1
+369,NRCS (Michaelson et al. 2013),83AK130157,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,Bs2,33,109,76,,,,0.00,1.17,1.17,8,3.66,29935,,26390,,,Ferro-Humic Podzol,bf2
+370,NRCS (Michaelson et al. 2013),83AK130158,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,O1,40,25,15,100,40,140,0.00,0.11,0.11,0,17.75,2928,43470,2928,434.7,86.93,Ferro-Humic Podzol,O1
+371,NRCS (Michaelson et al. 2013),83AK130158,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,O2,25,0,25,,,,0.00,0.11,0.11,0,23.79,6542,,6542,,,Ferro-Humic Podzol,O2
+372,NRCS (Michaelson et al. 2013),83AK130158,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,2,2.21,605,,605,,,Ferro-Humic Podzol,E
+373,NRCS (Michaelson et al. 2013),83AK130158,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,Bh,3,20,17,,,,0.00,0.86,0.86,3,8.46,11994,,11994,,,Ferro-Humic Podzol,Bh
+374,NRCS (Michaelson et al. 2013),83AK130158,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,Bs,20,52,32,,,,0.00,1.17,1.17,7,2.34,8136,,8136,,,Ferro-Humic Podzol,bf
+375,NRCS (Michaelson et al. 2013),83AK130158,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,C,52,100,48,,,,0.00,1.74,1.74,6,1.69,13265,,13265,,,Ferro-Humic Podzol,C
+376,NRCS (Michaelson et al. 2013),83AK130159,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,O,3,0,3,54,3,57,0.00,0.11,0.11,0,13.95,460,28479,460,284.8,17.59,Ferro-Humic Podzol,O
+377,NRCS (Michaelson et al. 2013),83AK130159,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,C1,0,15,15,,,,0.00,1.74,1.74,19,3.74,7901,,7901,,,Ferro-Humic Podzol,C1
+378,NRCS (Michaelson et al. 2013),83AK130159,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,C2,15,54,39,,,,0.00,1.74,1.74,36,4.63,20117,,20117,,,Ferro-Humic Podzol,C2
+379,NRCS (Michaelson et al. 2013),83AK130160,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,O,3,0,3,100,3,103,0.00,0.11,0.11,0,21.78,719,45093,719,450.9,41.45,Ferro-Humic Podzol,O
+380,NRCS (Michaelson et al. 2013),83AK130160,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,5,3.81,1011,,1011,,,Ferro-Humic Podzol,E
+381,NRCS (Michaelson et al. 2013),83AK130160,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,Bhs1,3,15,12,,,,0.00,0.86,0.86,11,5.45,5002,,5002,,,Ferro-Humic Podzol,Bhf1
+382,NRCS (Michaelson et al. 2013),83AK130160,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,Bhs2,15,35,20,,,,0.00,0.86,0.86,7,3.89,6224,,6224,,,Ferro-Humic Podzol,Bhf2
+383,NRCS (Michaelson et al. 2013),83AK130160,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,Bhs3,35,52,17,,,,0.00,0.86,0.86,5,3.38,4693,,4693,,,Ferro-Humic Podzol,Bhf3
+384,NRCS (Michaelson et al. 2013),83AK130160,Thixotropic Humic Cryorthod,55.071,-132.887,HIGH,NA,NA,NA,C,52,100,48,,,,0.00,1.74,1.74,9,3.61,27445,,27445,,,Ferro-Humic Podzol,C
+385,NRCS (Michaelson et al. 2013),83AK130142,Thixotropic Humic Cryorthod,55.292,-132.630,HIGH,NA,NA,NA,O,10,0,10,102,10,112,0.00,0.11,0.11,0,31.61,3477,51599,3477,503.5,56.84,Ferro-Humic Podzol,O
+386,NRCS (Michaelson et al. 2013),83AK130142,Thixotropic Humic Cryorthod,55.292,-132.630,HIGH,NA,NA,NA,E,0,2,2,,,,0.00,0.93,0.93,5,4.68,827,,827,,,Ferro-Humic Podzol,E
+387,NRCS (Michaelson et al. 2013),83AK130142,Thixotropic Humic Cryorthod,55.292,-132.630,HIGH,NA,NA,NA,Bhs1,2,13,11,,,,0.00,0.86,0.86,10,4.87,4143,,4143,,,Ferro-Humic Podzol,Bhf1
+388,NRCS (Michaelson et al. 2013),83AK130142,Thixotropic Humic Cryorthod,55.292,-132.630,HIGH,NA,NA,NA,Bhs2,13,43,30,,,,0.00,0.86,0.86,9,3.74,8773,,8773,,,Ferro-Humic Podzol,Bhf2
+389,NRCS (Michaelson et al. 2013),83AK130142,Thixotropic Humic Cryorthod,55.292,-132.630,HIGH,NA,NA,NA,BC,43,81,38,,,,0.00,1.71,1.71,15,3.84,21224,,21224,,,Ferro-Humic Podzol,BC
+390,NRCS (Michaelson et al. 2013),83AK130142,Thixotropic Humic Cryorthod,55.292,-132.630,HIGH,NA,NA,NA,C,81,102,21,,,,2.15,1.74,2.15,18,3.55,13154,,11902,,,Ferro-Humic Podzol,C
+391,NRCS (Michaelson et al. 2013),83AK130143,"Sandy-skeletal, mixed Typic Cryofluvent",55.292,-132.630,HIGH,NA,NA,NA,Oi,18,10,8,102,18,120,0.00,0.08,0.08,0,31.68,2028,28459,2028,280.6,37.67,Ferro-Humic Podzol,Of
+392,NRCS (Michaelson et al. 2013),83AK130143,"Sandy-skeletal, mixed Typic Cryofluvent",55.292,-132.630,HIGH,NA,NA,NA,Oa,10,0,10,,,,0.00,0.15,0.15,0,29.26,4388,,4388,,,Ferro-Humic Podzol,Oh
+393,NRCS (Michaelson et al. 2013),83AK130143,"Sandy-skeletal, mixed Typic Cryofluvent",55.292,-132.630,HIGH,NA,NA,NA,C1,0,23,23,,,,0.00,1.74,1.74,27,2.20,6424,,6424,,,Ferro-Humic Podzol,C1
+394,NRCS (Michaelson et al. 2013),83AK130143,"Sandy-skeletal, mixed Typic Cryofluvent",55.292,-132.630,HIGH,NA,NA,NA,C2,23,102,79,,,,0.00,1.74,1.74,55,2.53,15619,,15224,,,Ferro-Humic Podzol,C2
+395,NRCS (Michaelson et al. 2013),83AK130144,Thixotropic-skeletal Humic Cryorthod,55.425,-131.767,HIGH,NA,NA,NA,Oi,10,6,4,102,10,112,0.00,0.08,0.08,0,36.91,1181,36020,1181,360.2,40.99,Ferro-Humic Podzol,Of
+396,NRCS (Michaelson et al. 2013),83AK130144,Thixotropic-skeletal Humic Cryorthod,55.425,-131.767,HIGH,NA,NA,NA,Oa,6,0,6,,,,0.00,0.15,0.15,0,18.65,1679,,1679,,,Ferro-Humic Podzol,Oh
+397,NRCS (Michaelson et al. 2013),83AK130144,Thixotropic-skeletal Humic Cryorthod,55.425,-131.767,HIGH,NA,NA,NA,Bh,0,5,5,,,,0.00,0.86,0.86,15,6.81,2488,,2488,,,Ferro-Humic Podzol,Bh
+398,NRCS (Michaelson et al. 2013),83AK130144,Thixotropic-skeletal Humic Cryorthod,55.425,-131.767,HIGH,NA,NA,NA,Bs1,5,30,25,,,,0.00,1.17,1.17,53,11.68,16061,,16061,,,Ferro-Humic Podzol,bf1
+399,NRCS (Michaelson et al. 2013),83AK130144,Thixotropic-skeletal Humic Cryorthod,55.425,-131.767,HIGH,NA,NA,NA,Bs2,30,76,46,,,,0.00,1.17,1.17,69,3.52,5880,,5880,,,Ferro-Humic Podzol,bf2
+400,NRCS (Michaelson et al. 2013),83AK130144,Thixotropic-skeletal Humic Cryorthod,55.425,-131.767,HIGH,NA,NA,NA,C,76,102,26,,,,0.00,1.74,1.74,44,3.45,8732,,8732,,,Ferro-Humic Podzol,C
+401,NRCS (Michaelson et al. 2013),82AK130132,Thixotropic Humic Cryorthod,55.436,-132.508,HIGH,NA,NA,NA,Oi,35,21,14,100,35,135,0.00,0.08,0.08,0,36.67,4107,53171,4107,531.7,110.76,Ferro-Humic Podzol,Of
+402,NRCS (Michaelson et al. 2013),82AK130132,Thixotropic Humic Cryorthod,55.436,-132.508,HIGH,NA,NA,NA,Oe,21,0,21,,,,0.00,0.12,0.12,0,40.64,10241,,10241,,,Ferro-Humic Podzol,Om
+403,NRCS (Michaelson et al. 2013),82AK130132,Thixotropic Humic Cryorthod,55.436,-132.508,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,6,1.81,474,,474,,,Ferro-Humic Podzol,E
+404,NRCS (Michaelson et al. 2013),82AK130132,Thixotropic Humic Cryorthod,55.436,-132.508,HIGH,NA,NA,NA,Bh,3,6,3,,,,0.00,0.86,0.86,15,6.17,1353,,1353,,,Ferro-Humic Podzol,Bh
+405,NRCS (Michaelson et al. 2013),82AK130132,Thixotropic Humic Cryorthod,55.436,-132.508,HIGH,NA,NA,NA,Bs,6,28,22,,,,0.00,1.17,1.17,9,5.54,12981,,12981,,,Ferro-Humic Podzol,bf
+406,NRCS (Michaelson et al. 2013),82AK130132,Thixotropic Humic Cryorthod,55.436,-132.508,HIGH,NA,NA,NA,By,28,64,36,,,,0.00,1.71,1.71,24,3.26,15268,,15268,,,Ferro-Humic Podzol,By
+407,NRCS (Michaelson et al. 2013),82AK130132,Thixotropic Humic Cryorthod,55.436,-132.508,HIGH,NA,NA,NA,C,64,100,36,,,,0.00,1.74,1.74,36,2.18,8748,,8748,,,Ferro-Humic Podzol,C
+408,NRCS (Michaelson et al. 2013),82AK130147,Thixotropic-skeletal Humic Cryorthod,55.442,-132.496,HIGH,NA,NA,NA,Oi,23,13,10,66,23,89,0.00,0.08,0.08,0,36.67,2933,21267,2933,212.7,69.44,Ferro-Humic Podzol,Of
+409,NRCS (Michaelson et al. 2013),82AK130147,Thixotropic-skeletal Humic Cryorthod,55.442,-132.496,HIGH,NA,NA,NA,Oe,13,0,13,,,,0.00,0.12,0.12,0,40.64,6340,,6340,,,Ferro-Humic Podzol,Om
+410,NRCS (Michaelson et al. 2013),82AK130147,Thixotropic-skeletal Humic Cryorthod,55.442,-132.496,HIGH,NA,NA,NA,E,0,5,5,,,,0.00,0.93,0.93,8,2.72,1165,,1165,,,Ferro-Humic Podzol,E
+411,NRCS (Michaelson et al. 2013),82AK130147,Thixotropic-skeletal Humic Cryorthod,55.442,-132.496,HIGH,NA,NA,NA,Bhs,5,23,18,,,,0.00,0.86,0.86,26,5.67,6492,,6492,,,Ferro-Humic Podzol,Bhf
+412,NRCS (Michaelson et al. 2013),82AK130147,Thixotropic-skeletal Humic Cryorthod,55.442,-132.496,HIGH,NA,NA,NA,BC,23,46,23,,,,0.00,1.71,1.71,35,1.40,3579,,3579,,,Ferro-Humic Podzol,BC
+413,NRCS (Michaelson et al. 2013),82AK130147,Thixotropic-skeletal Humic Cryorthod,55.442,-132.496,HIGH,NA,NA,NA,C,46,66,20,,,,0.00,1.74,1.74,59,0.53,758,,758,,,Ferro-Humic Podzol,C
+414,NRCS (Michaelson et al. 2013),78AK130001,"Thixotropic, mixed Humic Lithic Cryorthod",55.468,-131.644,HIGH,NA,NA,NA,O,10,0,10,41,10,51,0.00,0.11,0.11,0,61.83,6801,12749,6801,127.5,39.61,Ferro-Humic Podzol,O
+415,NRCS (Michaelson et al. 2013),78AK130001,"Thixotropic, mixed Humic Lithic Cryorthod",55.468,-131.644,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,0,1.54,428,,428,,,Ferro-Humic Podzol,E
+416,NRCS (Michaelson et al. 2013),78AK130001,"Thixotropic, mixed Humic Lithic Cryorthod",55.468,-131.644,HIGH,NA,NA,NA,Bhs,3,8,5,,,,0.00,0.86,0.86,1,3.63,1545,,1545,,,Ferro-Humic Podzol,Bhf
+417,NRCS (Michaelson et al. 2013),78AK130001,"Thixotropic, mixed Humic Lithic Cryorthod",55.468,-131.644,HIGH,NA,NA,NA,Bs,8,15,7,,,,0.00,1.17,1.17,1,2.53,2051,,2051,,,Ferro-Humic Podzol,bf
+418,NRCS (Michaelson et al. 2013),78AK130001,"Thixotropic, mixed Humic Lithic Cryorthod",55.468,-131.644,HIGH,NA,NA,NA,Cr,15,41,26,,,,0.00,1.74,1.74,38,0.69,1923,,1923,,,Ferro-Humic Podzol,Cr
+419,NRCS (Michaelson et al. 2013),78AK130001,"Thixotropic, mixed Humic Lithic Cryorthod",55.468,-131.644,HIGH,NA,NA,NA,R,41,41.00,0,,,,0.00,0,0,0,0.00,0,,0,,,Ferro-Humic Podzol,R
+420,NRCS (Michaelson et al. 2013),83AK130023,"Loamy-skeletal, mixed Humic Cryorthod",55.492,-132.471,HIGH,NA,NA,NA,Oa,15,0,15,49,15,64,0.00,0.15,0.15,0,28.32,6372,24272,6372,242.7,44.35,Ferro-Humic Podzol,Oh
+421,NRCS (Michaelson et al. 2013),83AK130023,"Loamy-skeletal, mixed Humic Cryorthod",55.492,-132.471,HIGH,NA,NA,NA,E,0,2,2,,,,0.00,0.93,0.93,23,9.40,1347,,1347,,,Ferro-Humic Podzol,E
+422,NRCS (Michaelson et al. 2013),83AK130023,"Loamy-skeletal, mixed Humic Cryorthod",55.492,-132.471,HIGH,NA,NA,NA,Bhs,2,15,13,,,,0.00,0.86,0.86,74,9.49,2759,,2759,,,Ferro-Humic Podzol,Bhf
+423,NRCS (Michaelson et al. 2013),83AK130023,"Loamy-skeletal, mixed Humic Cryorthod",55.492,-132.471,HIGH,NA,NA,NA,Bs1,15,32,17,,,,0.00,1.17,1.17,47,9.27,9771,,9771,,,Ferro-Humic Podzol,bf1
+424,NRCS (Michaelson et al. 2013),83AK130023,"Loamy-skeletal, mixed Humic Cryorthod",55.492,-132.471,HIGH,NA,NA,NA,Bs2,32,49,17,,,,0.00,1.17,1.17,69,6.53,4024,,4024,,,Ferro-Humic Podzol,bf2
+425,NRCS (Michaelson et al. 2013),83AK130023,"Loamy-skeletal, mixed Humic Cryorthod",55.492,-132.471,HIGH,NA,NA,NA,Cr,49,49,0,,,,0.00,1.74,1.74,58,1.24,0,,0,,,Ferro-Humic Podzol,Cr
+426,NRCS (Michaelson et al. 2013),83AK130129,Dysic Lithic Cryofolist,55.487,-132.637,HIGH,NA,NA,NA,Oi,20,0,20,1,20,21,0.00,0.08,0.08,0,21.33,3413,3838,3413,38.4,28.48,Folisol,Of
+427,NRCS (Michaelson et al. 2013),83AK130129,Dysic Lithic Cryofolist,55.487,-132.637,HIGH,NA,NA,NA,E,0,1,1,,,,0.00,0.93,0.93,11,5.14,425,,425,,,Folisol,E
+428,NRCS (Michaelson et al. 2013),83AK130130,"Loamy, mixed, micro Humic Cryorthod",55.487,-132.646,HIGH,NA,NA,NA,Oa,20,0,20,10,20,30,0.00,0.15,0.15,0,35.70,10711,12332,10711,123.3,37.23,Ferro-Humic Podzol,Oh
+429,NRCS (Michaelson et al. 2013),83AK130130,"Loamy, mixed, micro Humic Cryorthod",55.487,-132.646,HIGH,NA,NA,NA,Bhs,0,10,10,,,,0.00,0.86,0.86,43,3.31,1621,,1621,,,Ferro-Humic Podzol,Bhf
+430,NRCS (Michaelson et al. 2013),83AK130192,Thixotropic-skeletal Humic Lithic Cryorthod,55.487,-132.637,HIGH,NA,NA,NA,Oi,15,0,15,10,15,25,0.00,0.08,0.08,0,33.00,3960,9583,3960,95.8,31.27,Ferro-Humic Podzol,Of
+431,NRCS (Michaelson et al. 2013),83AK130192,Thixotropic-skeletal Humic Lithic Cryorthod,55.487,-132.637,HIGH,NA,NA,NA,Bhs,0,10,10,,,,0.00,0.86,0.86,36,10.22,5623,,5623,,,Ferro-Humic Podzol,Bhf
+432,NRCS (Michaelson et al. 2013),83AK130193,"Loamy, mixed Lithic Cryorthent",55.487,-132.637,HIGH,NA,NA,NA,Oi,14,0,14,12,14,26,0.00,0.08,0.08,0,32.50,3641,15390,3641,153.9,32.86,Humic Regosol,Of
+433,NRCS (Michaelson et al. 2013),83AK130193,"Loamy, mixed Lithic Cryorthent",55.487,-132.637,HIGH,NA,NA,NA,C,0,12,12,,,,0.00,1.1,1.1,20,11.13,11749,,11749,,,Humic Regosol,C
+434,NRCS (Michaelson et al. 2013),83AK130194,"Loamy, mixed Humic Lithic Cryorthod",55.487,-132.637,HIGH,NA,NA,NA,Oi,18,0,18,17,18,35,0.00,0.08,0.08,0,35.56,5120,16988,5120,169.9,42.97,Ferro-Humic Podzol,Of
+435,NRCS (Michaelson et al. 2013),83AK130194,"Loamy, mixed Humic Lithic Cryorthod",55.487,-132.637,HIGH,NA,NA,NA,Bh,0,17,17,,,,0.00,0.86,0.86,32,11.94,11867,,11867,,,Ferro-Humic Podzol,Bh
+436,NRCS (Michaelson et al. 2013),83AK130195,Dysic Lithic Cryofolist,55.487,-132.646,HIGH,NA,NA,NA,O,20,0,20,5,20,25,0.00,0.11,0.11,0,34.62,7617,10224,7617,102.2,37.51,Folisol,O
+437,NRCS (Michaelson et al. 2013),83AK130195,Dysic Lithic Cryofolist,55.487,-132.646,HIGH,NA,NA,NA,E,0,2,2,,,,0.00,0.93,0.93,1,4.07,750,,750,,,Folisol,E
+438,NRCS (Michaelson et al. 2013),83AK130195,Dysic Lithic Cryofolist,55.487,-132.646,HIGH,NA,NA,NA,Bhs,2,5,3,,,,0.00,0.86,0.86,15,8.47,1857,,1857,,,Folisol,Bhf
+439,NRCS (Michaelson et al. 2013),83AK130196,"Loamy-skeletal, mixed, micro Humic Cryorthod",55.487,-132.646,HIGH,NA,NA,NA,Oe,23,0,23,20,23,43,0.00,0.12,0.12,0,34.36,9484,15260,9484,152.6,57.87,Ferro-Humic Podzol,Om
+440,NRCS (Michaelson et al. 2013),83AK130196,"Loamy-skeletal, mixed, micro Humic Cryorthod",55.487,-132.646,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,9,4.77,1211,,1211,,,Ferro-Humic Podzol,E
+441,NRCS (Michaelson et al. 2013),83AK130196,"Loamy-skeletal, mixed, micro Humic Cryorthod",55.487,-132.646,HIGH,NA,NA,NA,Bhs,3,10,7,,,,0.00,0.86,0.86,20,5.91,2846,,2846,,,Ferro-Humic Podzol,Bhf
+442,NRCS (Michaelson et al. 2013),83AK130196,"Loamy-skeletal, mixed, micro Humic Cryorthod",55.487,-132.646,HIGH,NA,NA,NA,Bs,10,20,10,,,,0.00,1.17,1.17,56,3.34,1720,,1720,,,Ferro-Humic Podzol,bf
+443,NRCS (Michaelson et al. 2013),83AK130196,"Loamy-skeletal, mixed, micro Humic Cryorthod",55.487,-132.646,HIGH,NA,NA,NA,Cr,20,20,0,,,,0.00,1.74,1.74,62,2.96,0,,0,,,Ferro-Humic Podzol,Cr
+444,NRCS (Michaelson et al. 2013),83AK130197,"Loamy-skeletal, mixed Cryic Fragiorthod",55.487,-132.646,HIGH,NA,NA,NA,Oa,18,0,18,15,18,33,0.00,0.15,0.15,0,36.20,9773,19013,9773,190.1,49.12,Humo-Ferric Podzol,Oh
+445,NRCS (Michaelson et al. 2013),83AK130197,"Loamy-skeletal, mixed Cryic Fragiorthod",55.487,-132.646,HIGH,NA,NA,NA,Bhs,0,15,15,,,,0.00,1.19,1.19,37,8.22,9240,,9240,,,Humo-Ferric Podzol,Bhf
+446,NRCS (Michaelson et al. 2013),83AK130197,"Loamy-skeletal, mixed Cryic Fragiorthod",55.487,-132.646,HIGH,NA,NA,NA,Cr,15,15,0,,,,0.00,1.91,1.91,44,3.09,0,,0,,,Humo-Ferric Podzol,Cr
+447,NRCS (Michaelson et al. 2013),83AK130198,Dysic Lithic Cryofolist,55.487,-132.646,HIGH,NA,NA,NA,Oe,15,0,15,10,15,25,0.00,0.12,0.12,0,28.37,5106,8206,5106,82.1,28.18,Folisol,Om
+448,NRCS (Michaelson et al. 2013),83AK130198,Dysic Lithic Cryofolist,55.487,-132.646,HIGH,NA,NA,NA,Bhs,0,10,10,,,,0.00,0.86,0.86,17,4.34,3100,,3100,,,Folisol,Bhf
+449,NRCS (Michaelson et al. 2013),83AK130198,Dysic Lithic Cryofolist,55.487,-132.646,HIGH,NA,NA,NA,Cr,10,10,0,,,,0.00,1.74,1.74,20,3.41,0,,0,,,Folisol,Cr
+450,NRCS (Michaelson et al. 2013),83AK130199,"Loamy-skeletal, mixed Typic Cryaquod",55.487,-132.646,HIGH,NA,NA,NA,Oi,20,0,20,50,20,70,0.00,0.08,0.08,0,29.15,4665,29586,4665,295.9,44.19,Humic Podzol,Of
+451,NRCS (Michaelson et al. 2013),83AK130199,"Loamy-skeletal, mixed Typic Cryaquod",55.487,-132.646,HIGH,NA,NA,NA,Bhs,0,12,12,,,,0.00,0.86,0.86,27,9.69,7300,,7300,,,Humic Podzol,Bhf
+452,NRCS (Michaelson et al. 2013),83AK130199,"Loamy-skeletal, mixed Typic Cryaquod",55.487,-132.646,HIGH,NA,NA,NA,C1,12,30,18,,,,0.00,1.74,1.74,39,6.46,12348,,12348,,,Humic Podzol,C1
+453,NRCS (Michaelson et al. 2013),83AK130199,"Loamy-skeletal, mixed Typic Cryaquod",55.487,-132.646,HIGH,NA,NA,NA,C2,30,50,20,,,,0.00,1.74,1.74,59,3.70,5273,,5273,,,Humic Podzol,C2
+454,NRCS (Michaelson et al. 2013),83AK130199,"Loamy-skeletal, mixed Typic Cryaquod",55.487,-132.646,HIGH,NA,NA,NA,Cr,50,50,0,,,,0.00,1.74,1.74,37,2.41,0,,0,,,Humic Podzol,Cr
+455,NRCS (Michaelson et al. 2013),83AK130025,"Loamy, mixed, micro Humic Cryorthod",55.500,-132.458,HIGH,NA,NA,NA,Oi,20,15,5,100,20,120,0.00,0.08,0.08,0,47.44,1897,25998,1897,260.0,56.61,Ferro-Humic Podzol,Of
+456,NRCS (Michaelson et al. 2013),83AK130025,"Loamy, mixed, micro Humic Cryorthod",55.500,-132.458,HIGH,NA,NA,NA,Oa,15,0,15,,,,0.00,0.15,0.15,0,34.71,7810,,7810,,,Ferro-Humic Podzol,Oh
+457,NRCS (Michaelson et al. 2013),83AK130025,"Loamy, mixed, micro Humic Cryorthod",55.500,-132.458,HIGH,NA,NA,NA,Bhs,0,12,12,,,,0.00,0.86,0.86,26,2.12,1622,,1622,,,Ferro-Humic Podzol,Bhf
+458,NRCS (Michaelson et al. 2013),83AK130025,"Loamy, mixed, micro Humic Cryorthod",55.500,-132.458,HIGH,NA,NA,NA,Cr,12,100,88,,,,0.00,1.74,1.74,78,4.35,14668,,14668,,,Ferro-Humic Podzol,Cr
+459,NRCS (Michaelson et al. 2013),83AK130127,"Loamy-skeletal, mixed Humic Lithic Cryorthod",55.506,-132.475,HIGH,NA,NA,NA,Oi,10,0,10,30,10,40,0.00,0.08,0.08,0,39.47,3157,14467,3157,144.7,28.69,Ferro-Humic Podzol,Of
+460,NRCS (Michaelson et al. 2013),83AK130127,"Loamy-skeletal, mixed Humic Lithic Cryorthod",55.506,-132.475,HIGH,NA,NA,NA,E,0,10,10,,,,0.00,0.93,0.93,38,11.15,6431,,6431,,,Ferro-Humic Podzol,E
+461,NRCS (Michaelson et al. 2013),83AK130127,"Loamy-skeletal, mixed Humic Lithic Cryorthod",55.506,-132.475,HIGH,NA,NA,NA,Bhs,10,30,20,,,,0.00,0.86,0.86,77,12.33,4879,,4879,,,Ferro-Humic Podzol,Bhf
+462,NRCS (Michaelson et al. 2013),83AK130131,"Loamy-skeletal, mixed Typic Cryorthod",55.500,-132.471,HIGH,NA,NA,NA,Oi,30,22,8,25,30,55,0.00,0.08,0.08,0,40.14,2569,8722,2569,87.2,40.98,Humo-Ferric Podzol,Of
+463,NRCS (Michaelson et al. 2013),83AK130131,"Loamy-skeletal, mixed Typic Cryorthod",55.500,-132.471,HIGH,NA,NA,NA,Oa,22,0,22,,,,0.00,0.15,0.15,0,9.32,3075,,3075,,,Humo-Ferric Podzol,Oh
+464,NRCS (Michaelson et al. 2013),83AK130131,"Loamy-skeletal, mixed Typic Cryorthod",55.500,-132.471,HIGH,NA,NA,NA,Bs,0,25,25,,,,0.00,1.46,1.46,61,2.16,3079,,3079,,,Humo-Ferric Podzol,bf
+465,NRCS (Michaelson et al. 2013),83AK130131,"Loamy-skeletal, mixed Typic Cryorthod",55.500,-132.471,HIGH,NA,NA,NA,Cr,25,25,0,,,,0.00,1.91,1.91,56,0.73,0,,0,,,Humo-Ferric Podzol,Cr
+466,NRCS (Michaelson et al. 2013),83AK220019,Thixotropic-skeletal Typic Cryorthod,55.513,-133.408,HIGH,NA,NA,NA,O,13,0,13,102,13,115,0.00,0.14,0.14,0,28.49,5186,27920,5186,275.3,39.99,Humo-Ferric Podzol,O
+467,NRCS (Michaelson et al. 2013),83AK220019,Thixotropic-skeletal Typic Cryorthod,55.513,-133.408,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,1.31,1.31,37,3.59,889,,889,,,Humo-Ferric Podzol,E
+468,NRCS (Michaelson et al. 2013),83AK220019,Thixotropic-skeletal Typic Cryorthod,55.513,-133.408,HIGH,NA,NA,NA,Bhs1,3,13,10,,,,0.00,1.19,1.19,62,9.85,4453,,4453,,,Humo-Ferric Podzol,Bhf1
+469,NRCS (Michaelson et al. 2013),83AK220019,Thixotropic-skeletal Typic Cryorthod,55.513,-133.408,HIGH,NA,NA,NA,Bhs2,13,30,17,,,,0.00,1.19,1.19,43,3.07,3540,,3540,,,Humo-Ferric Podzol,Bhf2
+470,NRCS (Michaelson et al. 2013),83AK220019,Thixotropic-skeletal Typic Cryorthod,55.513,-133.408,HIGH,NA,NA,NA,C,30,102,72,,,,0.00,1.91,1.91,36,1.57,13851,,13466,,,Humo-Ferric Podzol,C
+471,NRCS (Michaelson et al. 2013),83AK130128,"Loamy, mixed Humic Lithic Cryorthod",55.525,-132.621,HIGH,NA,NA,NA,Oi,15,12,3,45,15,60,0.00,0.08,0.08,0,47.13,1131,31111,1131,311.1,54.37,Ferro-Humic Podzol,Of
+472,NRCS (Michaelson et al. 2013),83AK130128,"Loamy, mixed Humic Lithic Cryorthod",55.525,-132.621,HIGH,NA,NA,NA,Oe,12,0,12,,,,0.00,0.12,0.12,0,27.56,3968,,3968,,,Ferro-Humic Podzol,Om
+473,NRCS (Michaelson et al. 2013),83AK130128,"Loamy, mixed Humic Lithic Cryorthod",55.525,-132.621,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,3,9.13,2472,,2472,,,Ferro-Humic Podzol,E
+474,NRCS (Michaelson et al. 2013),83AK130128,"Loamy, mixed Humic Lithic Cryorthod",55.525,-132.621,HIGH,NA,NA,NA,Bhs,3,12,9,,,,0.00,0.86,0.86,11,8.60,5926,,5926,,,Ferro-Humic Podzol,Bhf
+475,NRCS (Michaelson et al. 2013),83AK130128,"Loamy, mixed Humic Lithic Cryorthod",55.525,-132.621,HIGH,NA,NA,NA,Bs,12,45,33,,,,0.00,1.17,1.17,37,7.24,17614,,17614,,,Ferro-Humic Podzol,bf
+476,NRCS (Michaelson et al. 2013),84AK201014,"Loamy-skeletal, mixed, frigid, shallom Placic Haplaquod",55.525,-133.367,HIGH,NA,NA,NA,Oe,9,0,9,21,9,30,0.00,0.12,0.12,,40.64,4389,14205,4389,142.0,30.99,Humic Podzol,Om
+477,NRCS (Michaelson et al. 2013),84AK201014,"Loamy-skeletal, mixed, frigid, shallom Placic Haplaquod",55.525,-133.367,HIGH,NA,NA,NA,E,0,4,4,,,,0.00,0.93,0.93,1,16.17,5955,,5955,,,Humic Podzol,E
+478,NRCS (Michaelson et al. 2013),84AK201014,"Loamy-skeletal, mixed, frigid, shallom Placic Haplaquod",55.525,-133.367,HIGH,NA,NA,NA,Bhs,4,10,6,,,,0.00,0.86,0.86,27,8.93,3364,,3364,,,Humic Podzol,Bhf
+479,NRCS (Michaelson et al. 2013),84AK201014,"Loamy-skeletal, mixed, frigid, shallom Placic Haplaquod",55.525,-133.367,HIGH,NA,NA,NA,Bsm,10,11,1,,,,0.00,1.17,1.17,41,1.60,110,,110,,,Humic Podzol,bfm
+480,NRCS (Michaelson et al. 2013),84AK201014,"Loamy-skeletal, mixed, frigid, shallom Placic Haplaquod",55.525,-133.367,HIGH,NA,NA,NA,Cr,11,21,10,,,,0.00,1.74,1.74,63,0.60,386,,386,,,Humic Podzol,Cr
+481,NRCS (Michaelson et al. 2013),84AK201004,Dysic Lithic Cryofolist,55.675,-132.458,HIGH,NA,NA,NA,Oi,0,8,8,5,18,23,0.00,0.08,0.08,0,45.55,2915,14480,2915,144.8,36.49,Folisol,Of
+482,NRCS (Michaelson et al. 2013),84AK201004,Dysic Lithic Cryofolist,55.675,-132.458,HIGH,NA,NA,NA,Oa,8,18,10,,,,0.00,0.15,0.15,0,45.92,6888,,6888,,,Folisol,Oh
+483,NRCS (Michaelson et al. 2013),84AK201004,Dysic Lithic Cryofolist,55.675,-132.458,HIGH,NA,NA,NA,2C,18,23,5,,,,0.00,1.74,1.74,4,5.60,4677,,4677,,,Folisol,2C
+484,NRCS (Michaelson et al. 2013),78AK130002,"Thixotropic, mixed Typic Cryorthod",55.708,-132.713,HIGH,NA,NA,NA,O1,15,5,10,28,15,43,0.00,0.14,0.14,0,56.86,7960,25591,7960,255.9,59.65,Humo-Ferric Podzol,O1
+485,NRCS (Michaelson et al. 2013),78AK130002,"Thixotropic, mixed Typic Cryorthod",55.708,-132.713,HIGH,NA,NA,NA,O2,5,0,5,,,,0.00,0.14,0.14,0,60.58,4240,,4240,,,Humo-Ferric Podzol,O2
+486,NRCS (Michaelson et al. 2013),78AK130002,"Thixotropic, mixed Typic Cryorthod",55.708,-132.713,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,1.31,1.31,1,5.43,2111,,2111,,,Humo-Ferric Podzol,E
+487,NRCS (Michaelson et al. 2013),78AK130002,"Thixotropic, mixed Typic Cryorthod",55.708,-132.713,HIGH,NA,NA,NA,Bhs1,3,5,2,,,,0.00,1.19,1.19,1,8.71,2052,,2052,,,Humo-Ferric Podzol,Bhf1
+488,NRCS (Michaelson et al. 2013),78AK130002,"Thixotropic, mixed Typic Cryorthod",55.708,-132.713,HIGH,NA,NA,NA,Bhs2,5,13,8,,,,0.00,1.19,1.19,0,6.49,6177,,6177,,,Humo-Ferric Podzol,Bhf2
+489,NRCS (Michaelson et al. 2013),78AK130002,"Thixotropic, mixed Typic Cryorthod",55.708,-132.713,HIGH,NA,NA,NA,B,13,28,15,,,,0.00,1.19,1.19,0,1.71,3050,,3050,,,Humo-Ferric Podzol,B
+490,NRCS (Michaelson et al. 2013),78AK130002,"Thixotropic, mixed Typic Cryorthod",55.708,-132.713,HIGH,NA,NA,NA,2C,28,28.00,0,,,,0.00,1.91,1.91,0,0.51,0,,0,,,Humo-Ferric Podzol,2C
+491,NRCS (Michaelson et al. 2013),84AK201006,"Sandy-skeletal, mixed Typic Cryorthod",55.704,-132.583,HIGH,NA,NA,NA,Oa,3,0,3,96,3,99,0.00,0.15,0.15,0,12.67,570,15551,570,155.5,15.17,Humo-Ferric Podzol,Oh
+492,NRCS (Michaelson et al. 2013),84AK201006,"Sandy-skeletal, mixed Typic Cryorthod",55.704,-132.583,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,1.31,1.31,4,5.57,2101,,2101,,,Humo-Ferric Podzol,E
+493,NRCS (Michaelson et al. 2013),84AK201006,"Sandy-skeletal, mixed Typic Cryorthod",55.704,-132.583,HIGH,NA,NA,NA,Bhs,3,8,5,,,,0.00,1.19,1.19,31,6.09,2500,,2500,,,Humo-Ferric Podzol,Bhf
+494,NRCS (Michaelson et al. 2013),84AK201006,"Sandy-skeletal, mixed Typic Cryorthod",55.704,-132.583,HIGH,NA,NA,NA,Bs,8,26,18,,,,0.00,1.46,1.46,37,3.07,5083,,5083,,,Humo-Ferric Podzol,bf
+495,NRCS (Michaelson et al. 2013),84AK201006,"Sandy-skeletal, mixed Typic Cryorthod",55.704,-132.583,HIGH,NA,NA,NA,BC,26,42,16,,,,0.00,1.19,1.19,41,1.78,2000,,2000,,,Humo-Ferric Podzol,BC
+496,NRCS (Michaelson et al. 2013),84AK201006,"Sandy-skeletal, mixed Typic Cryorthod",55.704,-132.583,HIGH,NA,NA,NA,C,42,96,54,,,,0.00,1.91,1.91,53,0.68,3296,,3296,,,Humo-Ferric Podzol,C
+497,NRCS (Michaelson et al. 2013),98AK201001,Dysic Typic Cryohemist,55.701,-132.629,HIGH,NA,NA,NA,Oi,0,8,8,0,150,150,0.00,0.08,0.08,0,48.92,3131,98563,3131,667.8,228.03,Mesisol,Of
+498,NRCS (Michaelson et al. 2013),98AK201001,Dysic Typic Cryohemist,55.701,-132.629,HIGH,NA,NA,NA,Oa,8,33,25,,,,0.00,0.15,0.15,0,52.64,19740,,19740,,,Mesisol,Oh
+499,NRCS (Michaelson et al. 2013),98AK201001,Dysic Typic Cryohemist,55.701,-132.629,HIGH,NA,NA,NA,Oe1,33,63,30,,,,0.00,0.12,0.12,0,55.00,19800,,19800,,,Mesisol,Om1
+500,NRCS (Michaelson et al. 2013),98AK201001,Dysic Typic Cryohemist,55.701,-132.629,HIGH,NA,NA,NA,Oe2,63,85,22,,,,0.00,0.12,0.12,0,54.82,14472,,14472,,,Mesisol,Om2
+501,NRCS (Michaelson et al. 2013),98AK201001,Dysic Typic Cryohemist,55.701,-132.629,HIGH,NA,NA,NA,Oe3,85,125,40,,,,0.00,0.12,0.12,0,53.51,25685,,9632,,,Mesisol,Om3
+502,NRCS (Michaelson et al. 2013),98AK201001,Dysic Typic Cryohemist,55.701,-132.629,HIGH,NA,NA,NA,Oe4,125,150,25,,,,0.00,0.12,0.12,0,52.45,15735,,0,,,Mesisol,Om4
+503,NRCS (Michaelson et al. 2013),98AK201002,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,Oi,0,7,7,74,16,90,0.00,0.08,0.08,0,46.74,2617,29477,2617,294.8,71.16,Humic Podzol,Of
+504,NRCS (Michaelson et al. 2013),98AK201002,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,Oe,7,16,9,,,,0.00,0.12,0.12,0,49.72,5370,,5370,,,Humic Podzol,Om
+505,NRCS (Michaelson et al. 2013),98AK201002,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,E,16,21,5,,,,0.00,0.93,0.93,9,3.87,1638,,1638,,,Humic Podzol,E
+506,NRCS (Michaelson et al. 2013),98AK201002,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,Bhs,21,29,8,,,,0.00,0.86,0.86,0,4.93,3392,,3392,,,Humic Podzol,Bhf
+507,NRCS (Michaelson et al. 2013),98AK201002,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,Bhs,29,47,18,,,,1.11,0.86,1.11,15,4.25,7218,,7218,,,Humic Podzol,Bhf
+508,NRCS (Michaelson et al. 2013),98AK201002,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,Bg,47,65,18,,,,1.72,1.71,1.72,21,3.07,7509,,7509,,,Humic Podzol,Bg
+509,NRCS (Michaelson et al. 2013),98AK201002,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,2C,65,72,7,,,,1.44,1.74,1.44,5,1.34,1283,,1283,,,Humic Podzol,2C
+510,NRCS (Michaelson et al. 2013),98AK201002,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,3Cd,72,90,18,,,,1.78,1.74,1.78,62,0.37,450,,450,,,Humic Podzol,3Cd
+511,NRCS (Michaelson et al. 2013),98AK201003,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,Oe,0,7,7,75,28,103,0.00,0.12,0.12,0,50.37,4231,51450,4231,513.0,85.03,Humic Podzol,Om
+512,NRCS (Michaelson et al. 2013),98AK201003,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,Oa1 / Oa2,7,28,21,,,,0.00,0.15,0.15,0,50.48,15901,,15901,,,Humic Podzol,Oh1 / Oh2
+513,NRCS (Michaelson et al. 2013),98AK201003,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,E,28,32,4,,,,0.00,0.93,0.93,4,9.17,3275,,3275,,,Humic Podzol,E
+514,NRCS (Michaelson et al. 2013),98AK201003,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,Bhs1,32,42,10,,,,1.61,0.86,1.61,1,6.25,9962,,9962,,,Humic Podzol,Bhf1
+515,NRCS (Michaelson et al. 2013),98AK201003,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,Bhs2,42,49,7,,,,1.54,0.86,1.54,10,4.71,4570,,4570,,,Humic Podzol,Bhf2
+516,NRCS (Michaelson et al. 2013),98AK201003,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,Bhs3,49,76,27,,,,2.09,0.86,2.09,19,2.41,11016,,11016,,,Humic Podzol,Bhf3
+517,NRCS (Michaelson et al. 2013),98AK201003,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,C,76,88,12,,,,2.27,1.74,2.27,37,1.03,1768,,1768,,,Humic Podzol,C
+518,NRCS (Michaelson et al. 2013),98AK201003,"Coarse-loamy, mixed, active Typic Cryaquod",55.701,-132.629,HIGH,NA,NA,NA,Cd,88,103,15,,,,0.00,1.74,1.74,38,0.45,728,,583,,,Humic Podzol,Cd
+519,NRCS (Michaelson et al. 2013),98AK201004,"Coarse-loamy, mixed, active Typic Humicryod",55.710,-132.621,HIGH,NA,NA,NA,Oi,0,7,7,74,46,120,0.00,0.08,0.08,0,49.98,2799,44415,2799,428.1,107.43,Humic Podzol,Of
+520,NRCS (Michaelson et al. 2013),98AK201004,"Coarse-loamy, mixed, active Typic Humicryod",55.710,-132.621,HIGH,NA,NA,NA,Oe1,7,22,15,,,,0.00,0.12,0.12,0,52.67,9481,,9481,,,Humic Podzol,Om1
+521,NRCS (Michaelson et al. 2013),98AK201004,"Coarse-loamy, mixed, active Typic Humicryod",55.710,-132.621,HIGH,NA,NA,NA,Oe2,22,46,24,,,,0.00,0.12,0.12,0,49.02,14118,,14118,,,Humic Podzol,Om2
+522,NRCS (Michaelson et al. 2013),98AK201004,"Coarse-loamy, mixed, active Typic Humicryod",55.710,-132.621,HIGH,NA,NA,NA,E,46,63,17,,,,1.43,0.93,1.43,8,1.76,3936,,3936,,,Humic Podzol,E
+523,NRCS (Michaelson et al. 2013),98AK201004,"Coarse-loamy, mixed, active Typic Humicryod",55.710,-132.621,HIGH,NA,NA,NA,Bhs,63,73,10,,,,2.03,0.86,2.03,12,4.82,8610,,8610,,,Humic Podzol,Bhf
+524,NRCS (Michaelson et al. 2013),98AK201004,"Coarse-loamy, mixed, active Typic Humicryod",55.710,-132.621,HIGH,NA,NA,NA,Bs,73,87,14,,,,2.08,1.17,2.08,22,1.24,2816,,2816,,,Humic Podzol,bf
+525,NRCS (Michaelson et al. 2013),98AK201004,"Coarse-loamy, mixed, active Typic Humicryod",55.710,-132.621,HIGH,NA,NA,NA,Cd,87,120,33,,,,0.00,1.74,1.74,33,0.69,2655,,1046,,,Humic Podzol,Cd
+526,NRCS (Michaelson et al. 2013),82AK130125,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Oi,25,15,10,100,25,125,0.00,0.08,0.08,0,36.67,2933,86187,2933,861.9,105.83,Ferro-Humic Podzol,Of
+527,NRCS (Michaelson et al. 2013),82AK130125,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Oe,15,0,15,,,,0.00,0.12,0.12,0,40.64,7315,,7315,,,Ferro-Humic Podzol,Om
+528,NRCS (Michaelson et al. 2013),82AK130125,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,E,0,5,5,,,,0.00,0.93,0.93,1,5.36,2467,,2467,,,Ferro-Humic Podzol,E
+529,NRCS (Michaelson et al. 2013),82AK130125,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Bh,5,18,13,,,,0.00,0.86,0.86,2,9.55,10462,,10462,,,Ferro-Humic Podzol,Bh
+530,NRCS (Michaelson et al. 2013),82AK130125,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Bs,18,40,22,,,,0.00,1.17,1.17,4,5.90,14577,,14577,,,Ferro-Humic Podzol,bf
+531,NRCS (Michaelson et al. 2013),82AK130125,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,BC,40,71,31,,,,0.00,1.71,1.71,3,5.24,26958,,26958,,,Ferro-Humic Podzol,BC
+532,NRCS (Michaelson et al. 2013),82AK130125,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,C,71,100,29,,,,0.00,1.74,1.74,5,4.48,21475,,21475,,,Ferro-Humic Podzol,C
+533,NRCS (Michaelson et al. 2013),82AK130126,Thixotropic-skeletal Typic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Oi,13,8,5,100,13,113,0.00,0.08,0.08,0,36.67,1467,62916,1467,629.2,65.98,Humo-Ferric Podzol,Of
+534,NRCS (Michaelson et al. 2013),82AK130126,Thixotropic-skeletal Typic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Oe,8,0,8,,,,0.00,0.12,0.12,0,40.64,3901,,3901,,,Humo-Ferric Podzol,Om
+535,NRCS (Michaelson et al. 2013),82AK130126,Thixotropic-skeletal Typic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Bs,0,12,12,,,,0.00,1.46,1.46,9,4.28,6819,,6819,,,Humo-Ferric Podzol,bf
+536,NRCS (Michaelson et al. 2013),82AK130126,Thixotropic-skeletal Typic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,BC,12,43,31,,,,0.00,1.19,1.19,8,4.33,14680,,14680,,,Humo-Ferric Podzol,BC
+537,NRCS (Michaelson et al. 2013),82AK130126,Thixotropic-skeletal Typic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,C,43,100,57,,,,0.00,1.91,1.91,5,3.49,36049,,36049,,,Humo-Ferric Podzol,C
+538,NRCS (Michaelson et al. 2013),82AK130134,Thixotropic-skeletal Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Oi,28,23,5,74,28,102,0.00,0.08,0.08,0,36.67,1467,64577,1467,645.8,114.73,Ferro-Humic Podzol,Of
+539,NRCS (Michaelson et al. 2013),82AK130134,Thixotropic-skeletal Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Oe,23,0,23,,,,0.00,0.12,0.12,0,40.64,11216,,11216,,,Ferro-Humic Podzol,Om
+540,NRCS (Michaelson et al. 2013),82AK130134,Thixotropic-skeletal Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,2,3.73,1019,,1019,,,Ferro-Humic Podzol,E
+541,NRCS (Michaelson et al. 2013),82AK130134,Thixotropic-skeletal Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Bh,3,15,12,,,,0.00,0.86,0.86,1,12.43,12695,,12695,,,Ferro-Humic Podzol,Bh
+542,NRCS (Michaelson et al. 2013),82AK130134,Thixotropic-skeletal Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Bs,15,74,59,,,,0.00,1.17,1.17,5,5.82,38180,,38180,,,Ferro-Humic Podzol,bf
+543,NRCS (Michaelson et al. 2013),82AK130134,Thixotropic-skeletal Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,C,74,74,0,,,,0.00,1.74,1.74,18,2.47,0,,0,,,Ferro-Humic Podzol,C
+544,NRCS (Michaelson et al. 2013),82AK130136,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Oi,32,25,7,58,32,90,0.00,0.08,0.08,0,36.67,2053,48822,2053,488.2,136.43,Ferro-Humic Podzol,Of
+545,NRCS (Michaelson et al. 2013),82AK130136,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Oe,25,0,25,,,,0.00,0.12,0.12,0,40.64,12192,,12192,,,Ferro-Humic Podzol,Om
+546,NRCS (Michaelson et al. 2013),82AK130136,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Oe,0,15,15,,,,0.00,0.12,0.12,0,35.78,6441,,6441,,,Ferro-Humic Podzol,A
+547,NRCS (Michaelson et al. 2013),82AK130136,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,E,15,18,3,,,,0.00,0.93,0.93,1,3.09,853,,853,,,Ferro-Humic Podzol,E
+548,NRCS (Michaelson et al. 2013),82AK130136,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Bh,18,23,5,,,,0.00,0.86,0.86,3,9.24,3854,,3854,,,Ferro-Humic Podzol,Bh
+549,NRCS (Michaelson et al. 2013),82AK130136,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,Bs,23,41,18,,,,0.00,1.17,1.17,6,5.34,10570,,10570,,,Ferro-Humic Podzol,bf
+550,NRCS (Michaelson et al. 2013),82AK130136,Thixotropic Humic Cryorthod,55.721,-131.692,HIGH,NA,NA,NA,C,41,58,17,,,,0.00,1.74,1.74,6,4.62,12859,,12859,,,Ferro-Humic Podzol,C
+551,NRCS (Michaelson et al. 2013),83AK130050,Thixotropic Humic Lithic Cryorthod,55.764,-133.225,HIGH,NA,NA,NA,Oi,15,11,4,36,15,51,0.00,0.08,0.08,0,50.28,1609,34333,1609,343.3,63.62,Ferro-Humic Podzol,Of
+552,NRCS (Michaelson et al. 2013),83AK130050,Thixotropic Humic Lithic Cryorthod,55.764,-133.225,HIGH,NA,NA,NA,Oe,11,0,11,,,,0.00,0.12,0.12,0,49.23,6498,,6498,,,Ferro-Humic Podzol,Om
+553,NRCS (Michaelson et al. 2013),83AK130050,Thixotropic Humic Lithic Cryorthod,55.764,-133.225,HIGH,NA,NA,NA,Bhs,0,15,15,,,,0.00,0.86,0.86,25,11.94,11555,,11555,,,Ferro-Humic Podzol,Bhf
+554,NRCS (Michaelson et al. 2013),83AK130050,Thixotropic Humic Lithic Cryorthod,55.764,-133.225,HIGH,NA,NA,NA,B / C,15,36,21,,,,0.00,1.71,1.71,18,4.98,14670,,14670,,,Ferro-Humic Podzol,B / C
+555,NRCS (Michaelson et al. 2013),85AK130000,"Sandy-skeletal, mixed Typic Cryorthod",55.763,-133.471,HIGH,NA,NA,NA,Oi,17,11,6,85,17,102,0.00,0.08,0.08,0,52.95,2542,46289,2542,462.9,71.30,Humo-Ferric Podzol,Of
+556,NRCS (Michaelson et al. 2013),85AK130000,"Sandy-skeletal, mixed Typic Cryorthod",55.763,-133.471,HIGH,NA,NA,NA,Oa,11,0,11,,,,0.00,0.15,0.15,0,51.75,8539,,8539,,,Humo-Ferric Podzol,Oh
+557,NRCS (Michaelson et al. 2013),85AK130000,"Sandy-skeletal, mixed Typic Cryorthod",55.763,-133.471,HIGH,NA,NA,NA,Bhs1,0,4,4,,,,0.00,1.19,1.19,46,23.00,5911,,5911,,,Humo-Ferric Podzol,Bhf1
+558,NRCS (Michaelson et al. 2013),85AK130000,"Sandy-skeletal, mixed Typic Cryorthod",55.763,-133.471,HIGH,NA,NA,NA,Bhs2,4,12,8,,,,0.00,1.19,1.19,50,21.26,10120,,10120,,,Humo-Ferric Podzol,Bhf2
+559,NRCS (Michaelson et al. 2013),85AK130000,"Sandy-skeletal, mixed Typic Cryorthod",55.763,-133.471,HIGH,NA,NA,NA,Bs,12,19,7,,,,0.00,1.46,1.46,55,15.89,7309,,7309,,,Humo-Ferric Podzol,bf
+560,NRCS (Michaelson et al. 2013),85AK130000,"Sandy-skeletal, mixed Typic Cryorthod",55.763,-133.471,HIGH,NA,NA,NA,C1,19,34,15,,,,0.00,1.91,1.91,73,8.75,6767,,6767,,,Humo-Ferric Podzol,C1
+561,NRCS (Michaelson et al. 2013),85AK130000,"Sandy-skeletal, mixed Typic Cryorthod",55.763,-133.471,HIGH,NA,NA,NA,C2,34,85,51,,,,0.00,1.91,1.91,69,1.69,5102,,5102,,,Humo-Ferric Podzol,C2
+562,NRCS (Michaelson et al. 2013),82AK130006,Thixotropic Typic Cryorthod,55.771,-131.963,HIGH,NA,NA,NA,Oi,10,7,3,81,10,91,0.00,0.08,0.08,,36.67,880,46538,880,465.4,29.53,Humo-Ferric Podzol,Of
+563,NRCS (Michaelson et al. 2013),82AK130006,Thixotropic Typic Cryorthod,55.771,-131.963,HIGH,NA,NA,NA,Oe,7,3,4,,,,0.00,0.12,0.12,,40.64,1951,,1951,,,Humo-Ferric Podzol,Om
+564,NRCS (Michaelson et al. 2013),82AK130006,Thixotropic Typic Cryorthod,55.771,-131.963,HIGH,NA,NA,NA,Oa,3,0,3,,,,0.00,0.15,0.15,,36.07,1623,,1623,,,Humo-Ferric Podzol,Oh
+565,NRCS (Michaelson et al. 2013),82AK130006,Thixotropic Typic Cryorthod,55.771,-131.963,HIGH,NA,NA,NA,E,0,5,5,,,,0.00,1.31,1.31,1,1.02,664,,664,,,Humo-Ferric Podzol,E
+566,NRCS (Michaelson et al. 2013),82AK130006,Thixotropic Typic Cryorthod,55.771,-131.963,HIGH,NA,NA,NA,Bh,5,10,5,,,,0.00,1.19,1.19,2,5.60,3265,,3265,,,Humo-Ferric Podzol,Bh
+567,NRCS (Michaelson et al. 2013),82AK130006,Thixotropic Typic Cryorthod,55.771,-131.963,HIGH,NA,NA,NA,Bs,10,15,5,,,,0.00,1.46,1.46,2,3.12,2231,,2231,,,Humo-Ferric Podzol,bf
+568,NRCS (Michaelson et al. 2013),82AK130006,Thixotropic Typic Cryorthod,55.771,-131.963,HIGH,NA,NA,NA,Bs2,15,33,18,,,,0.00,1.46,1.46,,4.83,12689,,12689,,,Humo-Ferric Podzol,bf2
+569,NRCS (Michaelson et al. 2013),82AK130006,Thixotropic Typic Cryorthod,55.771,-131.963,HIGH,NA,NA,NA,C,33,71,38,,,,0.00,1.91,1.91,,2.74,19915,,19915,,,Humo-Ferric Podzol,C
+570,NRCS (Michaelson et al. 2013),82AK130006,Thixotropic Typic Cryorthod,55.771,-131.963,HIGH,NA,NA,NA,2C,71,81,10,,,,0.00,1.91,1.91,,1.74,3321,,3321,,,Humo-Ferric Podzol,2C
+571,NRCS (Michaelson et al. 2013),82AK130133,Thixotropic-skeletal Humic Cryorthod,55.769,-132.496,HIGH,NA,NA,NA,Oi,20,10,10,63,20,83,0.00,0.08,0.08,0,36.67,2933,22540,2933,225.4,61.92,Ferro-Humic Podzol,Of
+572,NRCS (Michaelson et al. 2013),82AK130133,Thixotropic-skeletal Humic Cryorthod,55.769,-132.496,HIGH,NA,NA,NA,Oe,10,0,10,,,,0.00,0.12,0.12,0,40.64,4877,,4877,,,Ferro-Humic Podzol,Om
+573,NRCS (Michaelson et al. 2013),82AK130133,Thixotropic-skeletal Humic Cryorthod,55.769,-132.496,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,3,2.59,700,,700,,,Ferro-Humic Podzol,E
+574,NRCS (Michaelson et al. 2013),82AK130133,Thixotropic-skeletal Humic Cryorthod,55.769,-132.496,HIGH,NA,NA,NA,Bh,3,8,5,,,,0.00,0.86,0.86,13,4.76,1781,,1781,,,Ferro-Humic Podzol,Bh
+575,NRCS (Michaelson et al. 2013),82AK130133,Thixotropic-skeletal Humic Cryorthod,55.769,-132.496,HIGH,NA,NA,NA,Bs,8,15,7,,,,0.00,1.17,1.17,17,2.60,1765,,1765,,,Ferro-Humic Podzol,bf
+576,NRCS (Michaelson et al. 2013),82AK130133,Thixotropic-skeletal Humic Cryorthod,55.769,-132.496,HIGH,NA,NA,NA,By,15,35,20,,,,0.00,1.71,1.71,16,1.31,3772,,3772,,,Ferro-Humic Podzol,By
+577,NRCS (Michaelson et al. 2013),82AK130133,Thixotropic-skeletal Humic Cryorthod,55.769,-132.496,HIGH,NA,NA,NA,C,35,63,28,,,,0.00,1.74,1.74,18,1.68,6712,,6712,,,Ferro-Humic Podzol,C
+578,NRCS (Michaelson et al. 2013),82AK130004,Thixotropic-skeletal Typic Cryorthod,55.792,-133.283,HIGH,NA,NA,NA,Oe,13,0,13,84,13,97,0.00,0.12,0.12,0,40.64,6340,41801,6340,418.0,61.26,Humo-Ferric Podzol,Om
+579,NRCS (Michaelson et al. 2013),82AK130004,Thixotropic-skeletal Typic Cryorthod,55.792,-133.283,HIGH,NA,NA,NA,Bs1,0,20,20,,,,0.00,1.46,1.46,17,3.00,7277,,7277,,,Humo-Ferric Podzol,bf1
+580,NRCS (Michaelson et al. 2013),82AK130004,Thixotropic-skeletal Typic Cryorthod,55.792,-133.283,HIGH,NA,NA,NA,Bs2,20,43,23,,,,0.00,1.46,1.46,9,2.42,7405,,7405,,,Humo-Ferric Podzol,bf2
+581,NRCS (Michaelson et al. 2013),82AK130004,Thixotropic-skeletal Typic Cryorthod,55.792,-133.283,HIGH,NA,NA,NA,BC,43,84,41,,,,0.00,1.19,1.19,13,4.90,20778,,20778,,,Humo-Ferric Podzol,BC
+582,NRCS (Michaelson et al. 2013),83AK130049,"Coarse-loamy, mixed Cryic Fragiorthod",55.797,-133.187,HIGH,NA,NA,NA,Oi,10,5,5,101,10,111,0.00,0.08,0.08,0,49.84,1994,79612,1994,795.0,78.58,Humo-Ferric Podzol,Of
+583,NRCS (Michaelson et al. 2013),83AK130049,"Coarse-loamy, mixed Cryic Fragiorthod",55.797,-133.187,HIGH,NA,NA,NA,Oe,5,0,5,,,,0.00,0.12,0.12,0,49.59,2975,,2975,,,Humo-Ferric Podzol,Om
+584,NRCS (Michaelson et al. 2013),83AK130049,"Coarse-loamy, mixed Cryic Fragiorthod",55.797,-133.187,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,1.31,1.31,3,17.89,6820,,6820,,,Humo-Ferric Podzol,E
+585,NRCS (Michaelson et al. 2013),83AK130049,"Coarse-loamy, mixed Cryic Fragiorthod",55.797,-133.187,HIGH,NA,NA,NA,Bh,3,9,6,,,,0.00,1.19,1.19,3,19.46,13481,,13481,,,Humo-Ferric Podzol,Bh
+586,NRCS (Michaelson et al. 2013),83AK130049,"Coarse-loamy, mixed Cryic Fragiorthod",55.797,-133.187,HIGH,NA,NA,NA,Bs,9,26,17,,,,0.00,1.46,1.46,8,8.80,20084,,20084,,,Humo-Ferric Podzol,bf
+587,NRCS (Michaelson et al. 2013),83AK130049,"Coarse-loamy, mixed Cryic Fragiorthod",55.797,-133.187,HIGH,NA,NA,NA,B / C,26,55,29,,,,0.00,1.19,1.19,12,7.50,22782,,22782,,,Humo-Ferric Podzol,B / C
+588,NRCS (Michaelson et al. 2013),83AK130049,"Coarse-loamy, mixed Cryic Fragiorthod",55.797,-133.187,HIGH,NA,NA,NA,C,55,80,25,,,,0.00,1.91,1.91,19,2.37,9149,,9149,,,Humo-Ferric Podzol,C
+589,NRCS (Michaelson et al. 2013),83AK130049,"Coarse-loamy, mixed Cryic Fragiorthod",55.797,-133.187,HIGH,NA,NA,NA,2Cx,80,101,21,,,,0.00,1.91,1.91,34,0.88,2326,,2215,,,Humo-Ferric Podzol,2Cx
+590,NRCS (Michaelson et al. 2013),84AK201007,"Coarse-loamy, mixed Humic Cryorthod",55.786,-133.433,HIGH,NA,NA,NA,Oe,10,0,10,100,10,110,0.00,0.12,0.12,0,41.88,5026,56710,5026,567.1,60.75,Ferro-Humic Podzol,Om
+591,NRCS (Michaelson et al. 2013),84AK201007,"Coarse-loamy, mixed Humic Cryorthod",55.786,-133.433,HIGH,NA,NA,NA,E,0,1,1,,,,0.00,0.93,0.93,2,4.12,375,,375,,,Ferro-Humic Podzol,E
+592,NRCS (Michaelson et al. 2013),84AK201007,"Coarse-loamy, mixed Humic Cryorthod",55.786,-133.433,HIGH,NA,NA,NA,Bhs1,1,5,4,,,,0.00,0.86,0.86,5,9.45,3088,,3088,,,Ferro-Humic Podzol,Bhf1
+593,NRCS (Michaelson et al. 2013),84AK201007,"Coarse-loamy, mixed Humic Cryorthod",55.786,-133.433,HIGH,NA,NA,NA,Bhs2,5,20,15,,,,0.00,0.86,0.86,15,4.61,5055,,5055,,,Ferro-Humic Podzol,Bhf2
+594,NRCS (Michaelson et al. 2013),84AK201007,"Coarse-loamy, mixed Humic Cryorthod",55.786,-133.433,HIGH,NA,NA,NA,Bs,20,43,23,,,,0.00,1.17,1.17,8,3.54,8764,,8764,,,Ferro-Humic Podzol,bf
+595,NRCS (Michaelson et al. 2013),84AK201007,"Coarse-loamy, mixed Humic Cryorthod",55.786,-133.433,HIGH,NA,NA,NA,C,43,100,57,,,,0.00,1.74,1.74,18,4.23,34402,,34402,,,Ferro-Humic Podzol,C
+596,NRCS (Michaelson et al. 2013),84AK201008,"Coarse-loamy, mixed Humic Cryorthod",55.786,-133.487,HIGH,NA,NA,NA,Oi,14,9,5,114,14,128,0.00,0.08,0.08,,36.67,1467,58006,1467,507.0,59.83,Ferro-Humic Podzol,Of
+597,NRCS (Michaelson et al. 2013),84AK201008,"Coarse-loamy, mixed Humic Cryorthod",55.786,-133.487,HIGH,NA,NA,NA,Oa,9,0,9,,,,0.00,0.15,0.15,0,24.64,3326,,3326,,,Ferro-Humic Podzol,Oh
+598,NRCS (Michaelson et al. 2013),84AK201008,"Coarse-loamy, mixed Humic Cryorthod",55.786,-133.487,HIGH,NA,NA,NA,Bhs,0,5,5,,,,0.00,0.86,0.86,9,9.88,3866,,3866,,,Ferro-Humic Podzol,Bhf
+599,NRCS (Michaelson et al. 2013),84AK201008,"Coarse-loamy, mixed Humic Cryorthod",55.786,-133.487,HIGH,NA,NA,NA,Bs1,5,20,15,,,,0.00,1.17,1.17,13,4.86,7420,,7420,,,Ferro-Humic Podzol,bf1
+600,NRCS (Michaelson et al. 2013),84AK201008,"Coarse-loamy, mixed Humic Cryorthod",55.786,-133.487,HIGH,NA,NA,NA,Bs2,20,61,41,,,,0.00,1.17,1.17,11,3.34,14260,,14260,,,Ferro-Humic Podzol,bf2
+601,NRCS (Michaelson et al. 2013),84AK201008,"Coarse-loamy, mixed Humic Cryorthod",55.786,-133.487,HIGH,NA,NA,NA,BC,61,114,53,,,,0.00,1.71,1.71,11,3.43,27667,,20358,,,Ferro-Humic Podzol,BC
+602,NRCS (Michaelson et al. 2013),82AK130005,Thixotropic Typic Cryorthod,55.804,-133.283,HIGH,NA,NA,NA,Oe / Oa,8,0,8,168,8,176,0.00,0.12,0.12,0,40.64,3901,82455,3901,631.9,60.06,Humo-Ferric Podzol,Om / Oh
+603,NRCS (Michaelson et al. 2013),82AK130005,Thixotropic Typic Cryorthod,55.804,-133.283,HIGH,NA,NA,NA,E / Bhs,0,8,8,,,,0.00,1.31,1.31,2,16.12,16560,,16560,,,Humo-Ferric Podzol,E / Bhf
+604,NRCS (Michaelson et al. 2013),82AK130005,Thixotropic Typic Cryorthod,55.804,-133.283,HIGH,NA,NA,NA,Bs1,8,43,35,,,,0.00,1.46,1.46,8,4.90,23058,,23058,,,Humo-Ferric Podzol,bf1
+605,NRCS (Michaelson et al. 2013),82AK130005,Thixotropic Typic Cryorthod,55.804,-133.283,HIGH,NA,NA,NA,Bs2,43,69,26,,,,0.00,1.46,1.46,10,3.19,10885,,10885,,,Humo-Ferric Podzol,bf2
+606,NRCS (Michaelson et al. 2013),82AK130005,Thixotropic Typic Cryorthod,55.804,-133.283,HIGH,NA,NA,NA,BC,69,168,99,,,,0.00,1.19,1.19,9,2.62,28051,,8784,,,Humo-Ferric Podzol,BC
+607,NRCS (Michaelson et al. 2013),83AK130011,Thixotropic Typic Cryorthod,55.800,-133.283,HIGH,NA,NA,NA,Oi,30,18,12,99,30,129,0.00,0.08,0.08,0,53.05,5093,115434,5093,1154.3,144.34,Humo-Ferric Podzol,Of
+608,NRCS (Michaelson et al. 2013),83AK130011,Thixotropic Typic Cryorthod,55.800,-133.283,HIGH,NA,NA,NA,Oa,18,0,18,,,,0.00,0.15,0.15,0,55.00,14851,,14851,,,Humo-Ferric Podzol,Oh
+609,NRCS (Michaelson et al. 2013),83AK130011,Thixotropic Typic Cryorthod,55.800,-133.283,HIGH,NA,NA,NA,E,0,7,7,,,,0.00,1.31,1.31,2,4.02,3609,,3609,,,Humo-Ferric Podzol,E
+610,NRCS (Michaelson et al. 2013),83AK130011,Thixotropic Typic Cryorthod,55.800,-133.283,HIGH,NA,NA,NA,Bhs,7,41,34,,,,0.00,1.19,1.19,1,9.00,36044,,36044,,,Humo-Ferric Podzol,Bhf
+611,NRCS (Michaelson et al. 2013),83AK130011,Thixotropic Typic Cryorthod,55.800,-133.283,HIGH,NA,NA,NA,BC,41,99,58,,,,0.00,1.19,1.19,2,8.26,55837,,55837,,,Humo-Ferric Podzol,BC
+612,NRCS (Michaelson et al. 2013),83AK130018,Thixotropic-skeletal Humic Lithic Cryorthod,55.801,-133.300,HIGH,NA,NA,NA,Oe,22,12,10,37,22,59,0.00,0.12,0.12,0,50.52,6063,25978,6063,259.8,76.38,Ferro-Humic Podzol,Om
+613,NRCS (Michaelson et al. 2013),83AK130018,Thixotropic-skeletal Humic Lithic Cryorthod,55.801,-133.300,HIGH,NA,NA,NA,Oa,12,0,12,,,,0.00,0.15,0.15,0,46.06,8292,,8292,,,Ferro-Humic Podzol,Oh
+614,NRCS (Michaelson et al. 2013),83AK130018,Thixotropic-skeletal Humic Lithic Cryorthod,55.801,-133.300,HIGH,NA,NA,NA,E,0,8,8,,,,0.00,0.93,0.93,8,2.47,1692,,1692,,,Ferro-Humic Podzol,E
+615,NRCS (Michaelson et al. 2013),83AK130018,Thixotropic-skeletal Humic Lithic Cryorthod,55.801,-133.300,HIGH,NA,NA,NA,Bhs,8,37,29,,,,0.00,0.86,0.86,16,4.74,9931,,9931,,,Ferro-Humic Podzol,Bhf
+616,NRCS (Michaelson et al. 2013),84AK201009,"Loamy-skeletal, mixed Humic Cryorthod",55.804,-133.579,HIGH,NA,NA,NA,Oa,5,0,5,100,5,105,0.00,0.15,0.15,0,29.14,2186,22380,2186,223.8,26.53,Ferro-Humic Podzol,Oh
+617,NRCS (Michaelson et al. 2013),84AK201009,"Loamy-skeletal, mixed Humic Cryorthod",55.804,-133.579,HIGH,NA,NA,NA,Bhs,0,5,5,,,,0.00,0.86,0.86,36,7.45,2050,,2050,,,Ferro-Humic Podzol,Bhf
+618,NRCS (Michaelson et al. 2013),84AK201009,"Loamy-skeletal, mixed Humic Cryorthod",55.804,-133.579,HIGH,NA,NA,NA,Bs,5,48,43,,,,0.00,1.17,1.17,49,5.05,12957,,12957,,,Ferro-Humic Podzol,bf
+619,NRCS (Michaelson et al. 2013),84AK201009,"Loamy-skeletal, mixed Humic Cryorthod",55.804,-133.579,HIGH,NA,NA,NA,C,48,100,52,,,,0.00,1.74,1.74,79,2.73,5187,,5187,,,Ferro-Humic Podzol,C
+620,NRCS (Michaelson et al. 2013),84AK201010,"Loamy-skeletal, mixed Lithic Cryaquod",55.803,-133.587,HIGH,NA,NA,NA,Oi,3,0,3,33,3,36,0.00,0.08,0.08,,36.67,880,9458,880,94.6,12.15,Humic Podzol,Of
+621,NRCS (Michaelson et al. 2013),84AK201010,"Loamy-skeletal, mixed Lithic Cryaquod",55.803,-133.587,HIGH,NA,NA,NA,Bhs1,0,10,10,,,,0.00,0.86,0.86,11,5.10,3904,,3904,,,Humic Podzol,Bhf1
+622,NRCS (Michaelson et al. 2013),84AK201010,"Loamy-skeletal, mixed Lithic Cryaquod",55.803,-133.587,HIGH,NA,NA,NA,Bhs2,10,23,13,,,,0.00,0.86,0.86,22,5.36,4674,,4674,,,Humic Podzol,Bhf2
+623,NRCS (Michaelson et al. 2013),84AK201010,"Loamy-skeletal, mixed Lithic Cryaquod",55.803,-133.587,HIGH,NA,NA,NA,R,23,33,10,,,,0.00,0,0,,0.00,0,,0,,,Humic Podzol,R
+624,NRCS (Michaelson et al. 2013),83AK130125,Thixotropic Humic Lithic Cryorthod,55.830,-133.325,HIGH,NA,NA,NA,Oa,3,0,3,66,3,69,0.00,0.15,0.15,0,48.95,2203,83035,2203,830.3,56.75,Ferro-Humic Podzol,Oh
+625,NRCS (Michaelson et al. 2013),83AK130125,Thixotropic Humic Lithic Cryorthod,55.830,-133.325,HIGH,NA,NA,NA,Bs,0,22,22,,,,0.00,1.17,1.17,4,6.42,15865,,15865,,,Ferro-Humic Podzol,bf
+626,NRCS (Michaelson et al. 2013),83AK130125,Thixotropic Humic Lithic Cryorthod,55.830,-133.325,HIGH,NA,NA,NA,Bhs,22,40,18,,,,0.00,0.86,0.86,5,6.09,8959,,8959,,,Ferro-Humic Podzol,Bhf
+627,NRCS (Michaelson et al. 2013),83AK130125,Thixotropic Humic Lithic Cryorthod,55.830,-133.325,HIGH,NA,NA,NA,Bh,40,61,21,,,,0.00,1.71,1.71,22,20.00,56007,,56007,,,Ferro-Humic Podzol,Bh
+628,NRCS (Michaelson et al. 2013),83AK130125,Thixotropic Humic Lithic Cryorthod,55.830,-133.325,HIGH,NA,NA,NA,R,61,66,5,,,,0.00,0,0,,0.00,0,,0,,,Ferro-Humic Podzol,R
+629,NRCS (Michaelson et al. 2013),84AK201012,"Coarse-loamy, mixed, frigid Placic Haplaquod",55.817,-133.587,HIGH,NA,NA,NA,Oi,18,13,5,71,18,89,0.00,0.08,0.08,,36.67,1467,28681,1467,286.8,65.18,Humic Podzol,Of
+630,NRCS (Michaelson et al. 2013),84AK201012,"Coarse-loamy, mixed, frigid Placic Haplaquod",55.817,-133.587,HIGH,NA,NA,NA,Oa,13,0,13,,,,0.00,0.15,0.15,,36.07,7033,,7033,,,Humic Podzol,Oh
+631,NRCS (Michaelson et al. 2013),84AK201012,"Coarse-loamy, mixed, frigid Placic Haplaquod",55.817,-133.587,HIGH,NA,NA,NA,E,0,9,9,,,,0.00,0.93,0.93,6,8.87,6979,,6979,,,Humic Podzol,E
+632,NRCS (Michaelson et al. 2013),84AK201012,"Coarse-loamy, mixed, frigid Placic Haplaquod",55.817,-133.587,HIGH,NA,NA,NA,Bhs1,9,20,11,,,,0.00,0.86,0.86,12,6.91,5752,,5752,,,Humic Podzol,Bhf1
+633,NRCS (Michaelson et al. 2013),84AK201012,"Coarse-loamy, mixed, frigid Placic Haplaquod",55.817,-133.587,HIGH,NA,NA,NA,Bhs2,20,36,16,,,,0.00,0.86,0.86,17,2.05,2341,,2341,,,Humic Podzol,Bhf2
+634,NRCS (Michaelson et al. 2013),84AK201012,"Coarse-loamy, mixed, frigid Placic Haplaquod",55.817,-133.587,HIGH,NA,NA,NA,Bsm,36,41,5,,,,0.00,1.17,1.17,14,1.09,548,,548,,,Humic Podzol,bfm
+635,NRCS (Michaelson et al. 2013),84AK201012,"Coarse-loamy, mixed, frigid Placic Haplaquod",55.817,-133.587,HIGH,NA,NA,NA,Cr,41,71,30,,,,0.00,1.74,1.74,9,0.96,4560,,4560,,,Humic Podzol,Cr
+636,NRCS (Michaelson et al. 2013),84AK201002,"Coarse-loamy, mixed Humic Lithic Cryorthod",55.871,-133.167,HIGH,NA,NA,NA,Oi,20,14,6,33,20,53,0.00,0.08,0.08,,36.67,1760,25948,1760,259.5,61.99,Ferro-Humic Podzol,Of
+637,NRCS (Michaelson et al. 2013),84AK201002,"Coarse-loamy, mixed Humic Lithic Cryorthod",55.871,-133.167,HIGH,NA,NA,NA,Oa,14,0,14,,,,0.00,0.15,0.15,17,46.55,8114,,8114,,,Ferro-Humic Podzol,Oh
+638,NRCS (Michaelson et al. 2013),84AK201002,"Coarse-loamy, mixed Humic Lithic Cryorthod",55.871,-133.167,HIGH,NA,NA,NA,Bhs,0,6,6,,,,0.00,0.86,0.86,5,12.12,5941,,5941,,,Ferro-Humic Podzol,Bhf
+639,NRCS (Michaelson et al. 2013),84AK201002,"Coarse-loamy, mixed Humic Lithic Cryorthod",55.871,-133.167,HIGH,NA,NA,NA,Bs,6,33,27,,,,0.00,1.17,1.17,1,3.24,10133,,10133,,,Ferro-Humic Podzol,bf
+640,NRCS (Michaelson et al. 2013),84AK201002,"Coarse-loamy, mixed Humic Lithic Cryorthod",55.871,-133.167,HIGH,NA,NA,NA,R,33,33,0,,,,0.00,0,0,,0.00,0,,0,,,Ferro-Humic Podzol,R
+641,NRCS (Michaelson et al. 2013),83AK130110,Dysic Lithic Cryofolist,55.925,-133.765,HIGH,NA,NA,NA,Oe1,0,5,5,10,17,27,0.00,0.12,0.12,0,50.19,3011,18614,3011,186.1,37.54,Folisol,Om1
+642,NRCS (Michaelson et al. 2013),83AK130110,Dysic Lithic Cryofolist,55.925,-133.765,HIGH,NA,NA,NA,Oe2,5,17,12,,,,0.00,0.12,0.12,0,51.57,7426,,7426,,,Folisol,Om2
+643,NRCS (Michaelson et al. 2013),83AK130110,Dysic Lithic Cryofolist,55.925,-133.765,HIGH,NA,NA,NA,C,17,27,10,,,,0.00,1.74,1.74,8,5.11,8177,,8177,,,Folisol,C
+644,NRCS (Michaelson et al. 2013),83AK130111,Thixotropic Humic Lithic Cryorthod,55.925,-133.765,HIGH,NA,NA,NA,Oe,25,20,5,44,25,69,0.00,0.12,0.12,0,51.68,3101,58309,3101,583.1,110.82,Ferro-Humic Podzol,Om
+645,NRCS (Michaelson et al. 2013),83AK130111,Thixotropic Humic Lithic Cryorthod,55.925,-133.765,HIGH,NA,NA,NA,Oa,20,0,20,,,,0.00,0.15,0.15,0,53.48,16044,,16044,,,Ferro-Humic Podzol,Oh
+646,NRCS (Michaelson et al. 2013),83AK130111,Thixotropic Humic Lithic Cryorthod,55.925,-133.765,HIGH,NA,NA,NA,E,0,5,5,,,,0.00,0.93,0.93,6,5.94,2595,,2595,,,Ferro-Humic Podzol,E
+647,NRCS (Michaelson et al. 2013),83AK130111,Thixotropic Humic Lithic Cryorthod,55.925,-133.765,HIGH,NA,NA,NA,Bs,5,29,24,,,,0.00,1.17,1.17,7,7.35,19187,,19187,,,Ferro-Humic Podzol,bf
+648,NRCS (Michaelson et al. 2013),83AK130111,Thixotropic Humic Lithic Cryorthod,55.925,-133.765,HIGH,NA,NA,NA,Bhs,29,44,15,,,,0.00,0.86,0.86,2,13.75,17381,,17381,,,Ferro-Humic Podzol,Bhf
+649,NRCS (Michaelson et al. 2013),83AK280006,"Loamy-skeletal, mixed Humic Cryorthod",55.924,-132.168,HIGH,NA,NA,NA,O,8,0,8,124,8,132,0.00,0.11,0.11,0,44.74,3937,52592,3937,419.7,57.84,Ferro-Humic Podzol,O
+650,NRCS (Michaelson et al. 2013),83AK280006,"Loamy-skeletal, mixed Humic Cryorthod",55.924,-132.168,HIGH,NA,NA,NA,A,0,3,3,,,,0.00,0.93,0.93,6,5.87,1540,,1540,,,Ferro-Humic Podzol,A
+651,NRCS (Michaelson et al. 2013),83AK280006,"Loamy-skeletal, mixed Humic Cryorthod",55.924,-132.168,HIGH,NA,NA,NA,Bh,3,5,2,,,,0.00,0.86,0.86,16,10.71,1547,,1547,,,Ferro-Humic Podzol,Bh
+652,NRCS (Michaelson et al. 2013),83AK280006,"Loamy-skeletal, mixed Humic Cryorthod",55.924,-132.168,HIGH,NA,NA,NA,Bs1,5,20,15,,,,0.00,1.17,1.17,23,6.14,8298,,8298,,,Ferro-Humic Podzol,bf1
+653,NRCS (Michaelson et al. 2013),83AK280006,"Loamy-skeletal, mixed Humic Cryorthod",55.924,-132.168,HIGH,NA,NA,NA,Bs2,20,64,44,,,,0.00,1.17,1.17,36,3.25,10720,,10720,,,Ferro-Humic Podzol,bf2
+654,NRCS (Michaelson et al. 2013),83AK280006,"Loamy-skeletal, mixed Humic Cryorthod",55.924,-132.168,HIGH,NA,NA,NA,C,64,124,60,,,,0.00,1.74,1.74,40,4.24,26550,,15930,,,Ferro-Humic Podzol,C
+655,NRCS (Michaelson et al. 2013),83AK280008,Dysic Typic Cryosaprist,55.924,-132.167,HIGH,NA,NA,NA,Oi,0,15,15,130,0,130,0.00,0.08,0.08,0,42.79,5135,76193,5135,580.1,182.38,Humisol,Of
+656,NRCS (Michaelson et al. 2013),83AK280008,Dysic Typic Cryosaprist,55.924,-132.167,HIGH,NA,NA,NA,Oa1,15,51,36,,,,0.00,0.15,0.15,0,42.90,23166,,23166,,,Humisol,Oh1
+657,NRCS (Michaelson et al. 2013),83AK280008,Dysic Typic Cryosaprist,55.924,-132.167,HIGH,NA,NA,NA,Oa2,51,130,79,,,,0.00,0.15,0.15,0,40.41,47891,,29705,,,Humisol,Oh2
+658,NRCS (Michaelson et al. 2013),83AK130120,"Fragmental, mixed, dysic Terric Cryosaprist",55.946,-131.142,HIGH,NA,NA,NA,Oa1,0,15,15,117,0,117,0.00,0.15,0.15,0,19.36,4356,8919,4356,89.2,47.91,Humisol,Oh1
+659,NRCS (Michaelson et al. 2013),83AK130120,"Fragmental, mixed, dysic Terric Cryosaprist",55.946,-131.142,HIGH,NA,NA,NA,Oa2,15,35,20,,,,0.00,0.15,0.15,18,11.02,2710,,2710,,,Humisol,Oh2
+660,NRCS (Michaelson et al. 2013),83AK130120,"Fragmental, mixed, dysic Terric Cryosaprist",55.946,-131.142,HIGH,NA,NA,NA,Oa3,35,117,82,,,,0.00,0.15,0.15,56,3.42,1853,,1853,,,Humisol,Oh3
+661,NRCS (Michaelson et al. 2013),83AK130171,Thixotropic over sandy or sandy-skeletal Typic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,O,10,0,10,102,10,112,0.00,0.14,0.14,0,23.23,3252,31894,3252,317.5,38.58,Humo-Ferric Podzol,O
+662,NRCS (Michaelson et al. 2013),83AK130171,Thixotropic over sandy or sandy-skeletal Typic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,1.31,1.31,1,2.49,969,,969,,,Humo-Ferric Podzol,E
+663,NRCS (Michaelson et al. 2013),83AK130171,Thixotropic over sandy or sandy-skeletal Typic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,Bh,3,15,12,,,,0.00,1.19,1.19,11,4.34,5522,,5522,,,Humo-Ferric Podzol,Bh
+664,NRCS (Michaelson et al. 2013),83AK130171,Thixotropic over sandy or sandy-skeletal Typic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,Bhs,15,36,21,,,,0.00,1.19,1.19,23,8.98,17278,,17278,,,Humo-Ferric Podzol,Bhf
+665,NRCS (Michaelson et al. 2013),83AK130171,Thixotropic over sandy or sandy-skeletal Typic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,2C,36,102,66,,,,0.00,1.91,1.91,56,0.88,4873,,4726,,,Humo-Ferric Podzol,2C
+666,NRCS (Michaelson et al. 2013),83AK130172,Thixotropic-skeletal Humic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,Oa,25,0,25,102,25,127,0.00,0.15,0.15,0,31.93,11973,34738,11973,345.0,74.66,Ferro-Humic Podzol,Oh
+667,NRCS (Michaelson et al. 2013),83AK130172,Thixotropic-skeletal Humic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,0.93,0.93,1,3.15,869,,869,,,Ferro-Humic Podzol,E
+668,NRCS (Michaelson et al. 2013),83AK130172,Thixotropic-skeletal Humic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,Bh,3,15,12,,,,0.00,0.86,0.86,13,8.51,7637,,7637,,,Ferro-Humic Podzol,Bh
+669,NRCS (Michaelson et al. 2013),83AK130172,Thixotropic-skeletal Humic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,Bhs,15,51,36,,,,0.00,0.86,0.86,31,3.78,8085,,8085,,,Ferro-Humic Podzol,Bhf
+670,NRCS (Michaelson et al. 2013),83AK130172,Thixotropic-skeletal Humic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,C,51,102,51,,,,0.00,1.74,1.74,45,1.26,6173,,5931,,,Ferro-Humic Podzol,C
+671,NRCS (Michaelson et al. 2013),83AK220138,Thixotropic Typic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,O,5,0,5,102,5,107,0.00,0.14,0.14,0,24.69,1728,45517,1728,447.3,39.05,Humo-Ferric Podzol,O
+672,NRCS (Michaelson et al. 2013),83AK220138,Thixotropic Typic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,1.31,1.31,4,3.56,1344,,1344,,,Humo-Ferric Podzol,E
+673,NRCS (Michaelson et al. 2013),83AK220138,Thixotropic Typic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,Bhs,3,15,12,,,,0.00,1.19,1.19,20,6.65,7600,,7600,,,Humo-Ferric Podzol,Bhf
+674,NRCS (Michaelson et al. 2013),83AK220138,Thixotropic Typic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,Bs,15,41,26,,,,2.07,1.46,2.07,50,4.05,10886,,10886,,,Humo-Ferric Podzol,bf
+675,NRCS (Michaelson et al. 2013),83AK220138,Thixotropic Typic Cryorthod,55.946,-131.142,HIGH,NA,NA,NA,C,41,102,61,,,,0.00,1.91,1.91,41,3.49,23959,,23174,,,Humo-Ferric Podzol,C
+676,NRCS (Michaelson et al. 2013),83AK280009,"Sandy, mixed, dysic Terric Cryohemist",55.933,-132.167,HIGH,NA,NA,NA,Oe1,0,23,23,58,94,152,0.00,0.12,0.12,0,38.83,10717,70354,10717,501.8,170.56,Mesisol,Om1
+677,NRCS (Michaelson et al. 2013),83AK280009,"Sandy, mixed, dysic Terric Cryohemist",55.933,-132.167,HIGH,NA,NA,NA,Oa,23,53,30,,,,0.00,0.15,0.15,0,37.79,17007,,17007,,,Mesisol,Oh
+678,NRCS (Michaelson et al. 2013),83AK280009,"Sandy, mixed, dysic Terric Cryohemist",55.933,-132.167,HIGH,NA,NA,NA,Oe2,53,94,41,,,,0.00,0.12,0.12,0,40.91,20128,,20128,,,Mesisol,Om2
+679,NRCS (Michaelson et al. 2013),83AK280009,"Sandy, mixed, dysic Terric Cryohemist",55.933,-132.167,HIGH,NA,NA,NA,2C,94,152,58,,,,0.00,1.74,1.74,25,2.97,22502,,2328,,,Mesisol,2C
+680,NRCS (Michaelson et al. 2013),83AK130041,Dysic Lithic Cryofolist,55.964,-133.613,HIGH,NA,NA,NA,Oe,0,6,6,6,26,32,0.00,0.12,0.12,0,45.97,3310,29718,3310,297.2,53.57,Folisol,Om
+681,NRCS (Michaelson et al. 2013),83AK130041,Dysic Lithic Cryofolist,55.964,-133.613,HIGH,NA,NA,NA,Oa,6,26,20,,,,0.00,0.15,0.15,0,39.99,11997,,11997,,,Folisol,Oh
+682,NRCS (Michaelson et al. 2013),83AK130041,Dysic Lithic Cryofolist,55.964,-133.613,HIGH,NA,NA,NA,BC,26,32,6,,,,0.00,1.71,1.71,13,16.14,14411,,14411,,,Folisol,BC
+683,NRCS (Michaelson et al. 2013),83AK130042,Typic Cryofolist,55.964,-133.613,HIGH,NA,NA,NA,Oe,0,10,10,37,84,121,0.00,0.12,0.12,0,48.33,5800,197880,5800,713.9,160.23,Folisol,Om
+684,NRCS (Michaelson et al. 2013),83AK130042,Typic Cryofolist,55.964,-133.613,HIGH,NA,NA,NA,Oa1,10,41,31,,,,0.00,0.15,0.15,0,48.12,22374,,22374,,,Folisol,Oh1
+685,NRCS (Michaelson et al. 2013),83AK130042,Typic Cryofolist,55.964,-133.613,HIGH,NA,NA,NA,Oa2,41,84,43,,,,0.00,0.15,0.15,0,29.51,19036,,19036,,,Folisol,Oh2
+686,NRCS (Michaelson et al. 2013),83AK130042,Typic Cryofolist,55.964,-133.613,HIGH,NA,NA,NA,BC,84,121,37,,,,0.00,1.71,1.71,1,8.93,55922,,24183,,,Folisol,BC
+687,NRCS (Michaelson et al. 2013),83AK130043,"Loamy-skeletal, mixed Cryorthidic Arent",55.964,-133.613,HIGH,NA,NA,NA,Oe,25,21,4,44,25,69,0.00,0.12,0.12,0,52.01,2497,62164,2497,590.5,96.72,Humic Regosol,Om
+688,NRCS (Michaelson et al. 2013),83AK130043,"Loamy-skeletal, mixed Cryorthidic Arent",55.964,-133.613,HIGH,NA,NA,NA,Oa,21,0,21,,,,0.00,0.15,0.15,0,35.23,11098,,11098,,,Humic Regosol,Oh
+689,NRCS (Michaelson et al. 2013),83AK130043,"Loamy-skeletal, mixed Cryorthidic Arent",55.964,-133.613,HIGH,NA,NA,NA,BC,0,44,44,,,,0.00,1.1,1.1,5,9.89,45459,,45459,,,Humic Regosol,BC
+690,NRCS (Michaelson et al. 2013),83AK130044,Thixotropic Humic Cryorthod,55.964,-133.613,HIGH,NA,NA,NA,Oe1,26,21,5,87,26,113,0.00,0.12,0.12,0,51.84,3110,77769,3110,777.7,122.47,Ferro-Humic Podzol,Om1
+691,NRCS (Michaelson et al. 2013),83AK130044,Thixotropic Humic Cryorthod,55.964,-133.613,HIGH,NA,NA,NA,Oe2,21,14,7,,,,0.00,0.12,0.12,0,64.54,5422,,5422,,,Ferro-Humic Podzol,Om2
+692,NRCS (Michaelson et al. 2013),83AK130044,Thixotropic Humic Cryorthod,55.964,-133.613,HIGH,NA,NA,NA,Oa,14,0,14,,,,0.00,0.15,0.15,0,52.18,10957,,10957,,,Ferro-Humic Podzol,Oh
+693,NRCS (Michaelson et al. 2013),83AK130044,Thixotropic Humic Cryorthod,55.964,-133.613,HIGH,NA,NA,NA,E / Bhs,0,20,20,,,,0.00,0.86,0.86,3,9.71,16205,,16205,,,Ferro-Humic Podzol,E / Bhf
+694,NRCS (Michaelson et al. 2013),83AK130044,Thixotropic Humic Cryorthod,55.964,-133.613,HIGH,NA,NA,NA,Bs,20,57,37,,,,0.00,1.17,1.17,11,5.25,20236,,20236,,,Ferro-Humic Podzol,bf
+695,NRCS (Michaelson et al. 2013),83AK130044,Thixotropic Humic Cryorthod,55.964,-133.613,HIGH,NA,NA,NA,BC,57,87,30,,,,0.00,1.71,1.71,27,5.83,21839,,21839,,,Ferro-Humic Podzol,BC
+696,NRCS (Michaelson et al. 2013),83AK130113,Dysic Typic Cryofolist,55.963,-133.603,HIGH,NA,NA,NA,Oe,0,6,6,9,63,72,0.00,0.12,0.12,0,50.50,3636,74643,3636,746.4,130.33,Folisol,Om
+697,NRCS (Michaelson et al. 2013),83AK130113,Dysic Typic Cryofolist,55.963,-133.603,HIGH,NA,NA,NA,Oa1,6,56,50,,,,0.00,0.15,0.15,0,51.67,38750,,38750,,,Folisol,Oh1
+698,NRCS (Michaelson et al. 2013),83AK130113,Dysic Typic Cryofolist,55.963,-133.603,HIGH,NA,NA,NA,Oa2,56,63,7,,,,0.00,0.15,0.15,0,37.14,3899,,3899,,,Folisol,Oh2
+699,NRCS (Michaelson et al. 2013),83AK130113,Dysic Typic Cryofolist,55.963,-133.603,HIGH,NA,NA,NA,BC,63,72,9,,,,0.00,1.71,1.71,2,18.80,28357,,28357,,,Folisol,BC
+700,NRCS (Michaelson et al. 2013),83AK130114,"Coarse-loamy, mixed Typic Cryorthod",55.963,-133.603,HIGH,NA,NA,NA,Oe,10,6,4,118,10,128,0.00,0.12,0.12,0,44.01,2112,52149,2112,505.3,60.35,Humo-Ferric Podzol,Om
+701,NRCS (Michaelson et al. 2013),83AK130114,"Coarse-loamy, mixed Typic Cryorthod",55.963,-133.603,HIGH,NA,NA,NA,Oa,6,0,6,,,,0.00,0.15,0.15,0,44.49,4004,,4004,,,Humo-Ferric Podzol,Oh
+702,NRCS (Michaelson et al. 2013),83AK130114,"Coarse-loamy, mixed Typic Cryorthod",55.963,-133.603,HIGH,NA,NA,NA,B / Bs,0,16,16,,,,0.00,1.46,1.46,2,8.85,20268,,20268,,,Humo-Ferric Podzol,B / bf
+703,NRCS (Michaelson et al. 2013),83AK130114,"Coarse-loamy, mixed Typic Cryorthod",55.963,-133.603,HIGH,NA,NA,NA,BC,16,68,52,,,,0.00,1.19,1.19,0,3.44,21269,,21269,,,Humo-Ferric Podzol,BC
+704,NRCS (Michaelson et al. 2013),83AK130114,"Coarse-loamy, mixed Typic Cryorthod",55.963,-133.603,HIGH,NA,NA,NA,2C,68,118,50,,,,0.00,1.91,1.91,35,0.72,4495,,2877,,,Humo-Ferric Podzol,2C
+705,NRCS (Michaelson et al. 2013),83AK130116,"Loamy-skeletal, mixed Cryic Fragiorthod",55.963,-133.603,HIGH,NA,NA,NA,Oe,18,13,5,97,18,115,0.00,0.12,0.12,0,38.36,2302,39037,2302,390.4,76.86,Humo-Ferric Podzol,Om
+706,NRCS (Michaelson et al. 2013),83AK130116,"Loamy-skeletal, mixed Cryic Fragiorthod",55.963,-133.603,HIGH,NA,NA,NA,Oi,13,0,13,,,,0.00,0.08,0.08,0,60.62,6305,,6305,,,Humo-Ferric Podzol,Of
+707,NRCS (Michaelson et al. 2013),83AK130116,"Loamy-skeletal, mixed Cryic Fragiorthod",55.963,-133.603,HIGH,NA,NA,NA,E,0,3,3,,,,0.00,1.31,1.31,8,9.61,3473,,3473,,,Humo-Ferric Podzol,E
+708,NRCS (Michaelson et al. 2013),83AK130116,"Loamy-skeletal, mixed Cryic Fragiorthod",55.963,-133.603,HIGH,NA,NA,NA,Bhs,3,22,19,,,,0.00,1.19,1.19,36,7.79,11275,,11275,,,Humo-Ferric Podzol,Bhf
+709,NRCS (Michaelson et al. 2013),83AK130116,"Loamy-skeletal, mixed Cryic Fragiorthod",55.963,-133.603,HIGH,NA,NA,NA,BC,22,45,23,,,,0.00,1.19,1.19,38,4.39,7455,,7455,,,Humo-Ferric Podzol,BC
+710,NRCS (Michaelson et al. 2013),83AK130116,"Loamy-skeletal, mixed Cryic Fragiorthod",55.963,-133.603,HIGH,NA,NA,NA,C,45,97,52,,,,0.00,1.91,1.91,34,1.26,8228,,8228,,,Humo-Ferric Podzol,C
+711,NRCS (Michaelson et al. 2013),83AK130162,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,Oe / Oa,6,0,6,82,6,88,0.00,0.12,0.12,0,46.23,3328,53028,3328,530.3,47.88,Humo-Ferric Podzol,Om / Oh
+712,NRCS (Michaelson et al. 2013),83AK130162,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,Bs1,0,17,17,,,,0.00,1.46,1.46,13,6.53,14094,,14094,,,Humo-Ferric Podzol,bf1
+713,NRCS (Michaelson et al. 2013),83AK130162,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,Bs / E,17,25,8,,,,0.00,1.46,1.46,8,9.83,10562,,10562,,,Humo-Ferric Podzol,bf / E
+714,NRCS (Michaelson et al. 2013),83AK130162,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,Bs2,25,36,11,,,,0.00,1.46,1.46,16,4.26,5744,,5744,,,Humo-Ferric Podzol,bf2
+715,NRCS (Michaelson et al. 2013),83AK130162,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,CB,36,82,46,,,,0.00,1.91,1.91,21,2.78,19300,,19300,,,Humo-Ferric Podzol,CB
+716,NRCS (Michaelson et al. 2013),83AK130163,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,Oe / Oa,8,0,8,88,8,96,0.00,0.12,0.12,0,39.18,3761,53814,3761,538.1,54.05,Humo-Ferric Podzol,Om / Oh
+717,NRCS (Michaelson et al. 2013),83AK130163,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,Bhs / Bs,0,29,29,,,,0.00,1.19,1.19,18,10.06,28469,,28469,,,Humo-Ferric Podzol,Bhf / bf
+718,NRCS (Michaelson et al. 2013),83AK130163,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,C,29,88,59,,,,0.00,1.91,1.91,17,2.31,21583,,21583,,,Humo-Ferric Podzol,C
+719,NRCS (Michaelson et al. 2013),83AK130164,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,Oe,4,0,4,88,4,92,0.00,0.12,0.12,0,44.92,2156,53362,2156,533.6,43.28,Humo-Ferric Podzol,Om
+720,NRCS (Michaelson et al. 2013),83AK130164,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,Bs / Oa,0,14,14,,,,0.00,1.46,1.46,17,9.18,15577,,15577,,,Humo-Ferric Podzol,bf / Oh
+721,NRCS (Michaelson et al. 2013),83AK130164,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,EB,14,19,5,,,,0.00,1.31,1.31,6,6.30,3882,,3882,,,Humo-Ferric Podzol,EB
+722,NRCS (Michaelson et al. 2013),83AK130164,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,Bs,19,34,15,,,,0.00,1.46,1.46,17,5.87,10670,,10670,,,Humo-Ferric Podzol,bf
+723,NRCS (Michaelson et al. 2013),83AK130164,Thixotropic Typic Cryorthod,55.967,-133.613,HIGH,NA,NA,NA,CB,34,88,54,,,,0.00,1.91,1.91,17,2.46,21076,,21076,,,Humo-Ferric Podzol,CB
+724,NRCS (Michaelson et al. 2013),83AK130153,Thixotropic Humic Lithic Cryorthod,55.996,-133.463,HIGH,NA,NA,NA,Oe,11,5,6,22,11,33,0.00,0.12,0.12,0,49.60,3571,38420,3571,384.2,59.41,Ferro-Humic Podzol,Om
+725,NRCS (Michaelson et al. 2013),83AK130153,Thixotropic Humic Lithic Cryorthod,55.996,-133.463,HIGH,NA,NA,NA,Oa,5,0,5,,,,0.00,0.15,0.15,0,47.61,3571,,3571,,,Ferro-Humic Podzol,Oh
+726,NRCS (Michaelson et al. 2013),83AK130153,Thixotropic Humic Lithic Cryorthod,55.996,-133.463,HIGH,NA,NA,NA,E,0,4,4,,,,0.00,0.93,0.93,3,9.93,3585,,3585,,,Ferro-Humic Podzol,E
+727,NRCS (Michaelson et al. 2013),83AK130153,Thixotropic Humic Lithic Cryorthod,55.996,-133.463,HIGH,NA,NA,NA,Bh,4,22,18,,,,0.00,0.86,0.86,8,19.45,27693,,27693,,,Ferro-Humic Podzol,Bh
+728,NRCS (Michaelson et al. 2013),83AK130145,"Loamy-skeletal, mixed Typic Fragiaquept",54.875,-132.964,HIGH,NA,NA,NA,Oe,10,0,10,102,10,112,0.00,0.13,0.13,0,16.11,2095,16044,2095,158.8,24.78,Dystric Brunisol,Om
+729,NRCS (Michaelson et al. 2013),83AK130145,"Loamy-skeletal, mixed Typic Fragiaquept",54.875,-132.964,HIGH,NA,NA,NA,C,0,36,36,,,,0.00,1.38,1.38,7,1.83,8460,,8460,,,Dystric Brunisol,C
+730,NRCS (Michaelson et al. 2013),83AK130145,"Loamy-skeletal, mixed Typic Fragiaquept",54.875,-132.964,HIGH,NA,NA,NA,Cr,36,102,66,,,,0.00,1.38,1.38,11,0.68,5490,,5323,,,Dystric Brunisol,Cr
+731,NRCS (Michaelson et al. 2013),83AK130154,Thixotropic-skeletal Typic Cryaquod,54.875,-132.964,HIGH,NA,NA,NA,O,8,0,8,104,8,112,0.00,0.11,0.11,0,28.74,2529,14956,2529,146.9,30.48,Humic Podzol,O
+732,NRCS (Michaelson et al. 2013),83AK130154,Thixotropic-skeletal Typic Cryaquod,54.875,-132.964,HIGH,NA,NA,NA,Bhs1,0,16,16,,,,0.00,0.86,0.86,8,3.94,4987,,4987,,,Humic Podzol,Bhf1
+733,NRCS (Michaelson et al. 2013),83AK130154,Thixotropic-skeletal Typic Cryaquod,54.875,-132.964,HIGH,NA,NA,NA,Bhs2,16,41,25,,,,0.00,0.86,0.86,20,1.92,3305,,3305,,,Humic Podzol,Bhf2
+734,NRCS (Michaelson et al. 2013),83AK130154,Thixotropic-skeletal Typic Cryaquod,54.875,-132.964,HIGH,NA,NA,NA,Bs,41,104,63,,,,0.00,1.17,1.17,30,0.80,4135,,3872,,,Humic Podzol,bf
+735,NRCS (Michaelson et al. 2013),83AK130155,Thixotropic Humic Cryorthod,54.875,-132.964,HIGH,NA,NA,NA,O,5,0,5,100,5,105,0.00,0.11,0.11,0,15.58,857,38732,857,387.3,47.20,Ferro-Humic Podzol,O
+736,NRCS (Michaelson et al. 2013),83AK130155,Thixotropic Humic Cryorthod,54.875,-132.964,HIGH,NA,NA,NA,Bhs1,0,26,26,,,,0.00,0.86,0.86,3,6.60,14324,,14324,,,Ferro-Humic Podzol,Bhf1
+737,NRCS (Michaelson et al. 2013),83AK130155,Thixotropic Humic Cryorthod,54.875,-132.964,HIGH,NA,NA,NA,Bhs2,26,58,32,,,,0.00,0.86,0.86,3,5.14,13711,,13711,,,Ferro-Humic Podzol,Bhf2
+738,NRCS (Michaelson et al. 2013),83AK130155,Thixotropic Humic Cryorthod,54.875,-132.964,HIGH,NA,NA,NA,Bs,58,100,42,,,,0.00,1.17,1.17,7,2.15,9840,,9840,,,Ferro-Humic Podzol,bf
+739,NRCS (Michaelson et al. 2013),83AK130156,Thixotropic-skeletal Cryic Fragiaquod,54.875,-132.864,HIGH,NA,NA,NA,O,8,0,8,102,8,110,0.00,0.11,0.11,0,25.81,2271,28151,2271,279.9,42.31,Humic Podzol,O
+740,NRCS (Michaelson et al. 2013),83AK130156,Thixotropic-skeletal Cryic Fragiaquod,54.875,-132.864,HIGH,NA,NA,NA,Bhs1,0,15,15,,,,0.00,0.86,0.86,2,9.01,11388,,11388,,,Humic Podzol,Bhf1
+741,NRCS (Michaelson et al. 2013),83AK130156,Thixotropic-skeletal Cryic Fragiaquod,54.875,-132.864,HIGH,NA,NA,NA,Bhs2,15,51,36,,,,0.00,0.86,0.86,10,3.70,10304,,10304,,,Humic Podzol,Bhf2
+742,NRCS (Michaelson et al. 2013),83AK130156,Thixotropic-skeletal Cryic Fragiaquod,54.875,-132.864,HIGH,NA,NA,NA,Cr,51,102,51,,,,0.00,1.74,1.74,6,0.50,4188,,4024,,,Humic Podzol,Cr
+743,NRCS (Michaelson et al. 2013),84AK130153,Thixotropic-skeletal Cryic Fragiaquod,54.875,-132.964,HIGH,NA,NA,NA,O,5,0,5,102,5,107,0.00,0.11,0.11,0,17.00,935,28370,935,282.4,36.52,Humic Podzol,O
+744,NRCS (Michaelson et al. 2013),84AK130153,Thixotropic-skeletal Cryic Fragiaquod,54.875,-132.964,HIGH,NA,NA,NA,Bhs1,0,10,10,,,,0.00,0.86,0.86,14,1.71,1264,,1264,,,Humic Podzol,Bhf1
+745,NRCS (Michaelson et al. 2013),84AK130153,Thixotropic-skeletal Cryic Fragiaquod,54.875,-132.964,HIGH,NA,NA,NA,Bhs2,10,51,41,,,,0.00,0.86,0.86,3,6.67,22818,,22818,,,Humic Podzol,Bhf2
+746,NRCS (Michaelson et al. 2013),84AK130153,Thixotropic-skeletal Cryic Fragiaquod,54.875,-132.964,HIGH,NA,NA,NA,Cr,51,102,51,,,,0.00,1.74,1.74,9,0.42,3353,,3221,,,Humic Podzol,Cr
+747,NRCS (Michaelson et al. 2013),83AK280140,Thixotropic Typic Cryaquod,54.892,-132.858,HIGH,NA,NA,NA,O,20,0,20,150,20,170,0.00,0.11,0.11,0,32.87,7230,26894,7230,268.9,56.66,Humic Podzol,O
+748,NRCS (Michaelson et al. 2013),83AK280140,Thixotropic Typic Cryaquod,54.892,-132.858,HIGH,NA,NA,NA,E,0,1,1,,,,0.00,0.93,0.93,3,2.63,237,,237,,,Humic Podzol,E
+749,NRCS (Michaelson et al. 2013),83AK280140,Thixotropic Typic Cryaquod,54.892,-132.858,HIGH,NA,NA,NA,Bhs,1,18,17,,,,0.00,0.86,0.86,3,2.73,3875,,3875,,,Humic Podzol,Bhf
+750,NRCS (Michaelson et al. 2013),83AK280140,Thixotropic Typic Cryaquod,54.892,-132.858,HIGH,NA,NA,NA,By,18,55,37,,,,0.00,1.71,1.71,5,1.39,8357,,8357,,,Humic Podzol,By
+751,NRCS (Michaelson et al. 2013),83AK280140,Thixotropic Typic Cryaquod,54.892,-132.858,HIGH,NA,NA,NA,C,55,150,95,,,,0.00,1.74,1.74,8,0.47,7195,,7195,,,Humic Podzol,C
+752,NRCS (Michaelson et al. 2013),83AK130141,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,O,3,0,3,76,3,79,0.00,0.11,0.11,,37.79,1247,30864,1247,308.6,31.18,Ferro-Humic Podzol,O
+753,NRCS (Michaelson et al. 2013),83AK130141,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,Bhs,0,10,10,,,,0.00,0.86,0.86,1,4.76,4053,,4053,,,Ferro-Humic Podzol,Bhf
+754,NRCS (Michaelson et al. 2013),83AK130141,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,Bs,10,46,36,,,,0.00,1.17,1.17,6,2.39,9480,,9480,,,Ferro-Humic Podzol,bf
+755,NRCS (Michaelson et al. 2013),83AK130141,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,C,46,76,30,,,,0.00,1.74,1.74,3,3.18,16084,,16084,,,Ferro-Humic Podzol,C
+756,NRCS (Michaelson et al. 2013),83AK130141,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,R,76,76,0,,,,0.00,0,0,,0.00,0,,0,,,Ferro-Humic Podzol,R
+757,NRCS (Michaelson et al. 2013),83AK130149,"Coarse-loamy, mixed Humic Cryorthod",54.937,-132.933,HIGH,NA,NA,NA,O,8,0,8,76,8,84,0.00,0.11,0.11,0,30.43,2677,25093,2677,250.9,27.99,Ferro-Humic Podzol,O
+758,NRCS (Michaelson et al. 2013),83AK130149,"Coarse-loamy, mixed Humic Cryorthod",54.937,-132.933,HIGH,NA,NA,NA,Bh,0,13,13,,,,0.00,0.86,0.86,2,2.83,3105,,3105,,,Ferro-Humic Podzol,Bh
+759,NRCS (Michaelson et al. 2013),83AK130149,"Coarse-loamy, mixed Humic Cryorthod",54.937,-132.933,HIGH,NA,NA,NA,BC,13,51,38,,,,0.00,1.71,1.71,3,2.21,13913,,13913,,,Ferro-Humic Podzol,BC
+760,NRCS (Michaelson et al. 2013),83AK130149,"Coarse-loamy, mixed Humic Cryorthod",54.937,-132.933,HIGH,NA,NA,NA,C,51,76,25,,,,0.00,1.74,1.74,3,1.28,5398,,5398,,,Ferro-Humic Podzol,C
+761,NRCS (Michaelson et al. 2013),83AK130150,"Coarse-loamy, mixed Typic Cryorthod",54.937,-132.933,HIGH,NA,NA,NA,O,2,0,2,102,2,104,0.00,0.14,0.14,0,15.13,424,36487,424,357.3,28.67,Humo-Ferric Podzol,O
+762,NRCS (Michaelson et al. 2013),83AK130150,"Coarse-loamy, mixed Typic Cryorthod",54.937,-132.933,HIGH,NA,NA,NA,Bhs1,0,13,13,,,,0.00,1.19,1.19,8,3.67,5222,,5222,,,Humo-Ferric Podzol,Bhf1
+763,NRCS (Michaelson et al. 2013),83AK130150,"Coarse-loamy, mixed Typic Cryorthod",54.937,-132.933,HIGH,NA,NA,NA,Bhs2,13,46,33,,,,0.00,1.19,1.19,5,2.61,9725,,9725,,,Humo-Ferric Podzol,Bhf2
+764,NRCS (Michaelson et al. 2013),83AK130150,"Coarse-loamy, mixed Typic Cryorthod",54.937,-132.933,HIGH,NA,NA,NA,C,46,102,56,,,,0.00,1.91,1.91,4,2.06,21117,,20362,,,Humo-Ferric Podzol,C
+765,NRCS (Michaelson et al. 2013),83AK130151,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,O,5,0,5,102,5,107,0.00,0.11,0.11,0,29.58,1627,27282,1627,270.1,33.21,Ferro-Humic Podzol,O
+766,NRCS (Michaelson et al. 2013),83AK130151,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,Bhs,0,20,20,,,,0.00,0.86,0.86,3,4.02,6701,,6701,,,Ferro-Humic Podzol,Bhf
+767,NRCS (Michaelson et al. 2013),83AK130151,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,Bs,20,53,33,,,,0.00,1.17,1.17,22,2.81,8461,,8461,,,Ferro-Humic Podzol,bf
+768,NRCS (Michaelson et al. 2013),83AK130151,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,BC,53,76,23,,,,0.00,1.71,1.71,27,2.11,6071,,6071,,,Ferro-Humic Podzol,BC
+769,NRCS (Michaelson et al. 2013),83AK130151,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,C1,76,89,13,,,,0.00,1.74,1.74,21,1.50,2674,,2674,,,Ferro-Humic Podzol,C1
+770,NRCS (Michaelson et al. 2013),83AK130151,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,C2,89,102,13,,,,0.00,1.74,1.74,20,0.97,1747,,1478,,,Ferro-Humic Podzol,C2
+771,NRCS (Michaelson et al. 2013),83AK130152,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,O,8,0,8,89,8,97,0.00,0.11,0.11,0,16.48,1450,22574,1450,225.7,32.11,Ferro-Humic Podzol,O
+772,NRCS (Michaelson et al. 2013),83AK130152,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,Bhs1,0,20,20,,,,0.00,0.86,0.86,11,3.76,5749,,5749,,,Ferro-Humic Podzol,Bhf1
+773,NRCS (Michaelson et al. 2013),83AK130152,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,Bhs2,20,48,28,,,,0.00,0.86,0.86,11,2.61,5587,,5587,,,Ferro-Humic Podzol,Bhf2
+774,NRCS (Michaelson et al. 2013),83AK130152,Thixotropic Humic Cryorthod,54.937,-132.933,HIGH,NA,NA,NA,C,48,89,41,,,,0.00,1.74,1.74,2,1.40,9788,,9788,,,Ferro-Humic Podzol,C
+775,NRCS (Michaelson et al. 2013),83AK280139,Thixotropic-skeletal Humic Cryorthod,54.937,-132.992,HIGH,NA,NA,NA,O,8,0,8,102,8,110,0.00,0.11,0.11,0,20.62,1815,18766,1815,184.0,29.26,Ferro-Humic Podzol,O
+776,NRCS (Michaelson et al. 2013),83AK280139,Thixotropic-skeletal Humic Cryorthod,54.937,-132.992,HIGH,NA,NA,NA,Bhs,0,61,61,,,,0.00,0.86,0.86,22,2.29,9363,,9363,,,Ferro-Humic Podzol,Bhf
+777,NRCS (Michaelson et al. 2013),83AK280139,Thixotropic-skeletal Humic Cryorthod,54.937,-132.992,HIGH,NA,NA,NA,C,61,102,41,,,,0.00,1.74,1.74,19,1.31,7588,,7218,,,Ferro-Humic Podzol,C
