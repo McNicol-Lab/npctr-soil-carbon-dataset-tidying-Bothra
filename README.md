@@ -13,8 +13,4 @@ The original and updated dataset and soil organic carbon map are available via a
 
 # Repository Structure
 code: contains the cleaning script used to tidy the data
-data: contains both the raw and cleaned data
-  raw: original raw data from 2018
-    csv: csv of each of the individual datasets
-    xlsx: xlsx of each of the individual datasets, the variable key, and the full database
-  output: csv of the master, pedon, horizon and summary table along with xlsx of the cleaned, full database
+data: contains both the raw and cleaned data in csv and xlsx format
