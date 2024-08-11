@@ -209,7 +209,7 @@ carbon.loc[carbon['cconc_method'].isnull(), 'cconc_method'] = 0
 carbon['bd_method'] = carbon['bd_method'].replace('Measured', 0)
 carbon['bd_method'] = carbon['bd_method'].replace('Estimated', 1)
 carbon.loc[carbon['bulk density_meas'] == 0, 'bd_method'] = 1
-carbon.loc[carbon['source'] == 'BEC (Meidinger and Pojar, 1991)', 'bd_method'] = 1 #needs to be confirmed
+carbon.loc[carbon['source'] == 'BEC (Meidinger and Pojar, 1991)', 'bd_method'] = 1
 carbon.loc[carbon['bd_method'].isnull(), 'bd_method'] = 0
 
 # 4. drops columns
