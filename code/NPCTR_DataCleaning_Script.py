@@ -125,7 +125,7 @@ def generateSummaryTable(df):
 
     # creates subset df with summary data
     summary = df.copy()
-    summary.drop(columns={'horizon_type', 'depth1', 'depth2', 'depth', 'latlon_q', 'mineral_d', 'ff_d', 'total_d', 'bulk_density', 'bd_method', 'cf', 'cf_method', 'cconc', 'cconc_method', 'pedon_start'}, inplace=True)
+    summary.drop(columns={'horizon_type', 'depth1', 'depth2', 'depth', 'mineral_d', 'ff_d', 'total_d', 'bulk_density', 'bd_method', 'cf', 'cf_method', 'cconc', 'cconc_method', 'pedon_start'}, inplace=True)
     return summary 
 
 # import all data
@@ -228,6 +228,7 @@ carbon.loc[carbon.pedon_id.isin(high_quality), 'latlon_q'] = "HIGH"
 # 3. calculate ccontent_1m
 # 4. calculate total_carbon_1m
 # 5. round calculations
+# 6. fills in NA for null values in object columns
 
 # 1. ccontent
 carbon['ccontent'] = round((carbon['cconc']/100)*carbon['bulk_density']*carbon['depth']*((100-carbon['cf'])/100)*10000)
@@ -260,7 +261,10 @@ carbon.loc[~carbon['pedon_start'], 'total_c_1m'] = np.nan
 carbon[['total_c_1m', 'total_c']]=carbon[['total_c_1m', 'total_c']].round(2)
 carbon[['bd_method', 'cf_method', 'cconc_method']] = carbon[['bd_method', 'cf_method', 'cconc_method']].astype(int)
 
-#save and export data
+#6. fills in null
+string_columns = carbon.select_dtypes(include=['object'])
+carbon[string_columns.columns] = string_columns.fillna('NA')
+
 # 1. reorder columns
 # 2. export master table to csv
 # 3. export pedon table to csv
