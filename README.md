@@ -2,6 +2,8 @@
 
 Access this dataset on Dryad: <https://doi.org/10.5061/dryad.5jf6j1r>
 
+This README.md and the main database `McNicoletal-2024-NPCTR-Pedon-SOC-Database.xlsx` was substantially updated in August 2024 by [Aarin Bothra](https://github.com/AarinBothra). 
+
 This database compiles pedon data and soil organic carbon stock data (ca. 1300 soil profile descriptions) from various sources across coastal British Columbia and southeast Alaska. 
 
 ## Description of the data and file structure
